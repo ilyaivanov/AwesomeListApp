@@ -1,3 +1,5 @@
+### Circle CI status ![ci-status](https://circleci.com/gh/ilyaivanov/AwesomeListApp.png?circle-token=44aac7759de8560e97ee68c478d2e9c680622b0f)
+
 ### Overview
 There exist tons of online knowledge captured in metalist. Would be great to have a mobile app to access all this distributed information offline. Mark some lists as favorites from the mobile and keep track of what's new is comming.
 
