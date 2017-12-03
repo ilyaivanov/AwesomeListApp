@@ -9,11 +9,10 @@ const USE_REAL_API = false;
 const url = 'https://api.github.com/repos/sindresorhus/awesome/readme';
 
 const tokensPath = 'data/parsed/awesome.ts';
-const modelsPath = 'data/models/awesome.ts';
 
 const decode = (response: string, encoding: string) => new Buffer(response, encoding).toString('ascii');
 
-const stringify = (obj: any) => JSON.stringify(obj, null, 2);
+export const stringify = (obj: any) => JSON.stringify(obj, null, 2);
 
 export const createRepository = (tokens: Token[]): Repository => {
   const home = parseHeader(tokens);
@@ -45,12 +44,4 @@ const updateTokens = (): Promise<Token[]> =>
 
 const sampleTokens = (): Promise<Token[]> => Promise.resolve(tokens as any);
 
-const getTokens = (): Promise<Token[]> => USE_REAL_API ? updateTokens() : sampleTokens();
-
-getTokens()
-  .then((tokens) => {
-    const repository = createRepository(tokens);
-    const sectionFormatted = `export default ${stringify(repository)}`;
-    fs.writeFileSync(modelsPath, sectionFormatted);
-    console.log(`Done writing to ${modelsPath}`);
-  });
+export const getTokens = (): Promise<Token[]> => USE_REAL_API ? updateTokens() : sampleTokens();
