@@ -1,21 +1,26 @@
 import * as React from 'react';
 import {FlatList, StyleSheet, Text, TouchableOpacity, View} from 'react-native';
-import models from '../data/models/awesome';
+import repository from '../data/models/awesome';
+import {navigate} from '../data/models/navigation';
 import {Link} from "../types";
+import {getLinkFromNav} from "./App";
 
-const Item = ({title}: { title: string }) => <TouchableOpacity style={s.item}>
+const Item = ({title, onPress}: { title: string, onPress: any }) => <TouchableOpacity style={s.item} onPress={onPress}>
   <View style={s.sampleIcon}/>
   <Text>{title}</Text>
 </TouchableOpacity>;
 
-export default () => <View style={s.container}>
-  <FlatList
-    keyExtractor={item => item.title}
-    data={models.links}
-    renderItem={({item}: { item: Link }) => <Item title={item.title}/>}
-  />
-</View>;
-
+export default (props: any) => {
+  const section = navigate(repository, getLinkFromNav(props.navigation));
+  return <View style={s.container}>
+    <FlatList
+      keyExtractor={item => item.title}
+      data={section.links}
+      renderItem={({item}: { item: Link }) => <Item title={item.title}
+                                                    onPress={() => props.navigation.navigate('Home', {link: item.link})}/>}
+    />
+  </View>;
+}
 
 const s = StyleSheet.create({
   container: {
