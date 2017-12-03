@@ -4,6 +4,7 @@ import repository from '../data/models/awesome';
 import {navigate} from '../data/models/navigation';
 import {Link} from "../types";
 import {getLinkFromNav} from "./App";
+import {isLocalLink} from "../data/utils";
 
 const Item = ({title, onPress}: { title: string, onPress: any }) => <TouchableOpacity style={s.item} onPress={onPress}>
   <View style={s.sampleIcon}/>
@@ -17,7 +18,7 @@ export default (props: any) => {
       keyExtractor={item => item.link}
       data={section.links}
       renderItem={({item}: { item: Link }) => <Item title={item.title}
-                                                    onPress={() => props.navigation.navigate('Home', {link: item.link})}/>}
+                                                    onPress={() => isLocalLink(item.link) ? props.navigation.navigate('Home', {link: item.link}) : undefined}/>}
     />
   </View>;
 }
