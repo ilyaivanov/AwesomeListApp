@@ -10,3 +10,8 @@ export interface Link {
   subtitle: string,
   link: string,
 }
+
+export interface Repository {
+  home: Section,
+  sections: Section[],
+}

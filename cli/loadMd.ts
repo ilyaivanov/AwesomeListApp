@@ -1,9 +1,13 @@
 import fetch from 'node-fetch'
 import * as fs from 'fs'
 import {parse} from "./parseMd";
-import {parseHeader} from "./parseTokens";
+import {parseHeader, parseLocalSection} from "./parseTokens";
+import {Repository, Token} from "../types";
+import tokens from '../data/parsed/awesome';
 
+const USE_REAL_API = false;
 const url = 'https://api.github.com/repos/sindresorhus/awesome/readme';
+
 const tokensPath = 'data/parsed/awesome.ts';
 const modelsPath = 'data/models/awesome.ts';
 
@@ -11,26 +15,42 @@ const decode = (response: string, encoding: string) => new Buffer(response, enco
 
 const stringify = (obj: any) => JSON.stringify(obj, null, 2);
 
+export const createRepository = (tokens: Token[]): Repository => {
+  const home = parseHeader(tokens);
+  return {
+    home,
+    sections: home.links.map(link => parseLocalSection(tokens, link.link))
+  };
+};
 
-fetch(url)
-  .then(res => res.json())
-  .then(response => decode(response.content, response.encoding))
-  .then(function (md) {
-    console.log(`Downloaded md from ${url}. Length: ${md.length} chars.`);
-    console.log(`Sample: ${md.slice(0, 50)}...`);
+const updateTokens = (): Promise<Token[]> =>
+  fetch(url)
+    .then(res => res.json())
+    .then(response => decode(response.content, response.encoding))
+    .then(function (md) {
+      console.log(`Downloaded md from ${url}. Length: ${md.length} chars.`);
+      console.log(`Sample: ${md.slice(0, 50)}...`);
 
-    const tokens = parse(md);
+      const tokens = parse(md);
 
-    console.log(`Parsed ${tokens.length} tokens`);
+      console.log(`Parsed ${tokens.length} tokens`);
 
-    const formattedTokens = `export default ${stringify(tokens)};`;
+      const formattedTokens = `export default ${stringify(tokens)};`;
 
-    fs.writeFileSync(tokensPath, formattedTokens);
+      fs.writeFileSync(tokensPath, formattedTokens);
 
-    console.log(`Done writing to ${tokensPath}`);
+      console.log(`Done writing to ${tokensPath}`);
+      return tokens;
+    });
 
-    const section = parseHeader(tokens);
-    const sectionFormatted = `export default ${stringify(section)}`;
+const sampleTokens = (): Promise<Token[]> => Promise.resolve(tokens as any);
+
+const getTokens = (): Promise<Token[]> => USE_REAL_API ? updateTokens() : sampleTokens();
+
+getTokens()
+  .then((tokens) => {
+    const repository = createRepository(tokens);
+    const sectionFormatted = `export default ${stringify(repository)}`;
     fs.writeFileSync(modelsPath, sectionFormatted);
     console.log(`Done writing to ${modelsPath}`);
   });
