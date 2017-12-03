@@ -1,4 +1,4 @@
-import {findIndex} from 'lodash';
+import {findIndex, find} from 'lodash';
 import {Link, Section, Token} from '../types';
 import {normalizeTitle, validateNonEmpty} from "../data/utils";
 
@@ -14,7 +14,6 @@ const parseLink = (token: Token) => {
   return validated.attrs[0][1];
 };
 
-
 const createLink = (token: Token): Link => ({
   title: mapTitle(token),
   subtitle: '',
@@ -22,15 +21,15 @@ const createLink = (token: Token): Link => ({
   level: Math.min(token.level - 3, 1)
 });
 
+
 const parseSection = (tokens: Token[], startIndex: number): Section => {
-  const endParagraphIndex = findIndex(tokens.slice(startIndex), token => token.type === 'heading_close') + startIndex + 2;
-  const res = tokens.slice(startIndex, endParagraphIndex);
-  const nextParagraph = findIndex(tokens.slice(endParagraphIndex + 1), token => token.type === 'heading_open') + endParagraphIndex + 2;
-  const contentTokens = tokens.slice(endParagraphIndex, nextParagraph).filter(t => t.type === 'inline');
-  const inlined = res.find(token => token.type === 'inline');
+  const endParagraphIndex = findIndex(tokens.slice(startIndex), token => token.type === 'heading_close') + startIndex;
+  const nextParagraph = findIndex(tokens.slice(endParagraphIndex + 1), token => token.type === 'heading_open') + endParagraphIndex;
+  const headerToken = find(tokens, token => token.type === 'inline', startIndex);
+  const linkTokens = tokens.slice(endParagraphIndex, nextParagraph).filter(t => t.type === 'inline');
   return {
-    title: inlined ? inlined.content : 'Unknown',
-    links: contentTokens.map(createLink),
+    title: headerToken ? headerToken.content : 'Unknown',
+    links: linkTokens.map(createLink),
   };
 };
 
