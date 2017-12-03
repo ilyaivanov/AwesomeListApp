@@ -12,12 +12,12 @@ Source consists mainly of two parts:
 - mobile application, written in react-native.
 
 ### Structure
-- cli (command-line entry points to parse github markdown into tokens and ui models)
-- data (placeholder for all original and parsed data)
+- cli - command-line entry points to parse github markdown into tokens and ui models
+- data - folder for all original and parsed data
    - md - initial data from github (used mostly for unit test, consistency validation, metrics)
    - parsed - parsed markdown into tokens (used for unit test)
    - models - ui models used from the mobile app
-- mobile (mobile app in react-native)
+- mobile - mobile app in react-native
 - types.ts - types for the whole app
 - index.js - entry point for the mobile app
 
