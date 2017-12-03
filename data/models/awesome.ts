@@ -1,6 +1,6 @@
 export default {
   "home": {
-    "title": "Contents",
+    "title": "Awesome List",
     "links": [
       {
         "title": "Platforms",

@@ -42,5 +42,8 @@ export const parseLocalSection = (tokens: Token[], localLink: string): Section =
 
 export const parseHeader = (tokens: Token[]): Section => {
   const startIndex = findIndex(tokens, token => token.type === 'heading_open');
-  return parseSection(tokens as any, startIndex);
+  return {
+    ...parseSection(tokens as any, startIndex),
+    title: 'Awesome List',
+  };
 };

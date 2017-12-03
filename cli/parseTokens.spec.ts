@@ -9,8 +9,8 @@ describe('Parsing a header from an awesome root', () => {
     section = parseHeader(tokens as any);
   });
 
-  it('should have title as Contents', function () {
-    expect(section.title).toBe('Contents');
+  it('should have title as Awesome List', function () {
+    expect(section.title).toBe('Awesome List');
   });
 
   it('should have 22 links', function () {
