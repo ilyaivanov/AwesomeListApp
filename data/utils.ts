@@ -12,3 +12,5 @@ export function validateNonEmpty<T>(value: T | undefined | null, message: string
     return value;
   }
 };
+
+export const normalizeTitle = (text: string) => '#' + text.toLowerCase().replace(/ /g, '-');

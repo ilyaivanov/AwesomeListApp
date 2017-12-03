@@ -1,6 +1,6 @@
 import {findIndex} from 'lodash';
 import {Link, Section, Token} from '../types';
-import {validateNonEmpty} from "./utils";
+import {normalizeTitle, validateNonEmpty} from "../data/utils";
 
 const mapTitle = (token: Token) => {
   const textToken = token.children.find(x => x.type === 'text');
@@ -13,7 +13,6 @@ const parseLink = (token: Token) => {
   const validated = validateNonEmpty(linkToken, 'Could not find link_open token in ');
   return validated.attrs[0][1];
 };
-export const normalizeTitle = (text: string) => '#' + text.toLowerCase().replace(/ /g, '-');
 
 const createLink = (token: Token): Link => ({title: mapTitle(token), subtitle: '', link: parseLink(token)});
 
