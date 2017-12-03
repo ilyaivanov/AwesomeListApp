@@ -21,14 +21,14 @@ Source consists mainly of two parts:
 - index.js - entry point for the mobile app
 
 ### Commands
-- **yarn run awesome** creates parsed tokens from the markdown.
+- **yarn run load** to fetch, parse and save remote github awesome lists. Products of this command are committed into VCS for simplicity.
 
 ### Notes
-Everything is commited into VCS, even cli products. Not the best practice, but makes unit testing on CI easier.
+Tokens will always be committed, since I don't have control over remove md files. If I won't commit them, I don't have reliable build. Parsed data might be ignored in the future.
 
 ### Brief Roadmap for the AwesomeList app
 
-☐ **v0.1** Initial spike to test full cycle
+☑ **v0.1** Initial spike to test full cycle
 
 ☐ **v0.2** Add 2st level of navigation for one simple list.
 
