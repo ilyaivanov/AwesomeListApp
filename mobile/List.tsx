@@ -14,7 +14,7 @@ export default (props: any) => {
   const section = navigate(repository, getLinkFromNav(props.navigation));
   return <View style={s.container}>
     <FlatList
-      keyExtractor={item => item.title}
+      keyExtractor={item => item.link}
       data={section.links}
       renderItem={({item}: { item: Link }) => <Item title={item.title}
                                                     onPress={() => props.navigation.navigate('Home', {link: item.link})}/>}
