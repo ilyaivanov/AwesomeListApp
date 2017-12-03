@@ -6,7 +6,14 @@ import {Link} from "../types";
 import {getLinkFromNav} from "./App";
 import {isLocalLink} from "../data/utils";
 
-const Item = ({title, onPress}: { title: string, onPress: any }) => <TouchableOpacity style={s.item} onPress={onPress}>
+interface Props {
+  title: string;
+  level: number;
+  onPress: any;
+}
+
+const Item = ({title, level, onPress}: Props) => <TouchableOpacity style={[s.item, {paddingLeft: level * 20}]}
+                                                                   onPress={onPress}>
   <View style={s.sampleIcon}/>
   <Text>{title}</Text>
 </TouchableOpacity>;
@@ -17,7 +24,7 @@ export default (props: any) => {
     <FlatList
       keyExtractor={item => item.link}
       data={section.links}
-      renderItem={({item}: { item: Link }) => <Item title={item.title}
+      renderItem={({item}: { item: Link }) => <Item {...item}
                                                     onPress={() => isLocalLink(item.link) ? props.navigation.navigate('Home', {link: item.link}) : undefined}/>}
     />
   </View>;

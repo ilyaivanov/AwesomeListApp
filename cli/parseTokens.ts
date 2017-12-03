@@ -14,7 +14,13 @@ const parseLink = (token: Token) => {
   return validated.attrs[0][1];
 };
 
-const createLink = (token: Token): Link => ({title: mapTitle(token), subtitle: '', link: parseLink(token)});
+
+const createLink = (token: Token): Link => ({
+  title: mapTitle(token),
+  subtitle: '',
+  link: parseLink(token),
+  level: Math.min(token.level - 3, 1)
+});
 
 const parseSection = (tokens: Token[], startIndex: number): Section => {
   const endParagraphIndex = findIndex(tokens.slice(startIndex), token => token.type === 'heading_close') + startIndex + 2;
