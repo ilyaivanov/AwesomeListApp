@@ -65,9 +65,14 @@ describe('Parsing Work section, which has nested links', () => {
   it('should have Communities as second link', () => {
     expect(workSection.links[1].title).toBe('Communities');
   });
+
   it('should set nesting levels correctly', function () {
     expect(workSection.links[0].level).toBe(0);
     expect(workSection.links[1].level).toBe(1);
+  });
+
+  it('should set subtitles for first reference', function () {
+    expect(workSection.links[0].subtitle).toBe('Team collaboration.');
   });
 });
 

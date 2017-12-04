@@ -148,7 +148,7 @@ export default {
       "links": [
         {
           "title": "Node.js",
-          "subtitle": "",
+          "subtitle": "JavaScript runtime built on Chrome’s V8 JavaScript engine.",
           "link": "https://github.com/sindresorhus/awesome-nodejs",
           "level": 0
         },
@@ -160,7 +160,7 @@ export default {
         },
         {
           "title": "iOS",
-          "subtitle": "",
+          "subtitle": "Mobile operating system for Apple phones and tablets.",
           "link": "https://github.com/vsouza/awesome-ios",
           "level": 0
         },
@@ -178,13 +178,13 @@ export default {
         },
         {
           "title": "Electron",
-          "subtitle": "",
+          "subtitle": "Cross-platform native desktop apps using JavaScript/HTML/CSS.",
           "link": "https://github.com/sindresorhus/awesome-electron",
           "level": 0
         },
         {
           "title": "Cordova",
-          "subtitle": "",
+          "subtitle": "JavaScript API for hybrid apps.",
           "link": "https://github.com/busterc/awesome-cordova",
           "level": 0
         },
@@ -196,7 +196,7 @@ export default {
         },
         {
           "title": "Xamarin",
-          "subtitle": "",
+          "subtitle": "Mobile app development IDE, testing, and distribution.",
           "link": "https://github.com/benoitjadinon/awesome-xamarin",
           "level": 0
         },
@@ -232,7 +232,7 @@ export default {
         },
         {
           "title": "watchOS",
-          "subtitle": "",
+          "subtitle": "Operating system for the Apple Watch.",
           "link": "https://github.com/yenchenlin/awesome-watchos",
           "level": 0
         },
@@ -262,55 +262,55 @@ export default {
         },
         {
           "title": "IPFS",
-          "subtitle": "",
+          "subtitle": "P2P hypermedia protocol.",
           "link": "https://github.com/ipfs/awesome-ipfs",
           "level": 0
         },
         {
           "title": "Fuse",
-          "subtitle": "",
+          "subtitle": "Mobile development tools.",
           "link": "https://github.com/vinkla/awesome-fuse",
           "level": 0
         },
         {
           "title": "Heroku",
-          "subtitle": "",
+          "subtitle": "Cloud platform as a service.",
           "link": "https://github.com/ianstormtaylor/awesome-heroku",
           "level": 0
         },
         {
           "title": "Raspberry Pi",
-          "subtitle": "",
+          "subtitle": "Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.",
           "link": "https://github.com/thibmaek/awesome-raspberry-pi",
           "level": 0
         },
         {
           "title": "Qt",
-          "subtitle": "",
+          "subtitle": "Cross-platform GUI app framework.",
           "link": "https://github.com/JesseTG/awesome-qt",
           "level": 0
         },
         {
           "title": "WebExtensions",
-          "subtitle": "",
+          "subtitle": "Cross-browser extension system.",
           "link": "https://github.com/bfred-it/Awesome-WebExtensions",
           "level": 0
         },
         {
           "title": "RubyMotion",
-          "subtitle": "",
+          "subtitle": "Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.",
           "link": "https://github.com/motion-open-source/awesome-rubymotion",
           "level": 0
         },
         {
           "title": "Smart TV",
-          "subtitle": "",
+          "subtitle": "Create apps for different TV platforms.",
           "link": "https://github.com/vitalets/awesome-smart-tv",
           "level": 0
         },
         {
           "title": "GNOME",
-          "subtitle": "",
+          "subtitle": "Simple and distraction-free desktop environment for Linux.",
           "link": "https://github.com/Kazhnuz/awesome-gnome",
           "level": 0
         }
@@ -333,7 +333,7 @@ export default {
         },
         {
           "title": "Standard Style",
-          "subtitle": "",
+          "subtitle": "Style guide and linter.",
           "link": "https://github.com/standard/awesome-standard",
           "level": 1
         },
@@ -363,31 +363,31 @@ export default {
         },
         {
           "title": "Mad Science npm Packages",
-          "subtitle": "",
+          "subtitle": "Impossible sounding projects that exist.",
           "link": "https://github.com/feross/awesome-mad-science",
           "level": 1
         },
         {
           "title": "Maintenance Modules",
-          "subtitle": "",
+          "subtitle": "For npm packages.",
           "link": "https://github.com/maxogden/maintenance-modules",
           "level": 1
         },
         {
           "title": "npm",
-          "subtitle": "",
+          "subtitle": "Package manager.",
           "link": "https://github.com/sindresorhus/awesome-npm",
           "level": 1
         },
         {
           "title": "AVA",
-          "subtitle": "",
+          "subtitle": "Test runner.",
           "link": "https://github.com/avajs/awesome-ava",
           "level": 1
         },
         {
           "title": "ESLint",
-          "subtitle": "",
+          "subtitle": "Linter.",
           "link": "https://github.com/dustinspecker/awesome-eslint",
           "level": 1
         },
@@ -405,7 +405,7 @@ export default {
         },
         {
           "title": "npm scripts",
-          "subtitle": "",
+          "subtitle": "Task runner.",
           "link": "https://github.com/RyanZim/awesome-npm-scripts",
           "level": 1
         },
@@ -435,13 +435,13 @@ export default {
         },
         {
           "title": "Asyncio",
-          "subtitle": "",
+          "subtitle": "Asynchronous I/O in Python 3.",
           "link": "https://github.com/timofurrer/awesome-asyncio",
           "level": 1
         },
         {
           "title": "Scientific Audio",
-          "subtitle": "",
+          "subtitle": "Scientific research in audio/music.",
           "link": "https://github.com/faroit/awesome-python-scientific-audio",
           "level": 1
         },
@@ -633,7 +633,7 @@ export default {
         },
         {
           "title": "Composer",
-          "subtitle": "",
+          "subtitle": "Package manager.",
           "link": "https://github.com/jakoch/awesome-composer",
           "level": 1
         },
@@ -669,31 +669,31 @@ export default {
         },
         {
           "title": "Frege",
-          "subtitle": "",
+          "subtitle": "Haskell for the JVM.",
           "link": "https://github.com/sfischer13/awesome-frege",
           "level": 0
         },
         {
           "title": "CMake",
-          "subtitle": "",
+          "subtitle": "Build, test, and package software.",
           "link": "https://github.com/onqtam/awesome-cmake",
           "level": 0
         },
         {
           "title": "ActionScript 3",
-          "subtitle": "",
+          "subtitle": "Object-oriented language targeting Adobe AIR.",
           "link": "https://github.com/robinrodricks/awesome-actionscript3",
           "level": 0
         },
         {
           "title": "Eta",
-          "subtitle": "",
+          "subtitle": "Functional programming language for the JVM.",
           "link": "https://github.com/sfischer13/awesome-eta",
           "level": 0
         },
         {
           "title": "Idris",
-          "subtitle": "",
+          "subtitle": "General purpose pure functional programming language with dependent types influenced by Haskell and ML.",
           "link": "https://github.com/joaomilho/awesome-idris",
           "level": 0
         }
@@ -752,13 +752,13 @@ export default {
         },
         {
           "title": "React",
-          "subtitle": "",
+          "subtitle": "App framework.",
           "link": "https://github.com/enaqx/awesome-react",
           "level": 0
         },
         {
           "title": "Relay",
-          "subtitle": "",
+          "subtitle": "Framework for building data-driven React apps.",
           "link": "https://github.com/expede/awesome-relay",
           "level": 1
         },
@@ -770,31 +770,31 @@ export default {
         },
         {
           "title": "Polymer",
-          "subtitle": "",
+          "subtitle": "JavaScript library to develop Web Components.",
           "link": "https://github.com/Granze/awesome-polymer",
           "level": 0
         },
         {
           "title": "Angular",
-          "subtitle": "",
+          "subtitle": "App framework.",
           "link": "https://github.com/gdi2290/awesome-angular",
           "level": 0
         },
         {
           "title": "Backbone",
-          "subtitle": "",
+          "subtitle": "App framework.",
           "link": "https://github.com/sadcitizen/awesome-backbone",
           "level": 0
         },
         {
           "title": "HTML5",
-          "subtitle": "",
+          "subtitle": "Markup language used for websites & web apps.",
           "link": "https://github.com/diegocard/awesome-html5",
           "level": 0
         },
         {
           "title": "SVG",
-          "subtitle": "",
+          "subtitle": "XML-based vector image format.",
           "link": "https://github.com/willianjusten/awesome-svg",
           "level": 0
         },
@@ -824,7 +824,7 @@ export default {
         },
         {
           "title": "Ember",
-          "subtitle": "",
+          "subtitle": "App framework.",
           "link": "https://github.com/nmec/awesome-ember",
           "level": 0
         },
@@ -878,7 +878,7 @@ export default {
         },
         {
           "title": "D3",
-          "subtitle": "",
+          "subtitle": "Library for producing dynamic, interactive data visualizations.",
           "link": "https://github.com/wbkd/awesome-d3",
           "level": 0
         },
@@ -890,7 +890,7 @@ export default {
         },
         {
           "title": "jQuery",
-          "subtitle": "",
+          "subtitle": "Easy to use JavaScript library for DOM manipulation.",
           "link": "https://github.com/petk/awesome-jquery",
           "level": 0
         },
@@ -920,13 +920,13 @@ export default {
         },
         {
           "title": "A-Frame VR",
-          "subtitle": "",
+          "subtitle": "Virtual reality for web browsers.",
           "link": "https://github.com/aframevr/awesome-aframe",
           "level": 0
         },
         {
           "title": "Cycle.js",
-          "subtitle": "",
+          "subtitle": "Functional and reactive JavaScript framework.",
           "link": "https://github.com/cyclejs-community/awesome-cyclejs",
           "level": 0
         },
@@ -944,19 +944,19 @@ export default {
         },
         {
           "title": "Vue.js",
-          "subtitle": "",
+          "subtitle": "App framework.",
           "link": "https://github.com/vuejs/awesome-vue",
           "level": 0
         },
         {
           "title": "Marionette.js",
-          "subtitle": "",
+          "subtitle": "App framework.",
           "link": "https://github.com/sadcitizen/awesome-marionette",
           "level": 0
         },
         {
           "title": "Aurelia",
-          "subtitle": "",
+          "subtitle": "App framework.",
           "link": "https://github.com/behzad888/awesome-aurelia",
           "level": 0
         },
@@ -980,13 +980,13 @@ export default {
         },
         {
           "title": "PostCSS",
-          "subtitle": "",
+          "subtitle": "CSS preprocessor.",
           "link": "https://github.com/jjaderg/awesome-postcss",
           "level": 0
         },
         {
           "title": "Draft.js",
-          "subtitle": "",
+          "subtitle": "Rich text editor framework for React.",
           "link": "https://github.com/nikgraf/awesome-draft-js",
           "level": 0
         },
@@ -1004,55 +1004,55 @@ export default {
         },
         {
           "title": "choo",
-          "subtitle": "",
+          "subtitle": "App framework.",
           "link": "https://github.com/YerkoPalma/awesome-choo",
           "level": 0
         },
         {
           "title": "Redux",
-          "subtitle": "",
+          "subtitle": "State container for JavaScript apps.",
           "link": "https://github.com/brillout/awesome-redux",
           "level": 0
         },
         {
           "title": "webpack",
-          "subtitle": "",
+          "subtitle": "Module bundler.",
           "link": "https://github.com/webpack-contrib/awesome-webpack",
           "level": 0
         },
         {
           "title": "Browserify",
-          "subtitle": "",
+          "subtitle": "Module bundler.",
           "link": "https://github.com/ungoldman/awesome-browserify",
           "level": 0
         },
         {
           "title": "Sass",
-          "subtitle": "",
+          "subtitle": "CSS preprocessor.",
           "link": "https://github.com/Famolus/awesome-sass",
           "level": 0
         },
         {
           "title": "Ant Design",
-          "subtitle": "",
+          "subtitle": "Enterprise-class UI design language.",
           "link": "https://github.com/websemantics/awesome-ant-design",
           "level": 0
         },
         {
           "title": "Less",
-          "subtitle": "",
+          "subtitle": "CSS preprocessor.",
           "link": "https://github.com/LucasBassetti/awesome-less",
           "level": 0
         },
         {
           "title": "WebGL",
-          "subtitle": "",
+          "subtitle": "JavaScript API for rendering 3D graphics.",
           "link": "https://github.com/sjfricke/awesome-webgl",
           "level": 0
         },
         {
           "title": "Preact",
-          "subtitle": "",
+          "subtitle": "App framework.",
           "link": "https://github.com/ooade/awesome-preact",
           "level": 0
         },
@@ -1064,13 +1064,13 @@ export default {
         },
         {
           "title": "Next.js",
-          "subtitle": "",
+          "subtitle": "Framework for server-rendered React apps.",
           "link": "https://github.com/unicodeveloper/awesome-nextjs",
           "level": 0
         },
         {
           "title": "Hyperapp",
-          "subtitle": "",
+          "subtitle": "Tiny JavaScript library for building web apps.",
           "link": "https://github.com/hyperapp/awesome-hyperapp",
           "level": 0
         }
@@ -1117,7 +1117,7 @@ export default {
         },
         {
           "title": "CakePHP",
-          "subtitle": "",
+          "subtitle": "PHP framework.",
           "link": "https://github.com/friendsofcake/awesome-cakephp",
           "level": 0
         },
@@ -1135,7 +1135,7 @@ export default {
         },
         {
           "title": "Laravel",
-          "subtitle": "",
+          "subtitle": "PHP framework.",
           "link": "https://github.com/chiraggude/awesome-laravel",
           "level": 0
         },
@@ -1147,13 +1147,13 @@ export default {
         },
         {
           "title": "Rails",
-          "subtitle": "",
+          "subtitle": "Web app framework for Ruby.",
           "link": "https://github.com/ekremkaraca/awesome-rails",
           "level": 0
         },
         {
           "title": "Gems",
-          "subtitle": "",
+          "subtitle": "Packages.",
           "link": "https://github.com/hothero/awesome-rails-gem",
           "level": 1
         },
@@ -1165,13 +1165,13 @@ export default {
         },
         {
           "title": "Useful ",
-          "subtitle": "",
+          "subtitle": "Snippets",
           "link": "https://github.com/phanan/htaccess",
           "level": 0
         },
         {
           "title": "nginx",
-          "subtitle": "",
+          "subtitle": "Web server.",
           "link": "https://github.com/fcambus/nginx-resources",
           "level": 0
         },
@@ -1201,13 +1201,13 @@ export default {
         },
         {
           "title": "Apache Wicket",
-          "subtitle": "",
+          "subtitle": "Java web app framework.",
           "link": "https://github.com/PhantomYdn/awesome-wicket",
           "level": 0
         },
         {
           "title": "Vert.x",
-          "subtitle": "",
+          "subtitle": "Toolkit for building reactive apps on the JVM.",
           "link": "https://github.com/vert-x3/vertx-awesome",
           "level": 0
         }
@@ -1248,13 +1248,13 @@ export default {
         },
         {
           "title": "ML with Ruby",
-          "subtitle": "",
+          "subtitle": "Learning, implementing, and applying Machine Learning using Ruby.",
           "link": "https://github.com/arbox/machine-learning-with-ruby",
           "level": 1
         },
         {
           "title": "Core ML Models",
-          "subtitle": "",
+          "subtitle": "Models for Apple’s machine learning framework.",
           "link": "https://github.com/likedan/Awesome-CoreML-Models",
           "level": 1
         },
@@ -1296,19 +1296,19 @@ export default {
         },
         {
           "title": "Deep Learning",
-          "subtitle": "",
+          "subtitle": "Neural networks.",
           "link": "https://github.com/ChristosChristofidis/awesome-deep-learning",
           "level": 0
         },
         {
           "title": "TensorFlow",
-          "subtitle": "",
+          "subtitle": "Library for machine intelligence.",
           "link": "https://github.com/jtoy/awesome-tensorflow",
           "level": 1
         },
         {
           "title": "Papers",
-          "subtitle": "",
+          "subtitle": "The most cited deep learning papers.",
           "link": "https://github.com/terryum/awesome-deep-learning-papers",
           "level": 1
         },
@@ -1344,7 +1344,7 @@ export default {
         },
         {
           "title": "Information Retrieval",
-          "subtitle": "",
+          "subtitle": "Learn to develop your own search engine.",
           "link": "https://github.com/harpribot/awesome-information-retrieval",
           "level": 0
         }
@@ -1367,7 +1367,7 @@ export default {
         },
         {
           "title": "Hadoop",
-          "subtitle": "",
+          "subtitle": "Framework for distributed storage and processing of very large data sets.",
           "link": "https://github.com/youngwookim/awesome-hadoop",
           "level": 0
         },
@@ -1385,7 +1385,7 @@ export default {
         },
         {
           "title": "Apache Spark",
-          "subtitle": "",
+          "subtitle": "Unified engine for large-scale data processing.",
           "link": "https://github.com/awesome-spark/awesome-spark",
           "level": 0
         }
@@ -1444,7 +1444,7 @@ export default {
         },
         {
           "title": "Recursion Schemes",
-          "subtitle": "",
+          "subtitle": "Traversing nested data structures.",
           "link": "https://github.com/passy/awesome-recursion-schemes",
           "level": 0
         }
@@ -1520,13 +1520,13 @@ export default {
         },
         {
           "title": "Atom",
-          "subtitle": "",
+          "subtitle": "Open-source and hackable text editor.",
           "link": "https://github.com/mehcode/awesome-atom",
           "level": 0
         },
         {
           "title": "Visual Studio Code",
-          "subtitle": "",
+          "subtitle": "Cross-platform open-source text editor.",
           "link": "https://github.com/viatsko/awesome-vscode",
           "level": 0
         }
@@ -1549,7 +1549,7 @@ export default {
         },
         {
           "title": "Godot",
-          "subtitle": "",
+          "subtitle": "Game engine.",
           "link": "https://github.com/Calinou/awesome-godot",
           "level": 0
         },
@@ -1561,7 +1561,7 @@ export default {
         },
         {
           "title": "Unity",
-          "subtitle": "",
+          "subtitle": "Game engine.",
           "link": "https://github.com/RyanNielson/awesome-unity",
           "level": 0
         },
@@ -1573,13 +1573,13 @@ export default {
         },
         {
           "title": "LC\u0016VE",
-          "subtitle": "",
+          "subtitle": "Game engine.",
           "link": "https://github.com/love2d-community/awesome-love2d",
           "level": 0
         },
         {
           "title": "PICO-8",
-          "subtitle": "",
+          "subtitle": "Fantasy console.",
           "link": "https://github.com/felipebueno/awesome-PICO-8",
           "level": 0
         },
@@ -1591,13 +1591,13 @@ export default {
         },
         {
           "title": "Construct 2",
-          "subtitle": "",
+          "subtitle": "Game engine.",
           "link": "https://github.com/armaldio/awesome-construct",
           "level": 0
         },
         {
           "title": "Gideros",
-          "subtitle": "",
+          "subtitle": "Game engine.",
           "link": "https://github.com/stetso/awesome-gideros",
           "level": 0
         }
@@ -1608,7 +1608,7 @@ export default {
       "links": [
         {
           "title": "Quick Look Plugins",
-          "subtitle": "",
+          "subtitle": "For macOS.",
           "link": "https://github.com/sindresorhus/quick-look-plugins",
           "level": 0
         },
@@ -1632,7 +1632,7 @@ export default {
         },
         {
           "title": "Fish",
-          "subtitle": "",
+          "subtitle": "User-friendly shell.",
           "link": "https://github.com/jbucaran/awesome-fish",
           "level": 0
         },
@@ -1650,7 +1650,7 @@ export default {
         },
         {
           "title": "GitHub",
-          "subtitle": "",
+          "subtitle": "Hosting service for Git repositories.",
           "link": "https://github.com/phillipadsmith/awesome-github",
           "level": 0
         },
@@ -1680,7 +1680,7 @@ export default {
         },
         {
           "title": "Git Add-ons",
-          "subtitle": "",
+          "subtitle": "Enhance the",
           "link": "https://github.com/stevemao/awesome-git-addons",
           "level": 0
         },
@@ -1698,19 +1698,19 @@ export default {
         },
         {
           "title": "Hyper",
-          "subtitle": "",
+          "subtitle": "Cross-platform terminal app built on web technologies.",
           "link": "https://github.com/bnb/awesome-hyper",
           "level": 0
         },
         {
           "title": "PowerShell",
-          "subtitle": "",
+          "subtitle": "Cross-platform object-oriented shell.",
           "link": "https://github.com/janikvonrotz/awesome-powershell",
           "level": 0
         },
         {
           "title": "Alfred Workflows",
-          "subtitle": "",
+          "subtitle": "Productivity app for macOS.",
           "link": "https://github.com/derimagia/awesome-alfred-workflows",
           "level": 0
         },
@@ -1727,7 +1727,7 @@ export default {
       "links": [
         {
           "title": "Science Fiction",
-          "subtitle": "",
+          "subtitle": "Scifi.",
           "link": "https://github.com/sindresorhus/awesome-scifi",
           "level": 0
         },
@@ -1792,7 +1792,7 @@ export default {
         },
         {
           "title": "MongoDB",
-          "subtitle": "",
+          "subtitle": "NoSQL database.",
           "link": "https://github.com/ramnes/awesome-mongodb",
           "level": 0
         },
@@ -1804,25 +1804,25 @@ export default {
         },
         {
           "title": "TinkerPop",
-          "subtitle": "",
+          "subtitle": "Graph computing framework.",
           "link": "https://github.com/mohataher/awesome-tinkerpop",
           "level": 0
         },
         {
           "title": "PostgreSQL",
-          "subtitle": "",
+          "subtitle": "Object-relational database.",
           "link": "https://github.com/dhamaniasad/awesome-postgres",
           "level": 0
         },
         {
           "title": "CouchDB",
-          "subtitle": "",
+          "subtitle": "Document-oriented NoSQL database.",
           "link": "https://github.com/quangv/awesome-couchdb",
           "level": 0
         },
         {
           "title": "HBase",
-          "subtitle": "",
+          "subtitle": "Distributed, scalable, big data store.",
           "link": "https://github.com/rayokota/awesome-hbase",
           "level": 0
         }
@@ -1845,7 +1845,7 @@ export default {
         },
         {
           "title": "Codeface",
-          "subtitle": "",
+          "subtitle": "Text editor fonts.",
           "link": "https://github.com/chrissimpkins/codeface",
           "level": 0
         },
@@ -1857,7 +1857,7 @@ export default {
         },
         {
           "title": "GIF",
-          "subtitle": "",
+          "subtitle": "Image format known for animated images.",
           "link": "https://github.com/davisonio/awesome-gif",
           "level": 0
         },
@@ -1887,7 +1887,7 @@ export default {
         },
         {
           "title": "Pixel Art",
-          "subtitle": "",
+          "subtitle": "Pixel-level digital art.",
           "link": "https://github.com/Siilwyn/awesome-pixel-art",
           "level": 0
         }
@@ -1898,7 +1898,7 @@ export default {
       "links": [
         {
           "title": "CLI Workshoppers",
-          "subtitle": "",
+          "subtitle": "Interactive tutorials.",
           "link": "https://github.com/therebelrobot/awesome-workshopper",
           "level": 0
         },
@@ -1940,7 +1940,7 @@ export default {
         },
         {
           "title": "Educational Games",
-          "subtitle": "",
+          "subtitle": "Learn while playing.",
           "link": "https://github.com/yrgo/awesome-eg",
           "level": 0
         },
@@ -1969,7 +1969,7 @@ export default {
         },
         {
           "title": "CTF",
-          "subtitle": "",
+          "subtitle": "Capture The Flag.",
           "link": "https://github.com/apsdehal/awesome-ctf",
           "level": 0
         },
@@ -1993,7 +1993,7 @@ export default {
         },
         {
           "title": "Honeypots",
-          "subtitle": "",
+          "subtitle": "Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.",
           "link": "https://github.com/paralax/awesome-honeypots",
           "level": 0
         },
@@ -2011,13 +2011,13 @@ export default {
         },
         {
           "title": "Web Security",
-          "subtitle": "",
+          "subtitle": "Security of web apps & services.",
           "link": "https://github.com/qazbnm456/awesome-web-security",
           "level": 0
         },
         {
           "title": "Lockpicking",
-          "subtitle": "",
+          "subtitle": "The art of unlocking a lock by manipulating its components without the key.",
           "link": "https://github.com/meitar/awesome-lockpicking",
           "level": 0
         }
@@ -2034,31 +2034,31 @@ export default {
         },
         {
           "title": "Refinery CMS",
-          "subtitle": "",
+          "subtitle": "Ruby on Rails CMS.",
           "link": "https://github.com/refinerycms-contrib/awesome-refinerycms",
           "level": 0
         },
         {
           "title": "Wagtail",
-          "subtitle": "",
+          "subtitle": "B Django CMS focused on flexibility and user experience.",
           "link": "https://github.com/springload/awesome-wagtail",
           "level": 0
         },
         {
           "title": "Textpattern",
-          "subtitle": "",
+          "subtitle": "Lightweight PHP-based CMS.",
           "link": "https://github.com/drmonkeyninja/awesome-textpattern",
           "level": 0
         },
         {
           "title": "Drupal",
-          "subtitle": "",
+          "subtitle": "Extensible PHP-based CMS.",
           "link": "https://github.com/nirgn975/awesome-drupal",
           "level": 0
         },
         {
           "title": "Craft CMS",
-          "subtitle": "",
+          "subtitle": "Content-first CMS.",
           "link": "https://github.com/chasegiunta/awesome-craft",
           "level": 0
         }
@@ -2081,7 +2081,7 @@ export default {
         },
         {
           "title": "Electronics",
-          "subtitle": "",
+          "subtitle": "For electronic engineers and hobbyists.",
           "link": "https://github.com/monostable/awesome-electronics",
           "level": 0
         },
@@ -2093,7 +2093,7 @@ export default {
         },
         {
           "title": "Electric Guitar Specifications",
-          "subtitle": "",
+          "subtitle": "Checklist for building your own electric guitar.",
           "link": "https://github.com/gitfrage/guitarspecs",
           "level": 0
         }
@@ -2116,19 +2116,19 @@ export default {
         },
         {
           "title": "OKR Methodology",
-          "subtitle": "",
+          "subtitle": "Goal setting & communication best practices.",
           "link": "https://github.com/domenicosolazzo/awesome-okr",
           "level": 0
         },
         {
           "title": "Leading and Managing",
-          "subtitle": "",
+          "subtitle": "Leading people and being a manager in a technology company/environment.",
           "link": "https://github.com/LappleApple/awesome-leading-and-managing",
           "level": 0
         },
         {
           "title": "Indie",
-          "subtitle": "",
+          "subtitle": "Independent developer businesses.",
           "link": "https://github.com/mezod/awesome-indie",
           "level": 0
         }
@@ -2139,7 +2139,7 @@ export default {
       "links": [
         {
           "title": "Slack",
-          "subtitle": "",
+          "subtitle": "Team collaboration.",
           "link": "https://github.com/matiassingers/awesome-slack",
           "level": 0
         },
@@ -2203,25 +2203,25 @@ export default {
       "links": [
         {
           "title": "Bitcoin",
-          "subtitle": "",
+          "subtitle": "Bitcoin services and tools for software developers.",
           "link": "https://github.com/igorbarinov/awesome-bitcoin",
           "level": 0
         },
         {
           "title": "Ripple",
-          "subtitle": "",
+          "subtitle": "Open source distributed settlement network.",
           "link": "https://github.com/vhpoet/awesome-ripple",
           "level": 0
         },
         {
           "title": "Non-Financial Blockchain",
-          "subtitle": "",
+          "subtitle": "Non-financial blockchain applications.",
           "link": "https://github.com/machinomy/awesome-non-financial-blockchain",
           "level": 0
         },
         {
           "title": "Mastodon",
-          "subtitle": "",
+          "subtitle": "Open source decentralized microblogging network.",
           "link": "https://github.com/tleb/awesome-mastodon",
           "level": 0
         }
@@ -2232,7 +2232,7 @@ export default {
       "links": [
         {
           "title": "JSON",
-          "subtitle": "",
+          "subtitle": "Text based data interchange format.",
           "link": "https://github.com/burningtree/awesome-json",
           "level": 0
         },
@@ -2274,7 +2274,7 @@ export default {
         },
         {
           "title": "Awesome",
-          "subtitle": "",
+          "subtitle": "Recursion illustrated.",
           "link": "https://github.com/sindresorhus/awesome",
           "level": 0
         },
@@ -2298,7 +2298,7 @@ export default {
         },
         {
           "title": "Appium",
-          "subtitle": "",
+          "subtitle": "Test automation tool for apps.",
           "link": "https://github.com/SrinivasanTarget/awesome-appium",
           "level": 0
         },
@@ -2322,13 +2322,13 @@ export default {
         },
         {
           "title": "Answers",
-          "subtitle": "",
+          "subtitle": "Stack Overflow, Quora, etc.",
           "link": "https://github.com/cyberglot/awesome-answers",
           "level": 0
         },
         {
           "title": "Sketch",
-          "subtitle": "",
+          "subtitle": "Design app for macOS.",
           "link": "https://github.com/diessica/awesome-sketch",
           "level": 0
         },
@@ -2382,13 +2382,13 @@ export default {
         },
         {
           "title": "Gulp",
-          "subtitle": "",
+          "subtitle": "Task runner.",
           "link": "https://github.com/alferov/awesome-gulp",
           "level": 0
         },
         {
           "title": "AMA",
-          "subtitle": "",
+          "subtitle": "Ask Me Anything.",
           "link": "https://github.com/sindresorhus/amas",
           "level": 0
         },
@@ -2406,7 +2406,7 @@ export default {
         },
         {
           "title": "OpenGL",
-          "subtitle": "",
+          "subtitle": "Cross-platform API for rendering 2D and 3D graphics.",
           "link": "https://github.com/eug/awesome-opengl",
           "level": 0
         },
@@ -2448,7 +2448,7 @@ export default {
         },
         {
           "title": "Unicode",
-          "subtitle": "",
+          "subtitle": "Unicode standards, quirks, packages and resources.",
           "link": "https://github.com/jagracey/Awesome-Unicode",
           "level": 0
         },
@@ -2478,19 +2478,19 @@ export default {
         },
         {
           "title": "Citizen Science",
-          "subtitle": "",
+          "subtitle": "For community-based and non-institutional scientists.",
           "link": "https://github.com/dylanrees/citizen-science",
           "level": 0
         },
         {
           "title": "TAP",
-          "subtitle": "",
+          "subtitle": "Test Anything Protocol.",
           "link": "https://github.com/sindresorhus/awesome-tap",
           "level": 0
         },
         {
           "title": "MQTT",
-          "subtitle": "",
+          "subtitle": "“Internet of Things” connectivity protocol.",
           "link": "https://github.com/hobbyquaker/awesome-mqtt",
           "level": 0
         },
@@ -2508,25 +2508,25 @@ export default {
         },
         {
           "title": "Vorpal",
-          "subtitle": "",
+          "subtitle": "Node.js CLI framework.",
           "link": "https://github.com/vorpaljs/awesome-vorpal",
           "level": 0
         },
         {
           "title": "Vulkan",
-          "subtitle": "",
+          "subtitle": "Low-overhead, cross-platform 3D graphics and compute API.",
           "link": "https://github.com/vinjn/awesome-vulkan",
           "level": 0
         },
         {
           "title": "LaTeX",
-          "subtitle": "",
+          "subtitle": "Typesetting language.",
           "link": "https://github.com/egeerardyn/awesome-LaTeX",
           "level": 0
         },
         {
           "title": "Economics",
-          "subtitle": "",
+          "subtitle": "An economist’s starter kit.",
           "link": "https://github.com/antontarasenko/awesome-economics",
           "level": 0
         },
@@ -2544,19 +2544,19 @@ export default {
         },
         {
           "title": "Colorful",
-          "subtitle": "",
+          "subtitle": "Choose your next color scheme.",
           "link": "https://github.com/Siddharth11/Colorful",
           "level": 0
         },
         {
           "title": "Steam",
-          "subtitle": "",
+          "subtitle": "Digital distribution platform.",
           "link": "https://github.com/scholtzm/awesome-steam",
           "level": 0
         },
         {
           "title": "Bots",
-          "subtitle": "",
+          "subtitle": "Building bots.",
           "link": "https://github.com/hackerkid/bots",
           "level": 0
         },
@@ -2568,223 +2568,223 @@ export default {
         },
         {
           "title": "Empathy in Engineering",
-          "subtitle": "",
+          "subtitle": "Building and promoting more compassionate engineering cultures.",
           "link": "https://github.com/KimberlyMunoz/empathy-in-engineering",
           "level": 0
         },
         {
           "title": "DTrace",
-          "subtitle": "",
+          "subtitle": "Dynamic tracing framework.",
           "link": "https://github.com/xen0l/awesome-dtrace",
           "level": 0
         },
         {
           "title": "Userscripts",
-          "subtitle": "",
+          "subtitle": "Enhance your browsing experience.",
           "link": "https://github.com/brunocvcunha/awesome-userscripts",
           "level": 0
         },
         {
           "title": "PokC)mon",
-          "subtitle": "",
+          "subtitle": "PokC)mon and PokC)mon GO.",
           "link": "https://github.com/tobiasbueschel/awesome-pokemon",
           "level": 0
         },
         {
           "title": "ChatOps",
-          "subtitle": "",
+          "subtitle": "Managing technical and business operations through a chat.",
           "link": "https://github.com/exAspArk/awesome-chatops",
           "level": 0
         },
         {
           "title": "Falsehood",
-          "subtitle": "",
+          "subtitle": "Falsehoods programmers believe in.",
           "link": "https://github.com/kdeldycke/awesome-falsehood",
           "level": 0
         },
         {
           "title": "Domain-Driven Design",
-          "subtitle": "",
+          "subtitle": "Software development approach for complex needs by connecting the implementation to an evolving model.",
           "link": "https://github.com/heynickc/awesome-ddd",
           "level": 0
         },
         {
           "title": "Quantified Self",
-          "subtitle": "",
+          "subtitle": "Self-tracking through technology.",
           "link": "https://github.com/woop/awesome-quantified-self",
           "level": 0
         },
         {
           "title": "SaltStack",
-          "subtitle": "",
+          "subtitle": "Python-based config management system.",
           "link": "https://github.com/hbokh/awesome-saltstack",
           "level": 0
         },
         {
           "title": "Web Design",
-          "subtitle": "",
+          "subtitle": "For digital designers.",
           "link": "https://github.com/nicolesaidy/awesome-web-design",
           "level": 0
         },
         {
           "title": "JMeter",
-          "subtitle": "",
+          "subtitle": "Load testing and performance measurement tool.",
           "link": "https://github.com/aliesbelik/awesome-jmeter",
           "level": 0
         },
         {
           "title": "Creative Coding",
-          "subtitle": "",
+          "subtitle": "Programming something expressive instead of something functional.",
           "link": "https://github.com/terkelg/awesome-creative-coding",
           "level": 0
         },
         {
           "title": "No-Login Web Apps",
-          "subtitle": "",
+          "subtitle": "Web apps that work without login.",
           "link": "https://github.com/aviaryan/awesome-no-login-web-apps",
           "level": 0
         },
         {
           "title": "Testing",
-          "subtitle": "",
+          "subtitle": "Software testing.",
           "link": "https://github.com/TheJambo/awesome-testing",
           "level": 0
         },
         {
           "title": "Free Software",
-          "subtitle": "",
+          "subtitle": "Free as in freedom.",
           "link": "https://github.com/johnjago/awesome-free-software",
           "level": 0
         },
         {
           "title": "Framer",
-          "subtitle": "",
+          "subtitle": "Prototyping interactive UI designs.",
           "link": "https://github.com/podo/awesome-framer",
           "level": 0
         },
         {
           "title": "Markdown",
-          "subtitle": "",
+          "subtitle": "Markup language.",
           "link": "https://github.com/BubuAnabelas/awesome-markdown",
           "level": 0
         },
         {
           "title": "Dev Fun",
-          "subtitle": "",
+          "subtitle": "Funny developer projects.",
           "link": "https://github.com/mislavcimpersak/awesome-dev-fun",
           "level": 0
         },
         {
           "title": "Events in the Netherlands",
-          "subtitle": "",
+          "subtitle": "Tech-related events in the Netherlands.",
           "link": "https://github.com/awkward/awesome-netherlands-events",
           "level": 0
         },
         {
           "title": "Healthcare",
-          "subtitle": "",
+          "subtitle": "Open source healthcare software for facilities, providers, developers, policy experts, and researchers.",
           "link": "https://github.com/kakoni/awesome-healthcare",
           "level": 0
         },
         {
           "title": "Magento 2",
-          "subtitle": "",
+          "subtitle": "Open Source eCommerce built with PHP.",
           "link": "https://github.com/DavidLambauer/awesome-magento2",
           "level": 0
         },
         {
           "title": "TikZ",
-          "subtitle": "",
+          "subtitle": "Graph drawing packages for TeX/LaTeX/ConTeXt.",
           "link": "https://github.com/xiaohanyu/awesome-tikz",
           "level": 0
         },
         {
           "title": "Neuroscience",
-          "subtitle": "",
+          "subtitle": "Study of the nervous system and brain.",
           "link": "https://github.com/analyticalmonk/awesome-neuroscience",
           "level": 0
         },
         {
           "title": "Effective Altruism",
-          "subtitle": "",
+          "subtitle": "Evidence-driven philanthropy.",
           "link": "https://github.com/sheonhan/awesome-effective-altruism",
           "level": 0
         },
         {
           "title": "Ad-Free",
-          "subtitle": "",
+          "subtitle": "Ad-free alternatives.",
           "link": "https://github.com/johnjago/awesome-ad-free",
           "level": 0
         },
         {
           "title": "Esolangs",
-          "subtitle": "",
+          "subtitle": "Programming languages designed for experimentation or as jokes rather than actual use.",
           "link": "https://github.com/angrykoala/awesome-esolangs",
           "level": 0
         },
         {
           "title": "Prometheus",
-          "subtitle": "",
+          "subtitle": "Open-source monitoring system.",
           "link": "https://github.com/roaldnefs/awesome-prometheus",
           "level": 0
         },
         {
           "title": "Homematic",
-          "subtitle": "",
+          "subtitle": "Smart home devices.",
           "link": "https://github.com/hobbyquaker/awesome-homematic",
           "level": 0
         },
         {
           "title": "Ledger",
-          "subtitle": "",
+          "subtitle": "Double-entry accounting on the command-line.",
           "link": "https://github.com/sfischer13/awesome-ledger",
           "level": 0
         },
         {
           "title": "Uncopyright",
-          "subtitle": "",
+          "subtitle": "Public domain works.",
           "link": "https://github.com/johnjago/awesome-uncopyright",
           "level": 0
         },
         {
           "title": "Crypto Currency Tools & Algorithms",
-          "subtitle": "",
+          "subtitle": "b�\u0014 Digital currency where encryption is used to regulate the generation of units and verify transfers.",
           "link": "https://github.com/kennethreitz/awesome-coins",
           "level": 0
         },
         {
           "title": "Diversity",
-          "subtitle": "",
+          "subtitle": "Creating a more inclusive and diverse tech community.",
           "link": "https://github.com/folkswhocode/awesome-diversity",
           "level": 0
         },
         {
           "title": "Open Source Supporters",
-          "subtitle": "",
+          "subtitle": "Companies that offer their tools and services for free to open source projects.",
           "link": "https://github.com/zachflower/awesome-open-source-supporters",
           "level": 0
         },
         {
           "title": "Design Principles",
-          "subtitle": "",
+          "subtitle": "Create better and more consistent designs and experiences.",
           "link": "https://github.com/robinstickel/awesome-design-principles",
           "level": 0
         },
         {
           "title": "Visual Regression Testing",
-          "subtitle": "",
+          "subtitle": "Ensures changes did not break the functionality or style.",
           "link": "https://github.com/mojoaxel/awesome-regression-testing",
           "level": 0
         },
         {
           "title": "Theravada",
-          "subtitle": "",
+          "subtitle": "Teachings from the Theravada Buddhist tradition.",
           "link": "https://github.com/johnjago/awesome-theravada",
           "level": 0
         },
         {
           "title": "inspectIT",
-          "subtitle": "",
+          "subtitle": "Open source Java app performance management tool.",
           "link": "https://github.com/inspectit-labs/awesome-inspectit",
           "level": 0
         }

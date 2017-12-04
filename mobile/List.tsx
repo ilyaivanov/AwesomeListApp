@@ -6,16 +6,21 @@ import {Link} from "../types";
 import {getLinkFromNav} from "./App";
 import {isLocalLink} from "../data/utils";
 
-interface Props {
-  title: string;
-  level: number;
-  onPress: any;
+type Props = Link & {
+  onPress: any
 }
 
-const Item = ({title, level, onPress}: Props) => <TouchableOpacity style={[s.item, {paddingLeft: level * 20}]}
-                                                                   onPress={onPress}>
+const Item = ({title, level, subtitle, onPress}: Props) => <TouchableOpacity style={[s.item, {paddingLeft: level * 20}]}
+                                                                             onPress={onPress}>
   <View style={s.sampleIcon}/>
-  <Text>{title}</Text>
+  <View style={s.textContainer}>
+    <Text style={s.title}>{title}</Text>
+    {
+      subtitle ?
+        <Text style={s.subtitle}>{subtitle}</Text> :
+        null
+    }
+  </View>
 </TouchableOpacity>;
 
 export default (props: any) => {
@@ -44,5 +49,13 @@ const s = StyleSheet.create({
     height: 30,
     width: 30,
     backgroundColor: 'grey'
-  }
+  },
+  title: {
+    fontSize: 16,
+  },
+
+  subtitle: {
+    fontSize: 12,
+  },
+  textContainer: {}
 });

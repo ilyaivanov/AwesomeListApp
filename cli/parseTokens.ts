@@ -1,4 +1,4 @@
-import {findIndex, find} from 'lodash';
+import {findIndex, find, trim} from 'lodash';
 import {Link, Section, Token} from '../types';
 import {normalizeTitle, validateNonEmpty} from "../data/utils";
 
@@ -13,14 +13,19 @@ const parseLink = (token: Token) => {
   const validated = validateNonEmpty(linkToken, 'Could not find link_open token in ');
   return validated.attrs[0][1];
 };
+const parseSubtitle = (token: Token) => {
+  const textTokenIndex = token.children.findIndex(x => x.type === 'text');
+  const subtitleToken = find(token.children, x => x.type === 'text', textTokenIndex + 1);
+  const subtitle = subtitleToken ? subtitleToken.content : '';
+  return trim(subtitle, '- ');
+}
 
 const createLink = (token: Token): Link => ({
   title: mapTitle(token),
-  subtitle: '',
+  subtitle: parseSubtitle(token),
   link: parseLink(token),
   level: Math.min(token.level - 3, 1)
 });
-
 
 const parseSection = (tokens: Token[], startIndex: number): Section => {
   const endParagraphIndex = findIndex(tokens.slice(startIndex), token => token.type === 'heading_close') + startIndex;
