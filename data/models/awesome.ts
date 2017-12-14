@@ -1210,6 +1210,12 @@ export default {
           "subtitle": "Toolkit for building reactive apps on the JVM.",
           "link": "https://github.com/vert-x3/vertx-awesome",
           "level": 0
+        },
+        {
+          "title": "Terraform",
+          "subtitle": "Tool for building, changing, and versioning infrastructure.",
+          "link": "https://github.com/shuaibiyy/awesome-terraform",
+          "level": 0
         }
       ]
     },
@@ -1462,7 +1468,7 @@ export default {
         {
           "title": "Free Software Testing Books",
           "subtitle": "",
-          "link": "https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md",
+          "link": "https://github.com/ligurio/awesome-software-quality",
           "level": 0
         },
         {
@@ -1572,7 +1578,7 @@ export default {
           "level": 0
         },
         {
-          "title": "LC\u0016VE",
+          "title": "LÖVE",
           "subtitle": "Game engine.",
           "link": "https://github.com/love2d-community/awesome-love2d",
           "level": 0
@@ -2040,7 +2046,7 @@ export default {
         },
         {
           "title": "Wagtail",
-          "subtitle": "B Django CMS focused on flexibility and user experience.",
+          "subtitle": " Django CMS focused on flexibility and user experience.",
           "link": "https://github.com/springload/awesome-wagtail",
           "level": 0
         },
@@ -2585,8 +2591,8 @@ export default {
           "level": 0
         },
         {
-          "title": "PokC)mon",
-          "subtitle": "PokC)mon and PokC)mon GO.",
+          "title": "Pokémon",
+          "subtitle": "Pokémon and Pokémon GO.",
           "link": "https://github.com/tobiasbueschel/awesome-pokemon",
           "level": 0
         },
@@ -2748,7 +2754,7 @@ export default {
         },
         {
           "title": "Crypto Currency Tools & Algorithms",
-          "subtitle": "b�\u0014 Digital currency where encryption is used to regulate the generation of units and verify transfers.",
+          "subtitle": "Digital currency where encryption is used to regulate the generation of units and verify transfers.",
           "link": "https://github.com/kennethreitz/awesome-coins",
           "level": 0
         },

@@ -17,7 +17,7 @@ const parseSubtitle = (token: Token) => {
   const textTokenIndex = token.children.findIndex(x => x.type === 'text');
   const subtitleToken = find(token.children, x => x.type === 'text', textTokenIndex + 1);
   const subtitle = subtitleToken ? subtitleToken.content : '';
-  return trim(subtitle, '- ');
+  return trim(subtitle, '- —');
 }
 
 const createLink = (token: Token): Link => ({
