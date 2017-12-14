@@ -40,7 +40,6 @@ const s = StyleSheet.create({
     flex: 1
   },
   item: {
-    height: 50,
     alignItems: 'center',
     flexDirection: 'row',
   },
