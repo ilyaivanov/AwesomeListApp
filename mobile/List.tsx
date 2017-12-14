@@ -57,5 +57,7 @@ const s = StyleSheet.create({
   subtitle: {
     fontSize: 12,
   },
-  textContainer: {}
+  textContainer: {
+    flex: 1,
+  }
 });
