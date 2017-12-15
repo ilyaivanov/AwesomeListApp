@@ -30,13 +30,11 @@ Tokens will always be committed, since I don't have control over remove md files
 
 ☑ **v0.1** Initial spike to test full cycle
 
-☐ **v0.2** Add 2st level of navigation for one simple list.
+☑ **v0.2** Add 2st level of navigation for one simple list.
 
-☐ **v0.3** Add more lists
+☐ **v0.3** Add 3rd and 4th levels of navigation via remote repos.
 
-☐ **v0.4** Add 3rd level of navigation for remote github markups
-
-☐ **v0.5** *TBD...*
+☐ **v0.4** *TBD...*
 
 ### Features to brainstorm
 - sorting (name, original, stats)
