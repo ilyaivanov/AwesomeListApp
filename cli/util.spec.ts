@@ -1,5 +1,5 @@
 
-import {toMd} from './url'
+import {toMd} from './util'
 
 describe('Coverting a github repo to md file', () => {
   it('should return correct link', function () {

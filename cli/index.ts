@@ -1,16 +1,16 @@
 import {load} from './load';
-import {parse} from './parse';
+import {parseRoot} from './parse';
 import loadRemote from './loadRemote';
-import {root} from './const';
+import {root} from './util';
 
 const command = process.argv[2];
 
 if (command === 'load') {
   load(root.url);
 } else if (command === 'parse') {
-  parse(root.url);
+  parseRoot(root.url);
 } else if (command === 'update') {
-  load(root.url).then(() => parse(root.url));
+  load(root.url).then(() => parseRoot(root.url));
 } else if (command === 'remote') {
   loadRemote();
 } else {

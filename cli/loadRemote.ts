@@ -1,9 +1,8 @@
 import rep from '../data/models/sindresorhus_awesome';
-import {flatten} from 'lodash';
 import {load} from './load';
+import {allLinks} from './util';
 
 
 export default () => {
-  const allLinks = flatten(rep.sections.map(s => s.links.map(l => l.link)));
-  load(allLinks[0]);
+  load(allLinks(rep)[0]);
 }
