@@ -1,5 +1,5 @@
-import {Repository, Section} from '../../types';
-import {normalizeTitle, validateNonEmpty} from '../utils';
+import {Repository, Section} from '../types';
+import {normalizeTitle, validateNonEmpty} from './utils';
 
 export const navigate = (repository: Repository, link?: string): Section => {
   if (!link) {

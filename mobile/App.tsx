@@ -1,6 +1,6 @@
 import * as React from 'react';
 import repository from '../data/models/awesome'
-import {navigate} from '../data/models/navigation'
+import {navigate} from '../data/navigation'
 import List from './List';
 import {StackNavigator} from 'react-navigation';
 import {setStatic} from 'recompose';

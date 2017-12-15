@@ -1,4 +1,4 @@
-import repository from './awesome'
+import repository from './models/awesome'
 import {navigate} from './navigation';
 
 describe('Having an awesome repository ', () => {

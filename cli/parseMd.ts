@@ -6,4 +6,4 @@ export const mark = md({
   typographer: true
 });
 
-export const parse = (md: string) => mark.parse(md, null);
+export default (md: string) => mark.parse(md, null);
