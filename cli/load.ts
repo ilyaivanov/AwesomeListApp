@@ -2,18 +2,19 @@ import * as fs from 'fs';
 import fetch from 'node-fetch';
 
 import {decode} from './common';
+import {createFilePath, toMd} from './url';
 
-const url = 'https://api.github.com/repos/sindresorhus/awesome/readme';
-export const mdPath = 'data/md/root.md';
+export const mdBase = 'data/md/';
 
-export const load = () =>
-  fetch(url)
-  .then(res => res.json())
-  .then(response => decode(response.content, response.encoding))
-  .then(function (md) {
-    console.log(`Downloaded md from ${url}. Length: ${md.length} chars.`);
-    console.log(`Sample: ${md.slice(0, 50)}...`);
-    fs.writeFileSync(mdPath, md);
+export const load = (url: string) =>
+  fetch(toMd(url))
+    .then(res => res.json())
+    .then(response => decode(response.content, response.encoding))
+    .then(function (md) {
+      console.log(`Downloaded md from ${url}. Length: ${md.length} chars.`);
+      console.log(`Sample: ${md.slice(0, 50)}...`);
+      const fileUrl = createFilePath(mdBase, url, 'md');
+      fs.writeFileSync(fileUrl, md);
 
-    console.log(`Done writing to ${mdPath}`);
-  });
+      console.log(`Done writing to ${fileUrl}`);
+    });
