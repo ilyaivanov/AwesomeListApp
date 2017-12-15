@@ -1,7 +1,7 @@
 import tokens from '../data/parsed/awesome';
 import {Section} from '../types';
-import {parseHeader, parseLocalSection} from "./parseTokens";
-import {normalizeTitle} from "../data/utils";
+import {parseHeader, parseLocalSection} from './parseTokens';
+import {normalizeTitle} from '../data/utils';
 
 describe('Parsing a header from an awesome root', () => {
   let section: Section;

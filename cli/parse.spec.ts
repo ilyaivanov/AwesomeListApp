@@ -1,5 +1,5 @@
-import {Repository} from "../types";
-import {createRepository} from "./parse";
+import {Repository} from '../types';
+import {createRepository} from './parse';
 import tokens from '../data/parsed/awesome';
 
 describe('Parsing a all 2nd level links in awesome repository', () => {

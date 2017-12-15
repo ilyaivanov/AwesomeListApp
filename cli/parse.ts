@@ -1,7 +1,7 @@
-import * as fs from "fs";
-import {stringify} from "./common";
-import {Repository, Token} from "../types";
-import {parseHeader, parseLocalSection} from "./parseTokens";
+import * as fs from 'fs';
+import {stringify} from './common';
+import {Repository, Token} from '../types';
+import {parseHeader, parseLocalSection} from './parseTokens';
 import tokens from '../data/parsed/awesome';
 
 const modelsPath = 'data/models/awesome.ts';

@@ -1,7 +1,7 @@
-import * as fs from "fs";
-import fetch from "node-fetch";
-import {parse} from "./parseMd";
-import {decode, stringify} from "./common";
+import * as fs from 'fs';
+import fetch from 'node-fetch';
+import {parse} from './parseMd';
+import {decode, stringify} from './common';
 
 const url = 'https://api.github.com/repos/sindresorhus/awesome/readme';
 const tokensPath = 'data/parsed/awesome.ts';

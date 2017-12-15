@@ -1,8 +1,8 @@
 import * as React from 'react';
 import repository from '../data/models/awesome'
 import {navigate} from '../data/models/navigation'
-import List from "./List";
-import {StackNavigator} from "react-navigation";
+import List from './List';
+import {StackNavigator} from 'react-navigation';
 import {setStatic} from 'recompose';
 
 export const getLinkFromNav = (navigation: any): string =>

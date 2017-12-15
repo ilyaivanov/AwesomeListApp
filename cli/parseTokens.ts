@@ -1,6 +1,6 @@
-import {findIndex, find, trim} from 'lodash';
+import {find, findIndex, trim} from 'lodash';
 import {Link, Section, Token} from '../types';
-import {normalizeTitle, validateNonEmpty} from "../data/utils";
+import {normalizeTitle, validateNonEmpty} from '../data/utils';
 
 const mapTitle = (token: Token) => {
   const textToken = token.children.find(x => x.type === 'text');

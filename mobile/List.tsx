@@ -2,9 +2,9 @@ import * as React from 'react';
 import {FlatList, StyleSheet, Text, TouchableOpacity, View} from 'react-native';
 import repository from '../data/models/awesome';
 import {navigate} from '../data/models/navigation';
-import {Link} from "../types";
-import {getLinkFromNav} from "./App";
-import {isLocalLink} from "../data/utils";
+import {Link} from '../types';
+import {getLinkFromNav} from './App';
+import {isLocalLink} from '../data/utils';
 
 type Props = Link & {
   onPress: any
