@@ -6,7 +6,8 @@ import {decode, stringify} from './common';
 const url = 'https://api.github.com/repos/sindresorhus/awesome/readme';
 const tokensPath = 'data/parsed/awesome.ts';
 
-fetch(url)
+export const load = () =>
+  fetch(url)
   .then(res => res.json())
   .then(response => decode(response.content, response.encoding))
   .then(function (md) {

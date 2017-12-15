@@ -14,7 +14,9 @@ export const createRepository = (tokens: Token[]): Repository => {
   };
 };
 
-const repository = createRepository(tokens as any);
-const sectionFormatted = `export default ${stringify(repository)}`;
-fs.writeFileSync(modelsPath, sectionFormatted);
-console.log(`Done writing to ${modelsPath}. Total of ${repository.sections.length} sections`);
+export const parse = () => {
+  const repository = createRepository(tokens as any);
+  const sectionFormatted = `export default ${stringify(repository)}`;
+  fs.writeFileSync(modelsPath, sectionFormatted);
+  console.log(`Done writing to ${modelsPath}. Total of ${repository.sections.length} sections`);
+};
