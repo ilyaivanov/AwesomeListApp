@@ -38,4 +38,13 @@ Tokens will always be committed, since I don't have control over remove md files
 
 ☐ **v0.5** *TBD...*
 
-
+### Features to brainstorm
+- sorting (name, original, stats)
+- information to show (stats, links count, last updated)
+- more description of the current section at the top
+- auth user via github (to put stars)
+- favorites, history
+- statistics
+- google analytics
+- gamification?
+- web?

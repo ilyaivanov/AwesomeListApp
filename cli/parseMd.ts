@@ -1,6 +1,6 @@
 import * as md from 'markdown-it';
 
-const mark = md({
+export const mark = md({
   html: true,
   linkify: true,
   typographer: true
