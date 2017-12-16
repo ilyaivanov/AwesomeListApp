@@ -1,42 +1,42 @@
 import * as fs from 'fs';
-import {Repository, Token} from '../types';
+import {Section, Token} from '../data/types';
 import {parseHeader, parseLocalSection} from './parseTokens';
 import {mdBase} from './load';
 import parseMd from './parseMd';
-import {allLinks, createFilePath, stringify} from './util';
+import {allLinksFromSections, createFilePath, stringify} from './util';
+import {isLocalLink} from '../data/utils';
 
-const modelsBase = 'data/models/';
-
-export const createRepository = (tokens: Token[]): Repository => {
-  const home = parseHeader(tokens);
-  return {
-    home,
-    sections: home.links.map(link => parseLocalSection(tokens, link))
-  };
+export const parseIntoSections = (repositoryUrl: string, tokens: Token[]): Section[] => {
+  const root = parseHeader(tokens, repositoryUrl);
+  const next = root.links.map(link => parseLocalSection(tokens, repositoryUrl, link));
+  return [root, ...next];
 };
 
-export const parseRepository = (url: string) => {
+export const readAndParse = (url: string) => {
   const md = fs.readFileSync(createFilePath(mdBase, url, 'md'));
 
   const tokens = parseMd(md.toString());
 
   console.log(`Parsed ${tokens.length} tokens`);
-  return createRepository(tokens as any);
+  return parseIntoSections(url, tokens);
 };
 
-const saveRepository = (repository: Repository, url: string) => {
+const save = (repository: {}) => {
   const sectionFormatted = `export default ${stringify(repository)}`;
 
-  const modelsPath = createFilePath(modelsBase, url, 'ts');
-  fs.writeFileSync(modelsPath, sectionFormatted);
-  console.log(`Done writing to ${modelsPath}. Total of ${repository.sections.length} sections`);
+  fs.writeFileSync('data/sections.ts', sectionFormatted);
+  console.log(`Done writing to 'data/sections.ts'`);
 }
 
 export const parseRoot = (url: string) => {
-  const rep = parseRepository(url);
-  saveRepository(rep, url);
-  const links = allLinks(rep);
+  const repSections = readAndParse(url);
+  const links = allLinksFromSections(repSections);
+  const remoteLinks = links.filter(l => !isLocalLink(l));
 
-  const nodeRep = parseRepository(links[0] as string);
-  saveRepository(nodeRep, links[0] as string);
-}
+  const nodeSections = readAndParse(remoteLinks[0]);
+  const overall = [
+    ...repSections,
+    ...nodeSections,
+  ];
+  save(overall);
+};

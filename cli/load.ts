@@ -1,11 +1,13 @@
 import * as fs from 'fs';
 import fetch from 'node-fetch';
 
-import {createFilePath, decode, toMd} from './util';
+import {createFilePath, decode, root, toMd} from './util';
+import {parseRoot, readAndParse} from './parse';
+import {flatten} from 'lodash';
 
 export const mdBase = 'data/md/';
 
-export const load = (url: string) =>
+const loadRepo = (url: string) =>
   fetch(toMd(url))
     .then(res => res.json())
     .then(response => decode(response.content, response.encoding))
@@ -17,3 +19,16 @@ export const load = (url: string) =>
 
       console.log(`Done writing to ${fileUrl}`);
     });
+
+
+export const load = () => {
+  return loadRepo(root.url)
+    .then(() => {
+      const sections = readAndParse(root.url);
+      const allLinks = flatten(sections.map(s => s.links.map(l => l.link)));
+      console.log(allLinks)
+      // return Promise.all([
+      //   () =>
+      // ])
+    });
+}

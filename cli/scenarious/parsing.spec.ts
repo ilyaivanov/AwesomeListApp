@@ -1,21 +1,23 @@
 import nodejs from './sindresorhus_awesome-nodejs';
-import root from './sindresorhus_awesome';
-import {createRepository} from '../parse';
+import md from './sindresorhus_awesome';
+import {parseIntoSections} from '../parse';
 import parseMd from '../parseMd';
-import {Section} from '../../types';
+import {Section} from '../../data/types';
+import {findRoot, root} from '../util';
 
-const parse = (md: any) => createRepository(parseMd(md));
+const parse = (md: string) => parseIntoSections(root.url, parseMd(md));
 
 it('should parse Node.js repository', function () {
-  const rep = parse(nodejs);
-  expect(rep.home.links).toHaveLength(62);
+  const sections = parse(nodejs);
+  const root = findRoot(sections);
+  expect(root.links).toHaveLength(62);
 });
 
 describe('Parsing root', () => {
   let section: Section;
 
   beforeEach(() => {
-    section = parse(root).home;
+    section = findRoot(parse(md));
   });
 
   it('should have correct link titles', function () {
@@ -23,16 +25,11 @@ describe('Parsing root', () => {
     expect(section.links.map(x => x.title)).toEqual(expectedSectionNames);
   });
 
-  it('should have correct links', function () {
-    const expectedLinks = ['#platforms', '#programming-languages', '#front-end-development', '#back-end-development', '#computer-science', '#big-data', '#theory', '#books', '#editors', '#gaming', '#development-environment', '#entertainment', '#databases', '#media', '#learn', '#security', '#content-management-systems', '#hardware', '#business', '#work', '#networking', '#decentralized-systems', '#miscellaneous'];
-    expect(section.links.map(x => x.link)).toEqual(expectedLinks);
-  });
-
   describe('Big Data', () => {
     let bigDataSection: Section;
 
     beforeEach(() => {
-      bigDataSection = parse(root).sections.find(x => x.title === 'Big Data') as Section;
+      bigDataSection = parse(md).find(x => x.title === 'Big Data') as Section;
     });
 
     it('should ', function () {

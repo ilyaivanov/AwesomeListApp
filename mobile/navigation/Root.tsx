@@ -1,10 +1,10 @@
 import * as React from 'react';
-import {navigate} from './navigation';
-import repository from '../../data/models/sindresorhus_awesome';
+import {findSection} from './navigation';
 import {addNavigationHelpers, StackNavigator} from 'react-navigation';
 import {connect} from 'react-redux';
 import {setStatic} from 'recompose';
 import List from '../Section';
+import {root} from '../../cli/util';
 
 export const getLinkFromNav = (navigation: any): string =>
   navigation.state.params ? navigation.state.params.link : '';
@@ -12,7 +12,7 @@ export const getLinkFromNav = (navigation: any): string =>
 
 const withTitle = (Component: any) =>
   setStatic('navigationOptions', ({navigation}: any) => ({
-    title: navigate(getLinkFromNav(navigation)).title,
+    title: findSection(getLinkFromNav(navigation)).title,
   }))(Component);
 
 

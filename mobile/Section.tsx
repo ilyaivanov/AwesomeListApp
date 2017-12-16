@@ -1,7 +1,7 @@
 import * as React from 'react';
-import {Alert, FlatList, StyleSheet, Text, TouchableOpacity, View} from 'react-native';
-import {navigate, sectionExist} from './navigation/navigation';
-import {Link} from '../types';
+import {FlatList, StyleSheet, Text, TouchableOpacity, View} from 'react-native';
+import {findSection} from './navigation/navigation';
+import {Link} from '../data/types';
 import {getLinkFromNav} from './navigation/Root';
 import {connect} from 'react-redux';
 
@@ -9,8 +9,9 @@ type Props = Link & {
   onPress: any
 }
 
-const Item = ({title, level, subtitle, onPress}: Props) => <TouchableOpacity style={[s.item, {paddingLeft: level * 20}]}
-                                                                             onPress={onPress}>
+const Item = ({title, level, subtitle, onPress}: Props) => <TouchableOpacity
+  style={[s.item, {paddingLeft: (level || 0) * 20}]}
+  onPress={onPress}>
   <View style={s.sampleIcon}/>
   <View style={s.textContainer}>
     <Text style={s.title}>{title}</Text>
@@ -22,18 +23,15 @@ const Item = ({title, level, subtitle, onPress}: Props) => <TouchableOpacity sty
   </View>
 </TouchableOpacity>;
 
-const onPress = (link: string, navigation: any) => {
-  if (sectionExist(link)) {
+const onPress = (link: string, navigation: any,) => {
+  if (link)
     navigation.navigate('Home', {link})
-  } else {
-    Alert.alert(`Cannot find any section with id = ${link}`);
-  }
 }
 
-class Section extends React.Component<any> {
+class SectionView extends React.Component<any> {
   render() {
     const props = this.props;
-    const section = navigate(getLinkFromNav(props.navigation));
+    const section = findSection(getLinkFromNav(props.navigation), 'sindresorhus_awesome');
     return <View style={s.container}>
       <FlatList
         keyExtractor={(item, index) => item.link + index}
@@ -45,7 +43,7 @@ class Section extends React.Component<any> {
   };
 }
 
-export default connect()(Section);
+export default connect()(SectionView);
 
 const s = StyleSheet.create({
   container: {

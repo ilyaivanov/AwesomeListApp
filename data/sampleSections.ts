@@ -1,46 +1,32 @@
+import {Section} from './types';
+import {root} from '../cli/util';
+
 const sections: Section[] = [
   {
-    title: 'Awesome List (dummy)',
-    id: 'root',
+    title: 'Awesome List',
+    id: root.id,
     links: [
-      {title: 'Platforms', link: '#platforms'},
-      {title: 'Languages', link: '#languages', subtitle:'fancy languages'},
-      {title: 'Functional Languages', link: '#functional', subtitle:'subsection', level: 1},
-      {title: 'Declarative Languages', link: '#declarative', subtitle:'subsection', level: 1},
-      {title: 'Theory', link: '#theory'},
-      {title: 'Broken link', link: '#non-exising section'},
+      {title: 'Platforms', link: root.id+'#platforms'},
+      {title: 'Languages', link: root.id+'#languages', subtitle:'fancy languages'},
     ]
   },
   {
     title: 'Platforms',
-    id: '#platforms',
+    id: root.id+'#platforms',
     links: [
-      {title: 'Node,js', link: '#nodejs'},
-      {title: 'Frontend Development', link: ''},
-      {title: 'iOS', link: ''},
+      {title: 'Node,js', link: 'another_repo#nodejs'},
     ]
   },
   {
     title: 'Languages',
-    id: '#languages',
+    id: root.id+'#languages',
     links: [
       {title: 'JavaScript', link: ''},
-      {title: 'TypeScript', link: ''},
-      {title: 'F#', link: ''},
-      {title: 'C#', link: ''},
-    ]
-  },
-  {
-    title: 'Theory',
-    id: '#theory',
-    links: [
-      {title: 'Talks', link: ''},
-      {title: 'Math', link: ''},
     ]
   },
   {
     title: 'Node,js',
-    id: '#nodejs',
+    id: 'another_repo#nodejs',
     links: [
       {title: 'Node.js topic1', link: ''},
       {title: 'Node.js topic2', link: ''},
@@ -49,16 +35,3 @@ const sections: Section[] = [
 ];
 
 export default sections;
-
-export type Section = {
-  title: string;
-  id: string;
-  links: Link[];
-}
-
-export type Link = {
-  title: string;
-  link: string;
-  subtitle?: string,
-  level?:number;
-}
