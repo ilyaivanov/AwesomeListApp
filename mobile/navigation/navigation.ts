@@ -1,7 +1,5 @@
-import {Repository, Section} from '../types';
-import {normalizeTitle, validateNonEmpty} from './utils';
-// import repository from './models/sindresorhus_awesome';
-import repository from './models/sindresorhus_awesome-nodejs';
+import {Repository, Section} from '../../types';
+import {normalizeTitle, validateNonEmpty} from '../../data/utils';
 
 export const navigate = (currentRepository: Repository, link?: string): Section => {
   if (!link) {

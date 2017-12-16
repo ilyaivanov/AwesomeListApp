@@ -1,10 +1,11 @@
 import * as React from 'react';
 import {FlatList, StyleSheet, Text, TouchableOpacity, View} from 'react-native';
-import {navigate} from '../data/navigation';
+import {navigate} from './navigation/navigation';
 import {Link} from '../types';
-import {getLinkFromNav} from './App';
+import {getLinkFromNav} from './navigation/Root';
 import {isLocalLink} from '../data/utils';
 import repository from '../data/models/sindresorhus_awesome';
+import {connect} from 'react-redux';
 
 type Props = Link & {
   onPress: any
@@ -26,17 +27,22 @@ const Item = ({title, level, subtitle, onPress}: Props) => <TouchableOpacity sty
 const onPress = (link: string, navigation: any) =>
   isLocalLink(link) ? navigation.navigate('Home', {link}) : undefined;
 
-export default (props: any) => {
-  const section = navigate(repository, getLinkFromNav(props.navigation));
-  return <View style={s.container}>
-    <FlatList
-      keyExtractor={(item, index) => item.link + index}
-      data={section.links}
-      renderItem={({item}: { item: Link }) => <Item {...item}
-                                                    onPress={() => onPress(item.link, props.navigation)}/>}
-    />
-  </View>;
+class Section extends React.Component<any> {
+  render() {
+    const props = this.props;
+    const section = navigate(repository, getLinkFromNav(props.navigation));
+    return <View style={s.container}>
+      <FlatList
+        keyExtractor={(item, index) => item.link + index}
+        data={section.links}
+        renderItem={({item}: { item: Link }) => <Item {...item}
+                                                      onPress={() => onPress(item.link, props.navigation)}/>}
+      />
+    </View>;
+  };
 }
+
+export default connect()(Section);
 
 const s = StyleSheet.create({
   container: {

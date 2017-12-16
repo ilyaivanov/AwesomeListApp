@@ -1,4 +1,4 @@
-import repository from './models/sindresorhus_awesome'
+import repository from '../../data/models/sindresorhus_awesome'
 import {navigate} from './navigation';
 
 describe('Having an awesome repository ', () => {
