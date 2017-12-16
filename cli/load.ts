@@ -1,7 +1,7 @@
 import * as fs from 'fs';
 import fetch from 'node-fetch';
 
-import {createFilePath, toMd, decode} from './util';
+import {createFilePath, decode, toMd} from './util';
 
 export const mdBase = 'data/md/';
 

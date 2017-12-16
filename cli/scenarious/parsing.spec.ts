@@ -6,8 +6,9 @@ import {Section} from '../../types';
 
 const parse = (md: any) => createRepository(parseMd(md));
 
-xit('should parse Node.js repository', function () {
+it('should parse Node.js repository', function () {
   const rep = parse(nodejs);
+  expect(rep.home.links).toHaveLength(62);
 });
 
 describe('Parsing root', () => {

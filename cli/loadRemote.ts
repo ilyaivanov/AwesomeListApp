@@ -4,5 +4,5 @@ import {allLinks} from './util';
 
 
 export default () => {
-  load(allLinks(rep)[0]);
+  load(allLinks(rep)[0] as string);
 }

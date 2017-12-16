@@ -10,6 +10,9 @@ const mapTitle = (token: Token) => {
 
 const parseLink = (token: Token) => {
   const linkToken = token.children.find(x => x.type === 'link_open');
+  if (!linkToken) {
+    return '';
+  }
   const validated = validateNonEmpty(linkToken, 'Could not find link_open token in ');
   return validated.attrs[0][1];
 };
@@ -38,20 +41,21 @@ const parseSection = (tokens: Token[], startIndex: number): Section => {
   };
 };
 
-export const parseLocalSection = (tokens: Token[], localLink: string): Section => {
-  const sectionStateIndex = tokens.findIndex(token => normalizeTitle(token.content) === localLink);
+export const parseLocalSection = (tokens: Token[], localLink: Link): Section => {
+  const sectionStateIndex = tokens.findIndex(token => normalizeTitle(token.content) === localLink.link || token.content === localLink.title);
   if (sectionStateIndex === -1) {
     throw  new Error(`Can't find section header for ${localLink}`);
   }
   const previousToken = sectionStateIndex - 1;
   if (tokens[previousToken].type !== 'heading_open') {
-    throw new Error(`Token at ${previousToken} should be start of heading, but what ${tokens[previousToken].type}`)
+    //TODO: investigate
+    // throw new Error(`Token at ${previousToken} should be start of heading, but what ${tokens[previousToken].type}`)
   }
   return parseSection(tokens, previousToken);
 };
 
 export const parseHeader = (tokens: Token[]): Section => {
-  const startIndex = findIndex(tokens, token => token.type === 'heading_open');
+  const startIndex = findIndex(tokens, token => token.type === 'heading_open' && token.markup !== '#'); //specific for node.js repo
   return {
     ...parseSection(tokens as any, startIndex),
     title: 'Awesome List',

@@ -11,7 +11,7 @@ export const createRepository = (tokens: Token[]): Repository => {
   const home = parseHeader(tokens);
   return {
     home,
-    sections: home.links.map(link => parseLocalSection(tokens, link.link))
+    sections: home.links.map(link => parseLocalSection(tokens, link))
   };
 };
 
@@ -37,6 +37,6 @@ export const parseRoot = (url: string) => {
   saveRepository(rep, url);
   const links = allLinks(rep);
 
-  const nodeRep = parseRepository(links[0]);
-  saveRepository(nodeRep, links[0]);
+  const nodeRep = parseRepository(links[0] as string);
+  saveRepository(nodeRep, links[0] as string);
 }

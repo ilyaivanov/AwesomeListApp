@@ -1,9 +1,9 @@
 import * as React from 'react';
-import repository from '../data/models/awesome'
 import {navigate} from '../data/navigation'
 import List from './List';
 import {StackNavigator} from 'react-navigation';
 import {setStatic} from 'recompose';
+import repository from '../data/models/sindresorhus_awesome';
 
 export const getLinkFromNav = (navigation: any): string =>
   navigation.state.params ? navigation.state.params.link : '';

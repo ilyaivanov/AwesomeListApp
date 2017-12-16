@@ -1,11 +1,13 @@
 import {Repository, Section} from '../types';
 import {normalizeTitle, validateNonEmpty} from './utils';
+// import repository from './models/sindresorhus_awesome';
+import repository from './models/sindresorhus_awesome-nodejs';
 
-export const navigate = (repository: Repository, link?: string): Section => {
+export const navigate = (currentRepository: Repository, link?: string): Section => {
   if (!link) {
-    return repository.home;
+    return currentRepository.home;
   }
-  const section = repository.sections.find(section => normalizeTitle(section.title) === link);
-  const validated = validateNonEmpty(section, `Couldn't not found section for link ` + link);
-  return validated;
+  // check if link is local
+  const section = currentRepository.sections.find(section => normalizeTitle(section.title) === link);
+  return validateNonEmpty(section, `Couldn't not found section for link ` + link);
 }
