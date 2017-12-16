@@ -17,17 +17,22 @@ const loadRepo = (repoId: string) =>
       console.log(`Done writing to ${fileUrl}`);
     });
 
+const waitFor = (time: number) => new Promise(resolve => setTimeout(resolve, time));
 
 export const load = () => {
   return loadRepo(createIdForUrl(root.url))
     .then(() => {
       const sections = readAndParse(root.url);
       const allLinks = allRemoteLinks(sections);
-      return Promise.all([
-        loadRepo(allLinks[0]),
-        loadRepo(allLinks[2]),
-      ]).then(() => {
-        console.log('Done loading two repos')
-      })
+      const sectionsToLoad = allLinks.slice(0, 50);
+
+      return sectionsToLoad.reduce((promise, link, i) => {
+        return promise.then(() => {
+          return loadRepo(link).then(() => waitFor(i * 1000 * 2)) as any
+        });
+      }, Promise.resolve())
+        .then(
+          () => console.log('Done loading two repos'),
+          (error) => console.error(error));
     });
 }

@@ -51,7 +51,7 @@ const parseSection = (tokens: Token[], startIndex: number, url: string): Section
 export const parseLocalSection = (tokens: Token[], repoUrl: string, localLink: Link): Section => {
   const sectionStateIndex = tokens.findIndex(token => normalizeLocalLink(token.content) === localLink.link || token.content === localLink.title);
   if (sectionStateIndex === -1) {
-    throw  new Error(`Can't find section header for ${localLink}`);
+    throw  new Error(`Can't find section header for ${localLink.link}`);
   }
   const previousToken = sectionStateIndex - 1;
   if (tokens[previousToken].type !== 'heading_open') {

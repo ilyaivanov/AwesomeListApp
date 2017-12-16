@@ -1,7 +1,7 @@
-import {parseIntoSections} from './parse';
-import {Section} from '../data/types';
-import parseMd from './parseMd';
-import {root} from './util';
+import {parseIntoSections} from '../parse';
+import {Section} from '../../data/types';
+import parseMd from '../parseMd';
+import {root} from '../util';
 
 const rootMd = `
 ## Contents
@@ -28,6 +28,10 @@ describe('Parsing a sample from Awesome List', () => {
   let sections: Section[];
   beforeEach(() => {
     sections = parseIntoSections(root.id, parseMd(rootMd));
+  });
+
+  it('should match snapshot', function () {
+    expect(sections).toMatchSnapshot();
   });
 
   it('should result in three sections', function () {

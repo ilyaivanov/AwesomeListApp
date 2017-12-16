@@ -4,6 +4,7 @@ import {parseHeader, parseLocalSection} from './parseTokens';
 import {mdBase} from './load';
 import parseMd from './parseMd';
 import {allRemoteLinks, createFilePath, stringify} from './util';
+import {flatten} from 'lodash';
 
 export const parseIntoSections = (repositoryUrl: string, tokens: Token[]): Section[] => {
   const root = parseHeader(tokens, repositoryUrl);
@@ -12,6 +13,7 @@ export const parseIntoSections = (repositoryUrl: string, tokens: Token[]): Secti
 };
 
 export const readAndParse = (url: string) => {
+  console.log(`Parsing ${url}`);
   const md = fs.readFileSync(createFilePath(mdBase, url, 'md'));
 
   const tokens = parseMd(md.toString());
@@ -25,10 +27,14 @@ export const parseRoot = (rootRepoId: string) => {
   const repSections = readAndParse(rootRepoId);
   const links = allRemoteLinks(repSections);
 
-  const nodeSections = readAndParse(links[0]);
+  const linkToParse = [
+    0,
+    3
+  ];
+  const parsed = flatten(linkToParse.map(i => readAndParse(links[i])));
   const overall = [
     ...repSections,
-    ...nodeSections,
+    ...parsed,
   ];
   save(overall);
 };
