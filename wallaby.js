@@ -5,6 +5,9 @@ module.exports = function (w) {
       'cli/**/*.ts',
       '!cli/**/*.spec.ts',
 
+      'mobile/**/*.ts',
+      '!mobile/**/*.spec.ts',
+
       'data/**/*.ts',
       '!data/**/*.spec.ts',
 
@@ -14,6 +17,7 @@ module.exports = function (w) {
     tests: [
       'cli/**/*.spec.ts',
       'data/**/*.spec.ts',
+      'mobile/**/*.spec.ts',
     ],
 
     env: {

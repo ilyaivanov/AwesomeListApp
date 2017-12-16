@@ -1,10 +1,8 @@
 import * as React from 'react';
-import {FlatList, StyleSheet, Text, TouchableOpacity, View} from 'react-native';
-import {navigate} from './navigation/navigation';
+import {Alert, FlatList, StyleSheet, Text, TouchableOpacity, View} from 'react-native';
+import {navigate, sectionExist} from './navigation/navigation';
 import {Link} from '../types';
 import {getLinkFromNav} from './navigation/Root';
-import {isLocalLink} from '../data/utils';
-import repository from '../data/models/sindresorhus_awesome';
 import {connect} from 'react-redux';
 
 type Props = Link & {
@@ -24,13 +22,18 @@ const Item = ({title, level, subtitle, onPress}: Props) => <TouchableOpacity sty
   </View>
 </TouchableOpacity>;
 
-const onPress = (link: string, navigation: any) =>
-  isLocalLink(link) ? navigation.navigate('Home', {link}) : undefined;
+const onPress = (link: string, navigation: any) => {
+  if (sectionExist(link)) {
+    navigation.navigate('Home', {link})
+  } else {
+    Alert.alert(`Cannot find any section with id = ${link}`);
+  }
+}
 
 class Section extends React.Component<any> {
   render() {
     const props = this.props;
-    const section = navigate(repository, getLinkFromNav(props.navigation));
+    const section = navigate(getLinkFromNav(props.navigation));
     return <View style={s.container}>
       <FlatList
         keyExtractor={(item, index) => item.link + index}

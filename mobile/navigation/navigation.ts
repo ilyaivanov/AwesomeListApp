@@ -1,11 +1,12 @@
-import {Repository, Section} from '../../types';
-import {normalizeTitle, validateNonEmpty} from '../../data/utils';
+import sections, {Section} from '../../data/sampleSections';
 
-export const navigate = (currentRepository: Repository, link?: string): Section => {
-  if (!link) {
-    return currentRepository.home;
-  }
-  // check if link is local
-  const section = currentRepository.sections.find(section => normalizeTitle(section.title) === link);
-  return validateNonEmpty(section, `Couldn't not found section for link ` + link);
-}
+export const sectionExist = (link?: string): boolean =>
+  sections.findIndex(s => s.id === link) >= 0;
+
+export const navigate = (link?: string): Section => {
+  link = link || 'root';
+  const sectionFound = sections.find(s => s.id === link);
+  if (!sectionFound)
+    throw new Error(`Can't find section with id == ${link}`);
+  return sectionFound;
+};

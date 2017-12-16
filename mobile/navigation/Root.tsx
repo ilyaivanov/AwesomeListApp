@@ -12,7 +12,7 @@ export const getLinkFromNav = (navigation: any): string =>
 
 const withTitle = (Component: any) =>
   setStatic('navigationOptions', ({navigation}: any) => ({
-    title: navigate(repository, getLinkFromNav(navigation)).title,
+    title: navigate(getLinkFromNav(navigation)).title,
   }))(Component);
 
 

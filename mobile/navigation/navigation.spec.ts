@@ -1,13 +1,17 @@
-import repository from '../../data/models/sindresorhus_awesome'
 import {navigate} from './navigation';
+import {Link} from '../../data/sampleSections';
 
-describe('Having an awesome repository ', () => {
-  it('when referencing an empty link shound return a Home section', function () {
-    const section = navigate(repository);
-    expect(section.title).toBe('Awesome List');
+describe('Finding a section without a link', () => {
+  it('should return a root section', function () {
+    expect(navigate().title).toBe('Awesome List (dummy)');
   });
-  it('when referencing a Big Data section should return that section with non-empty links', function () {
-    const section = navigate(repository, '#big-data');
-    expect(section.title).toBe('Big Data');
+  it('should return a root section', function () {
+    expect(navigate('').title).toBe('Awesome List (dummy)');
   });
+});
+
+it('Finding a section for platforms should return that section', function () {
+  const root = navigate();
+  const platforms = root.links.find(l => l.title == 'Platforms') as Link;
+  expect(navigate(platforms.link).title).toBe('Platforms');
 });
