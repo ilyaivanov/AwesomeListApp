@@ -31,7 +31,7 @@ const onPress = (link: string, navigation: any,) => {
 class SectionView extends React.Component<any> {
   render() {
     const props = this.props;
-    const section = findSection(getLinkFromNav(props.navigation), 'sindresorhus_awesome');
+    const section = findSection(getLinkFromNav(props.navigation));
     return <View style={s.container}>
       <FlatList
         keyExtractor={(item, index) => item.link + index}

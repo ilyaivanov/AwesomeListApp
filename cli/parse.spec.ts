@@ -1,7 +1,7 @@
 import {parseIntoSections} from './parse';
 import {Section} from '../data/types';
 import parseMd from './parseMd';
-import {findRoot, root} from './util';
+import {root} from './util';
 
 const rootMd = `
 ## Contents
@@ -24,25 +24,48 @@ const rootMd = `
 - [Android](https://github.com/JStumpp/awesome-android)
 `;
 
-describe('A header and two subsequent sections', () => {
+describe('Parsing a sample from Awesome List', () => {
   let sections: Section[];
   beforeEach(() => {
-    sections = parseIntoSections(root.url, parseMd(rootMd));
+    sections = parseIntoSections(root.id, parseMd(rootMd));
   });
 
-  it('should result in a list of sections of three sections', function () {
+  it('should result in three sections', function () {
     expect(sections).toHaveLength(3)
   });
 
-  it('platforms sections should have id ', function () {
-    expect(sections[0].links[0].link).toBe('sindresorhus_awesome#platforms');
+  describe('Root section', () => {
+    let rootSection: Section;
+    beforeEach(() => {
+      rootSection = sections[0];
+    });
+
+    it('should have correct id', function () {
+      expect(rootSection.id).toBe(root.id);
+    });
+
+    it('should have two link', function () {
+      expect(rootSection.links).toHaveLength(2);
+    });
+
   });
 
-  it('platforms sections should have id ', function () {
-    expect(sections[1].id).toBe('sindresorhus_awesome#platforms');
-  });
+  describe('Platforms section', () => {
+    let platforms: Section;
+    beforeEach(() => {
+      platforms = sections[1];
+    });
 
-  it('should have two links at the root', function () {
-    expect(findRoot(sections).links).toHaveLength(2);
+    it('should have the same id as platforms link', function () {
+      expect(platforms.id).toBe('sindresorhus_awesome#platforms');
+    });
+
+    it('should have four links', function () {
+      expect(platforms.links).toHaveLength(4);
+    });
+
+    it('should have a link to a node.js repo', function () {
+      expect(platforms.links[0].link).toBe('sindresorhus_awesome-nodejs');
+    });
   });
 });

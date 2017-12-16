@@ -9,4 +9,4 @@ export function validateNonEmpty<T>(value: T | undefined | null, message: string
 
 export const isLocalLink = (link: string) => link.indexOf('#') === 0;
 
-export const normalizeTitle = (text: string) => '#' + text.toLowerCase().replace(/ /g, '-').replace(/\//g, '');
+export const normalizeLocalLink = (text: string) => '#' + text.toLowerCase().replace(/ /g, '-').replace(/\//g, '');

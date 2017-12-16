@@ -1,34 +1,33 @@
 import * as fs from 'fs';
 import fetch from 'node-fetch';
 
-import {createFilePath, decode, root, toMd} from './util';
-import {parseRoot, readAndParse} from './parse';
-import {flatten} from 'lodash';
+import {allRemoteLinks, createIdForUrl, decode, root, toGithubFromRepoId} from './util';
+import {readAndParse} from './parse';
 
 export const mdBase = 'data/md/';
 
-const loadRepo = (url: string) =>
-  fetch(toMd(url))
+const loadRepo = (repoId: string) =>
+  fetch(toGithubFromRepoId(repoId))
     .then(res => res.json())
     .then(response => decode(response.content, response.encoding))
     .then(function (md) {
-      console.log(`Downloaded md from ${url}. Length: ${md.length} chars.`);
-      console.log(`Sample: ${md.slice(0, 50)}...`);
-      const fileUrl = createFilePath(mdBase, url, 'md');
+      console.log(`Downloaded md from ${repoId}. Length: ${md.length} chars.`);
+      const fileUrl = mdBase + repoId + '.md';
       fs.writeFileSync(fileUrl, md);
-
       console.log(`Done writing to ${fileUrl}`);
     });
 
 
 export const load = () => {
-  return loadRepo(root.url)
+  return loadRepo(createIdForUrl(root.url))
     .then(() => {
       const sections = readAndParse(root.url);
-      const allLinks = flatten(sections.map(s => s.links.map(l => l.link)));
-      console.log(allLinks)
-      // return Promise.all([
-      //   () =>
-      // ])
+      const allLinks = allRemoteLinks(sections);
+      return Promise.all([
+        loadRepo(allLinks[0]),
+        loadRepo(allLinks[2]),
+      ]).then(() => {
+        console.log('Done loading two repos')
+      })
     });
 }

@@ -1,7 +1,7 @@
 import {find, findIndex, trim} from 'lodash';
 import {Link, Section, Token} from '../data/types';
-import {normalizeTitle, validateNonEmpty} from '../data/utils';
-import {createIdFromUrlAndLink, getParts} from './util';
+import {normalizeLocalLink, validateNonEmpty} from '../data/utils';
+import {getParts} from './util';
 
 const mapTitle = (token: Token) => {
   const textToken = token.children.find(x => x.type === 'text');
@@ -24,6 +24,9 @@ const parseSubtitle = (token: Token) => {
   return trim(subtitle, '- —');
 }
 
+const transformLink = (link: string, repoUrl: string): string =>
+  link.startsWith('#') ? getParts(repoUrl).join('_') + link : getParts(link).join('_');
+
 const createLink = (token: Token, url: string): Link => ({
   title: mapTitle(token),
   subtitle: parseSubtitle(token),
@@ -31,8 +34,6 @@ const createLink = (token: Token, url: string): Link => ({
   level: Math.min(token.level - 3, 1)
 });
 
-const transformLink = (link: string, repoUrl: string): string =>
-  link.startsWith('#') ? getParts(repoUrl).join('_') + link : getParts(repoUrl).join('_');
 
 const parseSection = (tokens: Token[], startIndex: number, url: string): Section => {
   const endParagraphIndex = findIndex(tokens.slice(startIndex), token => token.type === 'heading_close') + startIndex;
@@ -48,7 +49,7 @@ const parseSection = (tokens: Token[], startIndex: number, url: string): Section
 
 
 export const parseLocalSection = (tokens: Token[], repoUrl: string, localLink: Link): Section => {
-  const sectionStateIndex = tokens.findIndex(token => normalizeTitle(token.content) === localLink.link || token.content === localLink.title);
+  const sectionStateIndex = tokens.findIndex(token => normalizeLocalLink(token.content) === localLink.link || token.content === localLink.title);
   if (sectionStateIndex === -1) {
     throw  new Error(`Can't find section header for ${localLink}`);
   }

@@ -3,8 +3,7 @@ import {Section, Token} from '../data/types';
 import {parseHeader, parseLocalSection} from './parseTokens';
 import {mdBase} from './load';
 import parseMd from './parseMd';
-import {allLinksFromSections, createFilePath, stringify} from './util';
-import {isLocalLink} from '../data/utils';
+import {allRemoteLinks, createFilePath, stringify} from './util';
 
 export const parseIntoSections = (repositoryUrl: string, tokens: Token[]): Section[] => {
   const root = parseHeader(tokens, repositoryUrl);
@@ -21,22 +20,23 @@ export const readAndParse = (url: string) => {
   return parseIntoSections(url, tokens);
 };
 
-const save = (repository: {}) => {
-  const sectionFormatted = `export default ${stringify(repository)}`;
 
-  fs.writeFileSync('data/sections.ts', sectionFormatted);
-  console.log(`Done writing to 'data/sections.ts'`);
-}
+export const parseRoot = (rootRepoId: string) => {
+  const repSections = readAndParse(rootRepoId);
+  const links = allRemoteLinks(repSections);
 
-export const parseRoot = (url: string) => {
-  const repSections = readAndParse(url);
-  const links = allLinksFromSections(repSections);
-  const remoteLinks = links.filter(l => !isLocalLink(l));
-
-  const nodeSections = readAndParse(remoteLinks[0]);
+  const nodeSections = readAndParse(links[0]);
   const overall = [
     ...repSections,
     ...nodeSections,
   ];
   save(overall);
+};
+
+
+const save = (repository: {}) => {
+  const sectionFormatted = `export default ${stringify(repository)}`;
+
+  fs.writeFileSync('data/sections.ts', sectionFormatted);
+  console.log(`Done writing to 'data/sections.ts'`);
 };

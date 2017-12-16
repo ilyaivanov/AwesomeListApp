@@ -11,17 +11,19 @@ export const toMd = (url: string) => {
   const [username, reponame] = getParts(url);
   return `https://api.github.com/repos/${username}/${reponame}/readme`;
 };
+export const toGithubFromRepoId = (repoId: string) => {
+  const [username, reponame] = repoId.split('_');
+  return `https://api.github.com/repos/${username}/${reponame}/readme`;
+};
 
 export const createFilePath = (base: string, url: string, extension: string) =>
   base + getParts(url).join('_') + '.' + extension;
 
 
-export const allLinksFromSections = (sections: Section[]) =>
+export const allRemoteLinks = (sections: Section[]) =>
   flatten(sections.map(s => s.links.map(l => l.link)))
+    .filter(l => l.indexOf('#') === -1);
 
-export const createIdFromUrlAndLink = (currentUrl: string, link: string) => {
-  return getParts(currentUrl).join('_') + link;
-}
 
 export const decode = (response: string, encoding: string) => new Buffer(response, encoding).toString('utf8');
 
