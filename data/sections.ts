@@ -3214,121 +3214,121 @@ export default [
       {
         "title": "webtorrent",
         "subtitle": "Streaming torrent client for Node.js and the browser.",
-        "link": "feross_webtorrent",
+        "link": "https://github.com/feross/webtorrent",
         "level": 0
       },
       {
         "title": "peerflix",
         "subtitle": "Streaming torrent client.",
-        "link": "mafintosh_peerflix",
+        "link": "https://github.com/mafintosh/peerflix",
         "level": 0
       },
       {
         "title": "dat",
         "subtitle": "Real-time replication and versioning for data sets.",
-        "link": "_dat-data.com",
+        "link": "http://dat-data.com",
         "level": 0
       },
       {
         "title": "ipfs",
         "subtitle": "Distributed file system that seeks to connect all computing devices with the same system of files.",
-        "link": "ipfs_js-ipfs",
+        "link": "https://github.com/ipfs/js-ipfs",
         "level": 0
       },
       {
         "title": "GitTorrent",
         "subtitle": "Peer-to-peer network of Git repositories being shared over BitTorrent.",
-        "link": "cjb_GitTorrent",
+        "link": "https://github.com/cjb/GitTorrent",
         "level": 0
       },
       {
         "title": "stackgl",
         "subtitle": "Open software ecosystem for WebGL, built on top of browserify and npm.",
-        "link": "_stack.gl",
+        "link": "http://stack.gl",
         "level": 0
       },
       {
         "title": "peerwiki",
         "subtitle": "All of Wikipedia on BitTorrent.",
-        "link": "mafintosh_peerwiki",
+        "link": "https://github.com/mafintosh/peerwiki",
         "level": 0
       },
       {
         "title": "peercast",
         "subtitle": "Stream a torrent video to Chromecast.",
-        "link": "mafintosh_peercast",
+        "link": "https://github.com/mafintosh/peercast",
         "level": 0
       },
       {
         "title": "BitcoinJS",
         "subtitle": "Clean, readable, proven Bitcoin library.",
-        "link": "_bitcoinjs.org",
+        "link": "http://bitcoinjs.org",
         "level": 0
       },
       {
         "title": "Bitcore",
         "subtitle": "Pure and powerful Bitcoin library.",
-        "link": "_bitcore.io",
+        "link": "https://bitcore.io",
         "level": 0
       },
       {
         "title": "PDFKit",
         "subtitle": "PDF generation library.",
-        "link": "_pdfkit.org",
+        "link": "http://pdfkit.org",
         "level": 0
       },
       {
         "title": "turf",
         "subtitle": "Modular geospatial processing and analysis engine.",
-        "link": "Turfjs_turf",
+        "link": "https://github.com/Turfjs/turf",
         "level": 0
       },
       {
         "title": "webcat",
         "subtitle": "p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.",
-        "link": "mafintosh_webcat",
+        "link": "https://github.com/mafintosh/webcat",
         "level": 0
       },
       {
         "title": "NodeOS",
         "subtitle": "The first operating system powered by npm.",
-        "link": "_node-os.com",
+        "link": "http://node-os.com",
         "level": 0
       },
       {
         "title": "limdu",
         "subtitle": "Machine-learning framework.",
-        "link": "erelsgl_limdu",
+        "link": "https://github.com/erelsgl/limdu",
         "level": 0
       },
       {
         "title": "Cytoscape.js",
         "subtitle": "Graph theory (a.k.a. network) modeling and analysis.",
-        "link": "_js.cytoscape.org",
+        "link": "http://js.cytoscape.org",
         "level": 0
       },
       {
         "title": "kad",
         "subtitle": "Kademlia distributed hash table.",
-        "link": "kadtools_kad",
+        "link": "https://github.com/kadtools/kad",
         "level": 0
       },
       {
         "title": "seedshot",
         "subtitle": "Temporary P2P screenshot sharing from your browser.",
-        "link": "twobucks_seedshot",
+        "link": "https://github.com/twobucks/seedshot",
         "level": 0
       },
       {
         "title": "js-git",
         "subtitle": "JavaScript implementation of Git.",
-        "link": "creationix_js-git",
+        "link": "https://github.com/creationix/js-git",
         "level": 0
       },
       {
         "title": "skale",
         "subtitle": "High performance distributed data processing engine.",
-        "link": "skale-me_skale-engine",
+        "link": "https://github.com/skale-me/skale-engine",
         "level": 0
       }
     ]
@@ -3340,379 +3340,379 @@ export default [
       {
         "title": "np",
         "subtitle": "Better",
-        "link": "sindresorhus_np",
+        "link": "https://github.com/sindresorhus/np",
         "level": 0
       },
       {
         "title": "trash",
         "subtitle": "Safer alternative to",
-        "link": "sindresorhus_trash",
+        "link": "https://github.com/sindresorhus/trash",
         "level": 0
       },
       {
         "title": "npm-name",
         "subtitle": "Check whether a package name is available on npm.",
-        "link": "sindresorhus_npm-name",
+        "link": "https://github.com/sindresorhus/npm-name",
         "level": 0
       },
       {
         "title": "speed-test",
         "subtitle": "Test your internet connection speed and ping.",
-        "link": "sindresorhus_speed-test",
+        "link": "https://github.com/sindresorhus/speed-test",
         "level": 0
       },
       {
         "title": "emoj",
         "subtitle": "Find relevant emoji from text on the command-line.",
-        "link": "sindresorhus_emoj",
+        "link": "https://github.com/sindresorhus/emoj",
         "level": 0
       },
       {
         "title": "pageres",
         "subtitle": "Capture website screenshots.",
-        "link": "sindresorhus_pageres",
+        "link": "https://github.com/sindresorhus/pageres",
         "level": 0
       },
       {
         "title": "cpy",
         "subtitle": "Copy files.",
-        "link": "sindresorhus_cpy",
+        "link": "https://github.com/sindresorhus/cpy",
         "level": 0
       },
       {
         "title": "vtop",
         "subtitle": "More better top, with nice charts.",
-        "link": "MrRio_vtop",
+        "link": "https://github.com/MrRio/vtop",
         "level": 0
       },
       {
         "title": "empty-trash",
         "subtitle": "Empty the trash.",
-        "link": "sindresorhus_empty-trash",
+        "link": "https://github.com/sindresorhus/empty-trash",
         "level": 0
       },
       {
         "title": "is-up",
         "subtitle": "Check whether a website is up or down.",
-        "link": "sindresorhus_is-up",
+        "link": "https://github.com/sindresorhus/is-up",
         "level": 0
       },
       {
         "title": "is-online",
         "subtitle": "Check if the internet connection is up.",
-        "link": "sindresorhus_is-online",
+        "link": "https://github.com/sindresorhus/is-online",
         "level": 0
       },
       {
         "title": "public-ip",
         "subtitle": "Get your public IP address.",
-        "link": "sindresorhus_public-ip",
+        "link": "https://github.com/sindresorhus/public-ip",
         "level": 0
       },
       {
         "title": "clipboard-cli",
         "subtitle": "Copy & paste on the terminal.",
-        "link": "sindresorhus_clipboard-cli",
+        "link": "https://github.com/sindresorhus/clipboard-cli",
         "level": 0
       },
       {
         "title": "ttystudio",
         "subtitle": "Record your terminal and compile it to a GIF or APNG without any external dependencies, bash scripts, gif concatenation, etc.",
-        "link": "chjj_ttystudio",
+        "link": "https://github.com/chjj/ttystudio",
         "level": 0
       },
       {
         "title": "XO",
         "subtitle": "Enforce strict code style using the JavaScript happiness style.",
-        "link": "sindresorhus_xo",
+        "link": "https://github.com/sindresorhus/xo",
         "level": 0
       },
       {
         "title": "Standard",
         "subtitle": "JavaScript Standard Style — One style to rule them all.",
-        "link": "feross_standard",
+        "link": "https://github.com/feross/standard",
         "level": 0
       },
       {
         "title": "ESLint",
         "subtitle": "The pluggable linting utility for JavaScript.",
-        "link": "_eslint.org",
+        "link": "http://eslint.org",
         "level": 0
       },
       {
         "title": "dev-time",
         "subtitle": "Get the current local time of a GitHub user.",
-        "link": "samverschueren_dev-time-cli",
+        "link": "https://github.com/samverschueren/dev-time-cli",
         "level": 0
       },
       {
         "title": "David",
         "subtitle": "Tells you when your package npm dependencies are out of date.",
-        "link": "alanshaw_david",
+        "link": "https://github.com/alanshaw/david",
         "level": 0
       },
       {
         "title": "http-server",
         "subtitle": "Simple, zero-config command-line HTTP server.",
-        "link": "indexzero_http-server",
+        "link": "https://github.com/indexzero/http-server",
         "level": 0
       },
       {
         "title": "Live Server",
         "subtitle": "Development HTTP-server with livereload capability.",
-        "link": "tapio_live-server",
+        "link": "https://github.com/tapio/live-server",
         "level": 0
       },
       {
         "title": "bcat",
         "subtitle": "Pipe command output to web browsers.",
-        "link": "kessler_node-bcat",
+        "link": "https://github.com/kessler/node-bcat",
         "level": 0
       },
       {
         "title": "normit",
         "subtitle": "Google Translate with speech synthesis in your terminal.",
-        "link": "pawurb_normit",
+        "link": "https://github.com/pawurb/normit",
         "level": 0
       },
       {
         "title": "slap",
         "subtitle": "Sublime-like terminal-based text editor.",
-        "link": "slap-editor_slap",
+        "link": "https://github.com/slap-editor/slap",
         "level": 0
       },
       {
         "title": "jsinspect",
         "subtitle": "Detect copy-pasted and structurally similar code.",
-        "link": "danielstjules_jsinspect",
+        "link": "https://github.com/danielstjules/jsinspect",
         "level": 0
       },
       {
         "title": "esformatter",
         "subtitle": "JavaScript code beautifier/formatter.",
-        "link": "millermedeiros_esformatter",
+        "link": "https://github.com/millermedeiros/esformatter",
         "level": 0
       },
       {
         "title": "fkill",
         "subtitle": "Fabulously kill processes. Cross-platform.",
-        "link": "sindresorhus_fkill-cli",
+        "link": "https://github.com/sindresorhus/fkill-cli",
         "level": 0
       },
       {
         "title": "pjs",
         "subtitle": "Pipeable JavaScript. Quickly filter, map, and reduce from the terminal.",
-        "link": "danielstjules_pjs",
+        "link": "https://github.com/danielstjules/pjs",
         "level": 0
       },
       {
         "title": "license-checker",
         "subtitle": "Check licenses of your app’s dependencies.",
-        "link": "davglass_license-checker",
+        "link": "https://github.com/davglass/license-checker",
         "level": 0
       },
       {
         "title": "browser-run",
         "subtitle": "Easily run code in a browser environment.",
-        "link": "juliangruber_browser-run",
+        "link": "https://github.com/juliangruber/browser-run",
         "level": 0
       },
       {
         "title": "tmpin",
         "subtitle": "Adds stdin support to any CLI app that accepts file input.",
-        "link": "sindresorhus_tmpin",
+        "link": "https://github.com/sindresorhus/tmpin",
         "level": 0
       },
       {
         "title": "modhelp",
         "subtitle": "Syntax-highlighted module READMEs in terminal with ANSI-friendly pager.",
-        "link": "runvnc_modhelp",
+        "link": "https://github.com/runvnc/modhelp",
         "level": 0
       },
       {
         "title": "wifi-password",
         "subtitle": "Get the current wifi password.",
-        "link": "kevva_wifi-password-cli",
+        "link": "https://github.com/kevva/wifi-password-cli",
         "level": 0
       },
       {
         "title": "wallpaper",
         "subtitle": "Change the desktop wallpaper.",
-        "link": "sindresorhus_wallpaper",
+        "link": "https://github.com/sindresorhus/wallpaper",
         "level": 0
       },
       {
         "title": "brightness",
         "subtitle": "Change the screen brightness.",
-        "link": "kevva_brightness-cli",
+        "link": "https://github.com/kevva/brightness-cli",
         "level": 0
       },
       {
         "title": "torrent",
         "subtitle": "Download torrents.",
-        "link": "maxogden_torrent",
+        "link": "https://github.com/maxogden/torrent",
         "level": 0
       },
       {
         "title": "tfa",
         "subtitle": "Two-factor authentication client.",
-        "link": "jasnell_tfa",
+        "link": "https://github.com/jasnell/tfa",
         "level": 0
       },
       {
         "title": "rtail",
         "subtitle": "Terminal output to the browser in seconds, using UNIX pipes.",
-        "link": "kilianc_rtail",
+        "link": "https://github.com/kilianc/rtail",
         "level": 0
       },
       {
         "title": "kill-tabs",
         "subtitle": "Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.",
-        "link": "sindresorhus_kill-tabs",
+        "link": "https://github.com/sindresorhus/kill-tabs",
         "level": 0
       },
       {
         "title": "alex",
         "subtitle": "Catch insensitive, inconsiderate writing.",
-        "link": "wooorm_alex",
+        "link": "https://github.com/wooorm/alex",
         "level": 0
       },
       {
         "title": "vantage",
         "subtitle": "Distributed, realtime CLI for your live app.",
-        "link": "dthree_vantage",
+        "link": "https://github.com/dthree/vantage",
         "level": 0
       },
       {
         "title": "pen",
         "subtitle": "Live Markdown preview in the browser from your favorite editor.",
-        "link": "noraesae_pen",
+        "link": "https://github.com/noraesae/pen",
         "level": 0
       },
       {
         "title": "subdownloader",
         "subtitle": "Subtitle downloader for movies and TV series.",
-        "link": "beatfreaker_subdownloader",
+        "link": "https://github.com/beatfreaker/subdownloader",
         "level": 0
       },
       {
         "title": "dark-mode",
         "subtitle": "Toggle the macOS Dark Mode.",
-        "link": "sindresorhus_dark-mode",
+        "link": "https://github.com/sindresorhus/dark-mode",
         "level": 0
       },
       {
         "title": "iponmap",
         "subtitle": "IP location finder.",
-        "link": "nogizhopaboroda_iponmap",
+        "link": "https://github.com/nogizhopaboroda/iponmap",
         "level": 0
       },
       {
         "title": "Jsome",
         "subtitle": "Pretty prints JSON with configurable colors and indentation.",
-        "link": "Javascipt_Jsome",
+        "link": "https://github.com/Javascipt/Jsome",
         "level": 0
       },
       {
         "title": "itunes-remote",
         "subtitle": "Interactively control iTunes.",
-        "link": "mischah_itunes-remote",
+        "link": "https://github.com/mischah/itunes-remote",
         "level": 0
       },
       {
         "title": "text-meme",
         "subtitle": "Generate a text meme.",
-        "link": "beatfreaker_text-meme-cli",
+        "link": "https://github.com/beatfreaker/text-meme-cli",
         "level": 0
       },
       {
         "title": "mobicon",
         "subtitle": "Mobile app icon generator.",
-        "link": "samverschueren_mobicon-cli",
+        "link": "https://github.com/samverschueren/mobicon-cli",
         "level": 0
       },
       {
         "title": "mobisplash",
         "subtitle": "Mobile app splash screen generator.",
-        "link": "samverschueren_mobisplash-cli",
+        "link": "https://github.com/samverschueren/mobisplash-cli",
         "level": 0
       },
       {
         "title": "diff2html-cli",
         "subtitle": "Pretty git diff to HTML generator.",
-        "link": "rtfpessoa_diff2html-cli",
+        "link": "https://github.com/rtfpessoa/diff2html-cli",
         "level": 0
       },
       {
         "title": "Cash",
         "subtitle": "Cross-platform Unix shell commands in pure JavaScript.",
-        "link": "dthree_cash",
+        "link": "https://github.com/dthree/cash",
         "level": 0
       },
       {
         "title": "vaca",
         "subtitle": "Get a random ASCII 🐮.",
-        "link": "sindresorhus_vaca",
+        "link": "https://github.com/sindresorhus/vaca",
         "level": 0
       },
       {
         "title": "gh-home",
         "subtitle": "Open the GitHub page of the repo in the current directory.",
-        "link": "sindresorhus_gh-home",
+        "link": "https://github.com/sindresorhus/gh-home",
         "level": 0
       },
       {
         "title": "npm-home",
         "subtitle": "Open the npm page of a package.",
-        "link": "sindresorhus_npm-home",
+        "link": "https://github.com/sindresorhus/npm-home",
         "level": 0
       },
       {
         "title": "trymodule",
         "subtitle": "Try out npm packages in the terminal.",
-        "link": "VictorBjelkholm_trymodule",
+        "link": "https://github.com/VictorBjelkholm/trymodule",
         "level": 0
       },
       {
         "title": "terminal-recorder",
         "subtitle": "Record your terminal usage and export it to interactive HTML.",
-        "link": "cortezcristian_terminal-recorder",
+        "link": "https://github.com/cortezcristian/terminal-recorder",
         "level": 0
       },
       {
         "title": "jscpd",
         "subtitle": "Copy/paste detector for source code.",
-        "link": "kucherenko_jscpd",
+        "link": "https://github.com/kucherenko/jscpd",
         "level": 0
       },
       {
         "title": "atmo",
         "subtitle": "Server-side API mocking.",
-        "link": "Raathigesh_Atmo",
+        "link": "https://github.com/Raathigesh/Atmo",
         "level": 0
       },
       {
         "title": "auto-install",
         "subtitle": "Auto installs dependencies as you code.",
-        "link": "siddharthkp_auto-install",
+        "link": "https://github.com/siddharthkp/auto-install",
         "level": 0
       },
       {
         "title": "lessmd",
         "subtitle": "Markdown in the terminal.",
-        "link": "linuxenko_lessmd",
+        "link": "https://github.com/linuxenko/lessmd",
         "level": 0
       },
       {
         "title": "cost-of-modules",
         "subtitle": "Find out which dependencies are slowing you down.",
-        "link": "siddharthkp_cost-of-modules",
+        "link": "https://github.com/siddharthkp/cost-of-modules",
         "level": 0
       },
       {
         "title": "localtunnel",
         "subtitle": "Expose your localhost to the world.",
-        "link": "localtunnel_localtunnel",
+        "link": "https://github.com/localtunnel/localtunnel",
         "level": 0
       }
     ]
@@ -3724,67 +3724,67 @@ export default [
       {
         "title": "lodash",
         "subtitle": "Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.",
-        "link": "_lodash.com",
+        "link": "https://lodash.com",
         "level": 0
       },
       {
         "title": "immutable",
         "subtitle": "Immutable data collections.",
-        "link": "facebook_immutable-js",
+        "link": "https://github.com/facebook/immutable-js",
         "level": 0
       },
       {
         "title": "mori",
         "subtitle": "Library for using ClojureScript’s persistent data structures and supporting API from the comfort of vanilla JavaScript.",
-        "link": "mori_",
+        "link": "http://swannodette.github.io/mori/",
         "level": 0
       },
       {
         "title": "Ramda",
         "subtitle": "Utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data.",
-        "link": "_ramdajs.com",
+        "link": "http://ramdajs.com",
         "level": 0
       },
       {
         "title": "Folktale",
         "subtitle": "Suite of libraries for generic functional programming in JavaScript that allows you to write elegant, modular applications with fewer bugs, and more reuse.",
-        "link": "_folktalejs.org",
+        "link": "http://folktalejs.org",
         "level": 0
       },
       {
         "title": "underscore-contrib",
         "subtitle": "The brass buckles on Underscore’s utility belt.",
-        "link": "underscore-contrib_",
+        "link": "http://documentcloud.github.io/underscore-contrib/",
         "level": 0
       },
       {
         "title": "Mout",
         "subtitle": "Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead.",
-        "link": "_moutjs.com",
+        "link": "http://moutjs.com",
         "level": 0
       },
       {
         "title": "Bacon.js",
         "subtitle": "Functional reactive programming.",
-        "link": "_baconjs.github.io",
+        "link": "http://baconjs.github.io",
         "level": 0
       },
       {
         "title": "RxJS",
         "subtitle": "Functional reactive library for transforming, composing, and querying various kinds of data.",
-        "link": "_reactivex.io",
+        "link": "http://reactivex.io",
         "level": 0
       },
       {
         "title": "Lazy.js",
         "subtitle": "Utility library similar to lodash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.",
-        "link": "dtao_lazy.js",
+        "link": "https://github.com/dtao/lazy.js",
         "level": 0
       },
       {
         "title": "Kefir.js",
         "subtitle": "Reactive library with focus on high performance and low memory usage.",
-        "link": "rpominov_kefir",
+        "link": "https://github.com/rpominov/kefir",
         "level": 0
       }
     ]
@@ -3796,91 +3796,91 @@ export default [
       {
         "title": "got",
         "subtitle": "Nicer interface to the built-in",
-        "link": "sindresorhus_got",
+        "link": "https://github.com/sindresorhus/got",
         "level": 0
       },
       {
         "title": "gh-got",
         "subtitle": "Convenience wrapper for",
-        "link": "sindresorhus_gh-got",
+        "link": "https://github.com/sindresorhus/gh-got",
         "level": 0
       },
       {
         "title": "axios",
         "subtitle": "Promise based HTTP client (works in the browser too).",
-        "link": "mzabriskie_axios",
+        "link": "https://github.com/mzabriskie/axios",
         "level": 0
       },
       {
         "title": "request",
         "subtitle": "Simplified HTTP request client.",
-        "link": "request_request",
+        "link": "https://github.com/request/request",
         "level": 0
       },
       {
         "title": "Nock",
         "subtitle": "HTTP mocking and expectations library.",
-        "link": "pgte_nock",
+        "link": "https://github.com/pgte/nock",
         "level": 0
       },
       {
         "title": "spdy",
         "subtitle": "Creates SPDY servers with the same API as the built-in",
-        "link": "indutny_node-spdy",
+        "link": "https://github.com/indutny/node-spdy",
         "level": 0
       },
       {
         "title": "wreck",
         "subtitle": "HTTP Client Utilities.",
-        "link": "hapijs_wreck",
+        "link": "https://github.com/hapijs/wreck",
         "level": 0
       },
       {
         "title": "download",
         "subtitle": "Download and extract files effortlessly.",
-        "link": "kevva_download",
+        "link": "https://github.com/kevva/download",
         "level": 0
       },
       {
         "title": "http-proxy",
         "subtitle": "HTTP proxy.",
-        "link": "nodejitsu_node-http-proxy",
+        "link": "https://github.com/nodejitsu/node-http-proxy",
         "level": 0
       },
       {
         "title": "rocky",
         "subtitle": "Featured, middleware-oriented HTTP proxy with traffic replay and intercept.",
-        "link": "h2non_rocky",
+        "link": "https://github.com/h2non/rocky",
         "level": 0
       },
       {
         "title": "superagent",
         "subtitle": "HTTP request library.",
-        "link": "visionmedia_superagent",
+        "link": "https://github.com/visionmedia/superagent",
         "level": 0
       },
       {
         "title": "node-fetch",
         "subtitle": "",
-        "link": "bitinn_node-fetch",
+        "link": "https://github.com/bitinn/node-fetch",
         "level": 0
       },
       {
         "title": "flashheart",
         "subtitle": "REST client.",
-        "link": "bbc_flashheart",
+        "link": "https://github.com/bbc/flashheart",
         "level": 0
       },
       {
         "title": "http-fake-backend",
         "subtitle": "Build a fake backend by providing the content of JSON files or JavaScript objects through configurable routes.",
-        "link": "micromata_http-fake-backend",
+        "link": "https://github.com/micromata/http-fake-backend",
         "level": 0
       },
       {
         "title": "cacheable-request",
         "subtitle": "Wrap native HTTP requests with RFC compliant cache support.",
-        "link": "lukechilds_cacheable-request",
+        "link": "https://github.com/lukechilds/cacheable-request",
         "level": 0
       }
     ]
@@ -3892,91 +3892,91 @@ export default [
       {
         "title": "ironNode",
         "subtitle": "Node.js debugger supporting ES2015 out of the box.",
-        "link": "s-a_iron-node",
+        "link": "https://github.com/s-a/iron-node",
         "level": 0
       },
       {
         "title": "node-inspector",
         "subtitle": "Debugger based on Blink Developer Tools.",
-        "link": "node-inspector_node-inspector",
+        "link": "https://github.com/node-inspector/node-inspector",
         "level": 0
       },
       {
         "title": "devtool",
         "subtitle": "Run Node.js programs through Chrome Dev Tools.",
-        "link": "Jam3_devtool",
+        "link": "https://github.com/Jam3/devtool",
         "level": 0
       },
       {
         "title": "Theseus",
         "subtitle": "JavaScript debugger featuring real-time code coverage, retroactive inspection and asynchronous call tree.",
-        "link": "adobe-research_theseus",
+        "link": "https://github.com/adobe-research/theseus",
         "level": 0
       },
       {
         "title": "debug",
         "subtitle": "Tiny debugging utility.",
-        "link": "visionmedia_debug",
+        "link": "https://github.com/visionmedia/debug",
         "level": 0
       },
       {
         "title": "jstrace",
         "subtitle": "Dynamic tracing for JavaScript, similar to dtrace, ktap etc.",
-        "link": "jstrace_jstrace",
+        "link": "https://github.com/jstrace/jstrace",
         "level": 0
       },
       {
         "title": "why-is-node-running",
         "subtitle": "Node.js is running but you don’t know why?",
-        "link": "mafintosh_why-is-node-running",
+        "link": "https://github.com/mafintosh/why-is-node-running",
         "level": 0
       },
       {
         "title": "njsTrace",
         "subtitle": "Instrument and trace your code, see all function calls, arguments, return values, as well as the time spent in each function.",
-        "link": "valyouw_njstrace",
+        "link": "https://github.com/valyouw/njstrace",
         "level": 0
       },
       {
         "title": "vstream",
         "subtitle": "Instrumentable streams mix-ins to inspect a pipeline of streams.",
-        "link": "joyent_node-vstream",
+        "link": "https://github.com/joyent/node-vstream",
         "level": 0
       },
       {
         "title": "stackman",
         "subtitle": "Enhance an error stacktrace with code excerpts and other goodies.",
-        "link": "watson_stackman",
+        "link": "https://github.com/watson/stackman",
         "level": 0
       },
       {
         "title": "locus",
         "subtitle": "Starts a REPL at runtime that has access to all variables.",
-        "link": "alidavut_locus",
+        "link": "https://github.com/alidavut/locus",
         "level": 0
       },
       {
         "title": "bugger",
         "subtitle": "Provides Chrome Devtools bindings to debug programs in Chrome.",
-        "link": "buggerjs_bugger",
+        "link": "https://github.com/buggerjs/bugger",
         "level": 0
       },
       {
         "title": "0x",
         "subtitle": "Flamegraph profiling.",
-        "link": "davidmarkclements_0x",
+        "link": "https://github.com/davidmarkclements/0x",
         "level": 0
       },
       {
         "title": "ctrace",
         "subtitle": "Well-formatted and improved trace system calls and signals.",
-        "link": "automation-stack_ctrace",
+        "link": "https://github.com/automation-stack/ctrace",
         "level": 0
       },
       {
         "title": "leakage",
         "subtitle": "Write memory leak tests.",
-        "link": "andywer_leakage",
+        "link": "https://github.com/andywer/leakage",
         "level": 0
       }
     ]
@@ -3988,37 +3988,37 @@ export default [
       {
         "title": "pino",
         "subtitle": "Extremely fast logger inspired by Bunyan.",
-        "link": "pinojs_pino",
+        "link": "https://github.com/pinojs/pino",
         "level": 0
       },
       {
         "title": "winston",
         "subtitle": "Multi-transport async logging library.",
-        "link": "winstonjs_winston",
+        "link": "https://github.com/winstonjs/winston",
         "level": 0
       },
       {
         "title": "Bunyan",
         "subtitle": "JSON logging library.",
-        "link": "trentm_node-bunyan",
+        "link": "https://github.com/trentm/node-bunyan",
         "level": 0
       },
       {
         "title": "intel",
         "subtitle": "Logging library (handlers, filters, formatters, console injection).",
-        "link": "intel_",
+        "link": "http://seanmonstar.github.io/intel/",
         "level": 0
       },
       {
         "title": "console-log-level",
         "subtitle": "The most simple logger imaginable with support for log levels and custom prefixes.",
-        "link": "watson_console-log-level",
+        "link": "https://github.com/watson/console-log-level",
         "level": 0
       },
       {
         "title": "storyboard",
         "subtitle": "End-to-end, hierarchical, real-time, colorful logs and stories.",
-        "link": "guigrpa_storyboard",
+        "link": "https://github.com/guigrpa/storyboard",
         "level": 0
       }
     ]
@@ -4030,253 +4030,253 @@ export default [
       {
         "title": "chalk",
         "subtitle": "Terminal string styling done right.",
-        "link": "chalk_chalk",
+        "link": "https://github.com/chalk/chalk",
         "level": 0
       },
       {
         "title": "meow",
         "subtitle": "CLI app helper.",
-        "link": "sindresorhus_meow",
+        "link": "https://github.com/sindresorhus/meow",
         "level": 0
       },
       {
         "title": "minimist",
         "subtitle": "Parse command-line flags.",
-        "link": "substack_minimist",
+        "link": "https://github.com/substack/minimist",
         "level": 0
       },
       {
         "title": "get-stdin",
         "subtitle": "Easier stdin.",
-        "link": "sindresorhus_get-stdin",
+        "link": "https://github.com/sindresorhus/get-stdin",
         "level": 0
       },
       {
         "title": "ora",
         "subtitle": "Elegant terminal spinner.",
-        "link": "sindresorhus_ora",
+        "link": "https://github.com/sindresorhus/ora",
         "level": 0
       },
       {
         "title": "log-update",
         "subtitle": "Log by overwriting the previous output in the terminal. Useful for rendering progress bars, animations, etc.",
-        "link": "sindresorhus_log-update",
+        "link": "https://github.com/sindresorhus/log-update",
         "level": 0
       },
       {
         "title": "Inquirer.js",
         "subtitle": "Interactive command-line prompt.",
-        "link": "SBoudrias_Inquirer.js",
+        "link": "https://github.com/SBoudrias/Inquirer.js",
         "level": 0
       },
       {
         "title": "listr",
         "subtitle": "Terminal task list.",
-        "link": "samverschueren_listr",
+        "link": "https://github.com/samverschueren/listr",
         "level": 0
       },
       {
         "title": "conf",
         "subtitle": "Simple config handling for your app or module.",
-        "link": "sindresorhus_conf",
+        "link": "https://github.com/sindresorhus/conf",
         "level": 0
       },
       {
         "title": "update-notifier",
         "subtitle": "Update notifications for your CLI app.",
-        "link": "yeoman_update-notifier",
+        "link": "https://github.com/yeoman/update-notifier",
         "level": 0
       },
       {
         "title": "ansi-escapes",
         "subtitle": "ANSI escape codes for manipulating the terminal.",
-        "link": "sindresorhus_ansi-escapes",
+        "link": "https://github.com/sindresorhus/ansi-escapes",
         "level": 0
       },
       {
         "title": "log-symbols",
         "subtitle": "Colored symbols for various log levels.",
-        "link": "sindresorhus_log-symbols",
+        "link": "https://github.com/sindresorhus/log-symbols",
         "level": 0
       },
       {
         "title": "figures",
         "subtitle": "Unicode symbols with Windows CMD fallbacks.",
-        "link": "sindresorhus_figures",
+        "link": "https://github.com/sindresorhus/figures",
         "level": 0
       },
       {
         "title": "boxen",
         "subtitle": "Create boxes in the terminal.",
-        "link": "sindresorhus_boxen",
+        "link": "https://github.com/sindresorhus/boxen",
         "level": 0
       },
       {
         "title": "string-width",
         "subtitle": "Get the visual width of a string - the number of columns required to display it.",
-        "link": "sindresorhus_string-width",
+        "link": "https://github.com/sindresorhus/string-width",
         "level": 0
       },
       {
         "title": "cli-truncate",
         "subtitle": "Truncate a string to a specific width in the terminal.",
-        "link": "sindresorhus_cli-truncate",
+        "link": "https://github.com/sindresorhus/cli-truncate",
         "level": 0
       },
       {
         "title": "first-run",
         "subtitle": "Check if it’s the first time the process is run.",
-        "link": "sindresorhus_first-run",
+        "link": "https://github.com/sindresorhus/first-run",
         "level": 0
       },
       {
         "title": "vorpal",
         "subtitle": "Interactive CLI apps.",
-        "link": "dthree_vorpal",
+        "link": "https://github.com/dthree/vorpal",
         "level": 0
       },
       {
         "title": "blessed",
         "subtitle": "Curses-like library.",
-        "link": "chjj_blessed",
+        "link": "https://github.com/chjj/blessed",
         "level": 0
       },
       {
         "title": "yn",
         "subtitle": "Parse yes/no like values.",
-        "link": "sindresorhus_yn",
+        "link": "https://github.com/sindresorhus/yn",
         "level": 0
       },
       {
         "title": "cli-table",
         "subtitle": "Pretty unicode tables.",
-        "link": "Automattic_cli-table",
+        "link": "https://github.com/Automattic/cli-table",
         "level": 0
       },
       {
         "title": "drawille",
         "subtitle": "Draw on the terminal with unicode braille characters.",
-        "link": "madbence_node-drawille",
+        "link": "https://github.com/madbence/node-drawille",
         "level": 0
       },
       {
         "title": "sudo-block",
         "subtitle": "Block users from running your app with root permissions.",
-        "link": "sindresorhus_sudo-block",
+        "link": "https://github.com/sindresorhus/sudo-block",
         "level": 0
       },
       {
         "title": "googleauth",
         "subtitle": "Create and load persistent Google authentication tokens for command-line apps.",
-        "link": "maxogden_googleauth",
+        "link": "https://github.com/maxogden/googleauth",
         "level": 0
       },
       {
         "title": "ascii-charts",
         "subtitle": "ASCII bar chart in the terminal.",
-        "link": "jstrace_chart",
+        "link": "https://github.com/jstrace/chart",
         "level": 0
       },
       {
         "title": "progress",
         "subtitle": "Flexible ascii progress bar.",
-        "link": "tj_node-progress",
+        "link": "https://github.com/tj/node-progress",
         "level": 0
       },
       {
         "title": "insight",
         "subtitle": "Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.",
-        "link": "yeoman_insight",
+        "link": "https://github.com/yeoman/insight",
         "level": 0
       },
       {
         "title": "cli-cursor",
         "subtitle": "Toggle the CLI cursor.",
-        "link": "sindresorhus_cli-cursor",
+        "link": "https://github.com/sindresorhus/cli-cursor",
         "level": 0
       },
       {
         "title": "columnify",
         "subtitle": "Create text-based columns suitable for console output. Supports cell wrapping.",
-        "link": "timoxley_columnify",
+        "link": "https://github.com/timoxley/columnify",
         "level": 0
       },
       {
         "title": "cli-columns",
         "subtitle": "Columnated unicode and ansi-safe text lists.",
-        "link": "shannonmoeller_cli-columns",
+        "link": "https://github.com/shannonmoeller/cli-columns",
         "level": 0
       },
       {
         "title": "cfonts",
         "subtitle": "Sexy ASCII fonts for the console.",
-        "link": "dominikwilkowski_cfonts",
+        "link": "https://github.com/dominikwilkowski/cfonts",
         "level": 0
       },
       {
         "title": "multispinner",
         "subtitle": "Multiple, simultaneous, individually controllable CLI spinners.",
-        "link": "codekirei_node-multispinner",
+        "link": "https://github.com/codekirei/node-multispinner",
         "level": 0
       },
       {
         "title": "omelette",
         "subtitle": "Shell autocompletion helper.",
-        "link": "f_omelette",
+        "link": "https://github.com/f/omelette",
         "level": 0
       },
       {
         "title": "cross-env",
         "subtitle": "Set environment variables cross-platform.",
-        "link": "kentcdodds_cross-env",
+        "link": "https://github.com/kentcdodds/cross-env",
         "level": 0
       },
       {
         "title": "shelljs",
         "subtitle": "Portable Unix shell commands.",
-        "link": "shelljs_shelljs",
+        "link": "https://github.com/shelljs/shelljs",
         "level": 0
       },
       {
         "title": "loud-rejection",
         "subtitle": "Make unhandled promise rejections fail loudly instead of the default silent fail.",
-        "link": "sindresorhus_loud-rejection",
+        "link": "https://github.com/sindresorhus/loud-rejection",
         "level": 0
       },
       {
         "title": "sparkly",
         "subtitle": "Generate sparklines ▁▂▃▅▂▇",
-        "link": "sindresorhus_sparkly",
+        "link": "https://github.com/sindresorhus/sparkly",
         "level": 0
       },
       {
         "title": "term-img",
         "subtitle": "Display images in your terminal.",
-        "link": "sindresorhus_term-img",
+        "link": "https://github.com/sindresorhus/term-img",
         "level": 0
       },
       {
         "title": "yargs",
         "subtitle": "Command-line parser that automatically generates an elegant user-interface.",
-        "link": "yargs_yargs",
+        "link": "https://github.com/yargs/yargs",
         "level": 0
       },
       {
         "title": "DraftLog",
         "subtitle": "Create multiple updatable log lines. Works just like",
-        "link": "ivanseidel_node-draftlog",
+        "link": "https://github.com/ivanseidel/node-draftlog",
         "level": 0
       },
       {
         "title": "Bit",
         "subtitle": "Create, maintain, find and use small modules and components across repositories.",
-        "link": "teambit_bit",
+        "link": "https://github.com/teambit/bit",
         "level": 0
       },
       {
         "title": "gradient-string",
         "subtitle": "Beautiful color gradients in terminal output.",
-        "link": "bokub_gradient-string",
+        "link": "https://github.com/bokub/gradient-string",
         "level": 0
       }
     ]
@@ -4288,79 +4288,79 @@ export default [
       {
         "title": "webpack",
         "subtitle": "Packs modules and assets for the browser.",
-        "link": "webpack_webpack",
+        "link": "https://github.com/webpack/webpack",
         "level": 0
       },
       {
         "title": "rollup",
         "subtitle": "Next-generation ES2015 module bundler.",
-        "link": "rollup_rollup",
+        "link": "https://github.com/rollup/rollup",
         "level": 0
       },
       {
         "title": "gulp",
         "subtitle": "Streaming and fast build system that favors code over config.",
-        "link": "_gulpjs.com",
+        "link": "http://gulpjs.com",
         "level": 0
       },
       {
         "title": "browserify",
         "subtitle": "Browser-side require() the Node.js way.",
-        "link": "substack_node-browserify",
+        "link": "https://github.com/substack/node-browserify",
         "level": 0
       },
       {
         "title": "Broccoli",
         "subtitle": "Fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.",
-        "link": "broccolijs_broccoli",
+        "link": "https://github.com/broccolijs/broccoli",
         "level": 0
       },
       {
         "title": "Brunch",
         "subtitle": "Front-end web app build tool with simple declarative config, fast incremental compilation, and an opinionated workflow.",
-        "link": "brunch_brunch",
+        "link": "https://github.com/brunch/brunch",
         "level": 0
       },
       {
         "title": "strong-build",
         "subtitle": "Build a node app package and prepare to deploy it as a package to production or use git to commit to a deploy branch.",
-        "link": "strongloop_strong-build",
+        "link": "https://github.com/strongloop/strong-build",
         "level": 0
       },
       {
         "title": "start",
         "subtitle": "Simple tasks runner powered by composable functions and promise chaining.",
-        "link": "start-runner_start",
+        "link": "https://github.com/start-runner/start",
         "level": 0
       },
       {
         "title": "ygor",
         "subtitle": "Promising task runner for when",
-        "link": "shannonmoeller_ygor",
+        "link": "https://github.com/shannonmoeller/ygor",
         "level": 0
       },
       {
         "title": "grunt",
         "subtitle": "Task runner that can perform repetitive tasks like minification, compilation, unit testing, linting, etc.",
-        "link": "_gruntjs.com",
+        "link": "http://gruntjs.com",
         "level": 0
       },
       {
         "title": "Fly",
         "subtitle": "Modern build system based in co-routines, generators and promises.",
-        "link": "bucaran_fly",
+        "link": "https://github.com/bucaran/fly",
         "level": 0
       },
       {
         "title": "FuseBox",
         "subtitle": "Fast build system that combines the power of webpack, JSPM and SystemJS, with first-class TypeScript support.",
-        "link": "fuse-box_fuse-box",
+        "link": "https://github.com/fuse-box/fuse-box",
         "level": 0
       },
       {
         "title": "pkg",
         "subtitle": "Package your Node.js project into an executable.",
-        "link": "zeit_pkg",
+        "link": "https://github.com/zeit/pkg",
         "level": 0
       }
     ]
@@ -4372,49 +4372,49 @@ export default [
       {
         "title": "johnny-five",
         "subtitle": "Firmata based Arduino Framework.",
-        "link": "rwaldron_johnny-five",
+        "link": "https://github.com/rwaldron/johnny-five",
         "level": 0
       },
       {
         "title": "serialport",
         "subtitle": "Access serial ports for reading and writing.",
-        "link": "voodootikigod_node-serialport",
+        "link": "https://github.com/voodootikigod/node-serialport",
         "level": 0
       },
       {
         "title": "usb",
         "subtitle": "USB library.",
-        "link": "nonolith_node-usb",
+        "link": "https://github.com/nonolith/node-usb",
         "level": 0
       },
       {
         "title": "cylon.js",
         "subtitle": "Next generation robotics framework with support for 26 different platforms.",
-        "link": "_cylonjs.com",
+        "link": "http://cylonjs.com",
         "level": 0
       },
       {
         "title": "i2c-bus",
         "subtitle": "I2C serial bus access.",
-        "link": "fivdi_i2c-bus",
+        "link": "https://github.com/fivdi/i2c-bus",
         "level": 0
       },
       {
         "title": "onoff",
         "subtitle": "GPIO access and interrupt detection.",
-        "link": "fivdi_onoff",
+        "link": "https://github.com/fivdi/onoff",
         "level": 0
       },
       {
         "title": "spi-device",
         "subtitle": "SPI serial bus access.",
-        "link": "fivdi_spi-device",
+        "link": "https://github.com/fivdi/spi-device",
         "level": 0
       },
       {
         "title": "pigpio",
         "subtitle": "Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.",
-        "link": "fivdi_pigpio",
+        "link": "https://github.com/fivdi/pigpio",
         "level": 0
       }
     ]
@@ -4426,37 +4426,37 @@ export default [
       {
         "title": "marko",
         "subtitle": "HTML-based templating engine that compiles templates to CommonJS modules and supports streaming, async rendering and custom tags.",
-        "link": "marko-js_marko",
+        "link": "https://github.com/marko-js/marko",
         "level": 0
       },
       {
         "title": "nunjucks",
         "subtitle": "Templating engine with inheritance, asynchronous control, and more (jinja2 inspired).",
-        "link": "mozilla_nunjucks",
+        "link": "https://github.com/mozilla/nunjucks",
         "level": 0
       },
       {
         "title": "handlebars.js",
         "subtitle": "Superset of Mustache templates which adds powerful features like helpers and more advanced blocks.",
-        "link": "wycats_handlebars.js",
+        "link": "https://github.com/wycats/handlebars.js",
         "level": 0
       },
       {
         "title": "hogan.js",
         "subtitle": "Twitter’s small, fast, phase-separated compiler for Mustache templates.",
-        "link": "hogan.js_",
+        "link": "http://twitter.github.io/hogan.js/",
         "level": 0
       },
       {
         "title": "EJS",
         "subtitle": "Simple unopinionated templating language.",
-        "link": "mde_ejs",
+        "link": "https://github.com/mde/ejs",
         "level": 0
       },
       {
         "title": "Pug",
         "subtitle": "High-performance template engine heavily influenced by Haml.",
-        "link": "pugjs_pug",
+        "link": "https://github.com/pugjs/pug",
         "level": 0
       }
     ]
@@ -4468,115 +4468,115 @@ export default [
       {
         "title": "Hapi",
         "subtitle": "Framework for building applications and services.",
-        "link": "_hapijs.com",
+        "link": "http://hapijs.com",
         "level": 0
       },
       {
         "title": "Koa",
         "subtitle": "Framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.",
-        "link": "_koajs.com",
+        "link": "http://koajs.com",
         "level": 0
       },
       {
         "title": "Express",
         "subtitle": "Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.",
-        "link": "_expressjs.com",
+        "link": "http://expressjs.com",
         "level": 0
       },
       {
         "title": "Feathers",
         "subtitle": "Microservice framework built in the spirit of Express.",
-        "link": "_feathersjs.com",
+        "link": "http://feathersjs.com",
         "level": 0
       },
       {
         "title": "LoopBack",
         "subtitle": "Powerful framework for creating REST APIs and easily connecting to backend data sources.",
-        "link": "_loopback.io",
+        "link": "http://loopback.io",
         "level": 0
       },
       {
         "title": "Meteor",
         "subtitle": "An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.",
-        "link": "_www.meteor.com",
+        "link": "https://www.meteor.com",
         "level": 0
       },
       {
         "title": "SailsJS",
         "subtitle": "An MVC web framework with a modern twist, supporting WebSockets, streams, and a data-driven API.",
-        "link": "_sailsjs.org",
+        "link": "http://sailsjs.org",
         "level": 0
       },
       {
         "title": "Restify",
         "subtitle": "Enables you to build correct REST web services.",
-        "link": "_restify.com",
+        "link": "http://restify.com",
         "level": 0
       },
       {
         "title": "Interfake",
         "subtitle": "Rapid prototyping framework for making mock HTTP APIs, with a Node.js, command-line and HTTP interface.",
-        "link": "basicallydan_interfake",
+        "link": "https://github.com/basicallydan/interfake",
         "level": 0
       },
       {
         "title": "Catberry",
         "subtitle": "Framework with Flux architecture, isomorphic web-components, and progressive rendering.",
-        "link": "_catberry.org",
+        "link": "http://catberry.org",
         "level": 0
       },
       {
         "title": "ThinkJS",
         "subtitle": "Framework with ES2015+ support, WebSockets, REST API.",
-        "link": "_thinkjs.org",
+        "link": "https://thinkjs.org",
         "level": 0
       },
       {
         "title": "ActionHero",
         "subtitle": "Framework for making reusable & scalable APIs for TCP sockets, WebSockets, and HTTP clients.",
-        "link": "_www.actionherojs.com",
+        "link": "http://www.actionherojs.com",
         "level": 0
       },
       {
         "title": "MERN",
         "subtitle": "Easily build production-ready universal apps with MongoDB, Express, React, and webpack.",
-        "link": "_mern.io",
+        "link": "http://mern.io",
         "level": 0
       },
       {
         "title": "Next.js",
         "subtitle": "Minimalistic framework for server-rendered universal JavaScript web apps.",
-        "link": "blog_next",
+        "link": "https://zeit.co/blog/next",
         "level": 0
       },
       {
         "title": "Nuxt.js",
         "subtitle": "Minimalistic framework for server-rendered Vue.js apps.",
-        "link": "_nuxtjs.org",
+        "link": "https://nuxtjs.org",
         "level": 0
       },
       {
         "title": "seneca",
         "subtitle": "Toolkit for writing microservices.",
-        "link": "senecajs_seneca",
+        "link": "https://github.com/senecajs/seneca",
         "level": 0
       },
       {
         "title": "AdonisJs",
         "subtitle": "A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.",
-        "link": "_adonisjs.com",
+        "link": "http://adonisjs.com",
         "level": 0
       },
       {
         "title": "Hemera",
         "subtitle": "Write reliable and fault-tolerant microservices with",
-        "link": "hemerajs_hemera",
+        "link": "https://github.com/hemerajs/hemera",
         "level": 0
       },
       {
         "title": "Micro",
         "subtitle": "Minimalistic microservice framework with an async approach.",
-        "link": "zeit_micro",
+        "link": "https://github.com/zeit/micro",
         "level": 0
       }
     ]
@@ -4588,49 +4588,49 @@ export default [
       {
         "title": "Docco",
         "subtitle": "Documentation generator which produces an HTML document that displays your comments intermingled with your code.",
-        "link": "docco_",
+        "link": "http://jashkenas.github.io/docco/",
         "level": 0
       },
       {
         "title": "JSDoc",
         "subtitle": "API documentation generator similar to JavaDoc or PHPDoc.",
-        "link": "_usejsdoc.org",
+        "link": "http://usejsdoc.org",
         "level": 0
       },
       {
         "title": "dox",
         "subtitle": "JavaScript documentation generator using Markdown and JSDoc.",
-        "link": "tj_dox",
+        "link": "https://github.com/tj/dox",
         "level": 0
       },
       {
         "title": "jsdox",
         "subtitle": "JSDoc3 to Markdown documentation generator.",
-        "link": "sutoiku_jsdox",
+        "link": "https://github.com/sutoiku/jsdox",
         "level": 0
       },
       {
         "title": "apiDoc",
         "subtitle": "Inline documentation for RESTful web APIs.",
-        "link": "apidoc_apidoc",
+        "link": "https://github.com/apidoc/apidoc",
         "level": 0
       },
       {
         "title": "documentation.js",
         "subtitle": "API documentation generator with support for ES2015+ and flow annotation.",
-        "link": "_documentation.js.org",
+        "link": "http://documentation.js.org",
         "level": 0
       },
       {
         "title": "YUIDoc",
         "subtitle": "Generates API documentation from comments in source.",
-        "link": "yuidoc_",
+        "link": "http://yui.github.com/yuidoc/",
         "level": 0
       },
       {
         "title": "ESDoc",
         "subtitle": "Documentation generator targeting ES2015, attaching test code and measuring documentation coverage.",
-        "link": "_esdoc.org",
+        "link": "https://esdoc.org",
         "level": 0
       }
     ]
@@ -4642,121 +4642,121 @@ export default [
       {
         "title": "del",
         "subtitle": "Delete files/folders using globs.",
-        "link": "sindresorhus_del",
+        "link": "https://github.com/sindresorhus/del",
         "level": 0
       },
       {
         "title": "globby",
         "subtitle": "Glob files with support for multiple patterns.",
-        "link": "sindresorhus_globby",
+        "link": "https://github.com/sindresorhus/globby",
         "level": 0
       },
       {
         "title": "cpy",
         "subtitle": "Copy files.",
-        "link": "sindresorhus_cpy",
+        "link": "https://github.com/sindresorhus/cpy",
         "level": 0
       },
       {
         "title": "rimraf",
         "subtitle": "Recursively delete files like",
-        "link": "isaacs_rimraf",
+        "link": "https://github.com/isaacs/rimraf",
         "level": 0
       },
       {
         "title": "make-dir",
         "subtitle": "Recursively create directories like",
-        "link": "sindresorhus_make-dir",
+        "link": "https://github.com/sindresorhus/make-dir",
         "level": 0
       },
       {
         "title": "graceful-fs",
         "subtitle": "Drop-in replacement for the",
-        "link": "isaacs_node-graceful-fs",
+        "link": "https://github.com/isaacs/node-graceful-fs",
         "level": 0
       },
       {
         "title": "chokidar",
         "subtitle": "Filesystem watcher which stabilizes events from",
-        "link": "paulmillr_chokidar",
+        "link": "https://github.com/paulmillr/chokidar",
         "level": 0
       },
       {
         "title": "find-up",
         "subtitle": "Find a file by walking up parent directories.",
-        "link": "sindresorhus_find-up",
+        "link": "https://github.com/sindresorhus/find-up",
         "level": 0
       },
       {
         "title": "proper-lockfile",
         "subtitle": "Inter-process and inter-machine lockfile utility.",
-        "link": "IndigoUnited_node-proper-lockfile",
+        "link": "https://github.com/IndigoUnited/node-proper-lockfile",
         "level": 0
       },
       {
         "title": "load-json-file",
         "subtitle": "Read and parse a JSON file.",
-        "link": "sindresorhus_load-json-file",
+        "link": "https://github.com/sindresorhus/load-json-file",
         "level": 0
       },
       {
         "title": "write-json-file",
         "subtitle": "Stringify and write JSON to a file atomically.",
-        "link": "sindresorhus_write-json-file",
+        "link": "https://github.com/sindresorhus/write-json-file",
         "level": 0
       },
       {
         "title": "fs-write-stream-atomic",
         "subtitle": "Like",
-        "link": "npm_fs-write-stream-atomic",
+        "link": "https://github.com/npm/fs-write-stream-atomic",
         "level": 0
       },
       {
         "title": "filenamify",
         "subtitle": "Convert a string to a valid filename.",
-        "link": "sindresorhus_filenamify",
+        "link": "https://github.com/sindresorhus/filenamify",
         "level": 0
       },
       {
         "title": "lnfs",
         "subtitle": "Force create symlinks like",
-        "link": "kevva_lnfs",
+        "link": "https://github.com/kevva/lnfs",
         "level": 0
       },
       {
         "title": "istextorbinary",
         "subtitle": "Check if a file is text or binary.",
-        "link": "bevry_istextorbinary",
+        "link": "https://github.com/bevry/istextorbinary",
         "level": 0
       },
       {
         "title": "fs-jetpack",
         "subtitle": "Completely redesigned file system API for convenience in everyday use.",
-        "link": "szwacz_fs-jetpack",
+        "link": "https://github.com/szwacz/fs-jetpack",
         "level": 0
       },
       {
         "title": "fs-extra",
         "subtitle": "Extra methods for the",
-        "link": "jprichardson_node-fs-extra",
+        "link": "https://github.com/jprichardson/node-fs-extra",
         "level": 0
       },
       {
         "title": "pkg-dir",
         "subtitle": "Find the root directory of an npm package.",
-        "link": "sindresorhus_pkg-dir",
+        "link": "https://github.com/sindresorhus/pkg-dir",
         "level": 0
       },
       {
         "title": "sander",
         "subtitle": "Promise-based replacement for the",
-        "link": "rich-harris_sander",
+        "link": "https://github.com/rich-harris/sander",
         "level": 0
       },
       {
         "title": "filehound",
         "subtitle": "Flexible and fluent interface for searching the file system.",
-        "link": "nspragg_filehound",
+        "link": "https://github.com/nspragg/filehound",
         "level": 0
       }
     ]
@@ -4774,43 +4774,43 @@ export default [
       {
         "title": "Bluebird",
         "subtitle": "Promise library with focus on innovative features and performance.",
-        "link": "petkaantonov_bluebird",
+        "link": "https://github.com/petkaantonov/bluebird",
         "level": 1
       },
       {
         "title": "pify",
         "subtitle": "Promisify a callback-style function.",
-        "link": "sindresorhus_pify",
+        "link": "https://github.com/sindresorhus/pify",
         "level": 1
       },
       {
         "title": "delay",
         "subtitle": "Delay a promise a specified amount of time.",
-        "link": "sindresorhus_delay",
+        "link": "https://github.com/sindresorhus/delay",
         "level": 1
       },
       {
         "title": "promise-memoize",
         "subtitle": "Memoize promise-returning functions, with expire and prefetch.",
-        "link": "nodeca_promise-memoize",
+        "link": "https://github.com/nodeca/promise-memoize",
         "level": 1
       },
       {
         "title": "valvelet",
         "subtitle": "Limit the execution rate of a promise-returning function.",
-        "link": "lpinca_valvelet",
+        "link": "https://github.com/lpinca/valvelet",
         "level": 1
       },
       {
         "title": "p-map",
         "subtitle": "Map over promises concurrently.",
-        "link": "sindresorhus_p-map",
+        "link": "https://github.com/sindresorhus/p-map",
         "level": 1
       },
       {
         "title": "More…",
         "subtitle": "",
-        "link": "wbinnssmith_awesome-promises",
+        "link": "https://github.com/wbinnssmith/awesome-promises",
         "level": 1
       },
       {
@@ -4822,25 +4822,25 @@ export default [
       {
         "title": "zen-observable",
         "subtitle": "Implementation of Observables.",
-        "link": "zenparsing_zen-observable",
+        "link": "https://github.com/zenparsing/zen-observable",
         "level": 1
       },
       {
         "title": "RxJS",
         "subtitle": "Reactive programming.",
-        "link": "ReactiveX_RxJS",
+        "link": "https://github.com/ReactiveX/RxJS",
         "level": 1
       },
       {
         "title": "observable-to-promise",
         "subtitle": "Convert an Observable to a Promise.",
-        "link": "sindresorhus_awesome-observables",
+        "link": "https://github.com/sindresorhus/awesome-observables",
         "level": 1
       },
       {
         "title": "More…",
         "subtitle": "",
-        "link": "sindresorhus_awesome-observables",
+        "link": "https://github.com/sindresorhus/awesome-observables",
         "level": 1
       },
       {
@@ -4852,19 +4852,19 @@ export default [
       {
         "title": "co",
         "subtitle": "The ultimate generator based flow-control goodness.",
-        "link": "tj_co",
+        "link": "https://github.com/tj/co",
         "level": 1
       },
       {
         "title": "bluebird-co",
         "subtitle": "High performance yield handlers for Bluebird coroutines.",
-        "link": "novacrazy_bluebird-co",
+        "link": "https://github.com/novacrazy/bluebird-co",
         "level": 1
       },
       {
         "title": "iterum",
         "subtitle": "Build generator pipelines using Array-like methods.",
-        "link": "xgbuils_iterum",
+        "link": "https://github.com/xgbuils/iterum",
         "level": 1
       },
       {
@@ -4876,7 +4876,7 @@ export default [
       {
         "title": "Highland.js",
         "subtitle": "Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.",
-        "link": "_highlandjs.org",
+        "link": "http://highlandjs.org",
         "level": 1
       },
       {
@@ -4888,13 +4888,13 @@ export default [
       {
         "title": "each-async",
         "subtitle": "Async concurrent iterator like forEach.",
-        "link": "sindresorhus_each-async",
+        "link": "https://github.com/sindresorhus/each-async",
         "level": 1
       },
       {
         "title": "async",
         "subtitle": "Provides straight-forward, powerful functions for working with asynchronicity.",
-        "link": "caolan_async",
+        "link": "https://github.com/caolan/async",
         "level": 1
       },
       {
@@ -4906,7 +4906,7 @@ export default [
       {
         "title": "js-csp",
         "subtitle": "Communicating sequential processes for JavaScript (like Clojurescript core.async, or Go).",
-        "link": "ubolonton_js-csp",
+        "link": "https://github.com/ubolonton/js-csp",
         "level": 1
       },
       {
@@ -4918,7 +4918,7 @@ export default [
       {
         "title": "zone",
         "subtitle": "Provides a way to group and track resources and errors across asynchronous operations.",
-        "link": "strongloop_zone",
+        "link": "https://github.com/strongloop/zone",
         "level": 1
       }
     ]
@@ -4930,97 +4930,97 @@ export default [
       {
         "title": "through2",
         "subtitle": "Tiny wrapper around streams2 Transform to avoid explicit subclassing noise.",
-        "link": "rvagg_through2",
+        "link": "https://github.com/rvagg/through2",
         "level": 0
       },
       {
         "title": "from2",
         "subtitle": "Convenience wrapper for ReadableStream, inspired by",
-        "link": "hughsk_from2",
+        "link": "https://github.com/hughsk/from2",
         "level": 0
       },
       {
         "title": "get-stream",
         "subtitle": "Get a stream as a string or buffer.",
-        "link": "sindresorhus_get-stream",
+        "link": "https://github.com/sindresorhus/get-stream",
         "level": 0
       },
       {
         "title": "into-stream",
         "subtitle": "Convert a buffer/string/array/object into a stream.",
-        "link": "sindresorhus_into-stream",
+        "link": "https://github.com/sindresorhus/into-stream",
         "level": 0
       },
       {
         "title": "duplexify",
         "subtitle": "Turn a writeable and readable stream into a single streams2 duplex stream.",
-        "link": "mafintosh_duplexify",
+        "link": "https://github.com/mafintosh/duplexify",
         "level": 0
       },
       {
         "title": "pumpify",
         "subtitle": "Combine an array of streams into a single duplex stream.",
-        "link": "mafintosh_pumpify",
+        "link": "https://github.com/mafintosh/pumpify",
         "level": 0
       },
       {
         "title": "peek-stream",
         "subtitle": "Transform stream that lets you peek the first line before deciding how to parse it.",
-        "link": "mafintosh_peek-stream",
+        "link": "https://github.com/mafintosh/peek-stream",
         "level": 0
       },
       {
         "title": "binary-split",
         "subtitle": "Newline (or any delimiter) splitter stream.",
-        "link": "maxogden_binary-split",
+        "link": "https://github.com/maxogden/binary-split",
         "level": 0
       },
       {
         "title": "byline",
         "subtitle": "Super-simple line-by-line Stream reader.",
-        "link": "jahewson_node-byline",
+        "link": "https://github.com/jahewson/node-byline",
         "level": 0
       },
       {
         "title": "first-chunk-stream",
         "subtitle": "Transform the first chunk in a stream.",
-        "link": "sindresorhus_first-chunk-stream",
+        "link": "https://github.com/sindresorhus/first-chunk-stream",
         "level": 0
       },
       {
         "title": "pad-stream",
         "subtitle": "Pad each line in a stream.",
-        "link": "sindresorhus_pad-stream",
+        "link": "https://github.com/sindresorhus/pad-stream",
         "level": 0
       },
       {
         "title": "multistream",
         "subtitle": "Combine multiple streams into a single stream.",
-        "link": "feross_multistream",
+        "link": "https://github.com/feross/multistream",
         "level": 0
       },
       {
         "title": "stream-combiner2",
         "subtitle": "Turn a pipeline into a single stream.",
-        "link": "substack_stream-combiner2",
+        "link": "https://github.com/substack/stream-combiner2",
         "level": 0
       },
       {
         "title": "readable-stream",
         "subtitle": "Mirror of Streams2 and Streams3 implementations in core.",
-        "link": "nodejs_readable-stream",
+        "link": "https://github.com/nodejs/readable-stream",
         "level": 0
       },
       {
         "title": "through2-concurrent",
         "subtitle": "Transform object streams concurrently.",
-        "link": "almost_through2-concurrent",
+        "link": "https://github.com/almost/through2-concurrent",
         "level": 0
       },
       {
         "title": "graphicsmagick-stream",
         "subtitle": "Fast conversion/scaling of images using a pool of long lived GraphicsMagick processes.",
-        "link": "e-conomic_graphicsmagick-stream",
+        "link": "https://github.com/e-conomic/graphicsmagick-stream",
         "level": 0
       }
     ]
@@ -5032,61 +5032,61 @@ export default [
       {
         "title": "µWebSockets",
         "subtitle": "Highly scalable WebSocket server & client library.",
-        "link": "uWebSockets_uWebSockets",
+        "link": "https://github.com/uWebSockets/uWebSockets",
         "level": 0
       },
       {
         "title": "Socket.io",
         "subtitle": "Enables real-time bidirectional event-based communication.",
-        "link": "_socket.io",
+        "link": "http://socket.io",
         "level": 0
       },
       {
         "title": "SockJS",
         "subtitle": "Low latency, full duplex, cross-domain channel browser-server, with WebSockets or without.",
-        "link": "sockjs_sockjs-node",
+        "link": "https://github.com/sockjs/sockjs-node",
         "level": 0
       },
       {
         "title": "Faye",
         "subtitle": "Real-time client-server message bus, based on Bayeux protocol.",
-        "link": "_faye.jcoglan.com",
+        "link": "http://faye.jcoglan.com",
         "level": 0
       },
       {
         "title": "SocketCluster",
         "subtitle": "Scalable HTTP + WebSocket engine which can run on multiple CPU cores.",
-        "link": "SocketCluster_socketcluster",
+        "link": "https://github.com/SocketCluster/socketcluster",
         "level": 0
       },
       {
         "title": "Primus",
         "subtitle": "An abstraction layer for real-time frameworks to prevent module lock-in.",
-        "link": "primus_primus",
+        "link": "https://github.com/primus/primus",
         "level": 0
       },
       {
         "title": "Straw",
         "subtitle": "Real-time dataflow framework.",
-        "link": "simonswain_straw",
+        "link": "https://github.com/simonswain/straw",
         "level": 0
       },
       {
         "title": "deepstream.io",
         "subtitle": "Scalable real-time microservice framework.",
-        "link": "_deepstream.io",
+        "link": "https://deepstream.io",
         "level": 0
       },
       {
         "title": "Kalm",
         "subtitle": "Low-level socket router and middleware framework.",
-        "link": "kalm_kalm.js",
+        "link": "https://github.com/kalm/kalm.js",
         "level": 0
       },
       {
         "title": "MQTT.js",
         "subtitle": "Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.",
-        "link": "mqttjs_MQTT.js",
+        "link": "https://github.com/mqttjs/MQTT.js",
         "level": 0
       }
     ]
@@ -5098,49 +5098,49 @@ export default [
       {
         "title": "sharp",
         "subtitle": "The fastest module for resizing JPEG, PNG, WebP and TIFF images.",
-        "link": "lovell_sharp",
+        "link": "https://github.com/lovell/sharp",
         "level": 0
       },
       {
         "title": "image-type",
         "subtitle": "Detect the image type of a Buffer/Uint8Array.",
-        "link": "sindresorhus_image-type",
+        "link": "https://github.com/sindresorhus/image-type",
         "level": 0
       },
       {
         "title": "gm",
         "subtitle": "GraphicsMagick and ImageMagick wrapper.",
-        "link": "aheckmann_gm",
+        "link": "https://github.com/aheckmann/gm",
         "level": 0
       },
       {
         "title": "lwip",
         "subtitle": "Lightweight image processor which does not require ImageMagick.",
-        "link": "EyalAr_lwip",
+        "link": "https://github.com/EyalAr/lwip",
         "level": 0
       },
       {
         "title": "pica",
         "subtitle": "High quality & fast resize (lanczos3) in pure JS. Alternative to canvas drawImage(), when no pixelation allowed.",
-        "link": "nodeca_pica",
+        "link": "https://github.com/nodeca/pica",
         "level": 0
       },
       {
         "title": "jimp",
         "subtitle": "Image processing in pure JavaScript.",
-        "link": "oliver-moran_jimp",
+        "link": "https://github.com/oliver-moran/jimp",
         "level": 0
       },
       {
         "title": "is-progressive",
         "subtitle": "Check if a JPEG image is progressive.",
-        "link": "sindresorhus_is-progressive",
+        "link": "https://github.com/sindresorhus/is-progressive",
         "level": 0
       },
       {
         "title": "probe-image-size",
         "subtitle": "Get the size of most image formats without a full download.",
-        "link": "nodeca_probe-image-size",
+        "link": "https://github.com/nodeca/probe-image-size",
         "level": 0
       }
     ]
@@ -5152,97 +5152,97 @@ export default [
       {
         "title": "Underscore.string",
         "subtitle": "Collection of string manipulation utilities.",
-        "link": "epeli_underscore.string",
+        "link": "https://github.com/epeli/underscore.string",
         "level": 0
       },
       {
         "title": "iconv-lite",
         "subtitle": "Convert character encodings.",
-        "link": "ashtuchkin_iconv-lite",
+        "link": "https://github.com/ashtuchkin/iconv-lite",
         "level": 0
       },
       {
         "title": "string-length",
         "subtitle": "Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes.",
-        "link": "sindresorhus_string-length",
+        "link": "https://github.com/sindresorhus/string-length",
         "level": 0
       },
       {
         "title": "camelcase",
         "subtitle": "Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.",
-        "link": "sindresorhus_camelcase",
+        "link": "https://github.com/sindresorhus/camelcase",
         "level": 0
       },
       {
         "title": "escape-string-regexp",
         "subtitle": "Escape RegExp special characters.",
-        "link": "sindresorhus_escape-string-regexp",
+        "link": "https://github.com/sindresorhus/escape-string-regexp",
         "level": 0
       },
       {
         "title": "execall",
         "subtitle": "Find multiple RegExp matches in a string.",
-        "link": "sindresorhus_execall",
+        "link": "https://github.com/sindresorhus/execall",
         "level": 0
       },
       {
         "title": "splice-string",
         "subtitle": "Remove or replace part of a string like",
-        "link": "sindresorhus_splice-string",
+        "link": "https://github.com/sindresorhus/splice-string",
         "level": 0
       },
       {
         "title": "indent-string",
         "subtitle": "Indent each line in a string.",
-        "link": "sindresorhus_indent-string",
+        "link": "https://github.com/sindresorhus/indent-string",
         "level": 0
       },
       {
         "title": "strip-indent",
         "subtitle": "Strip leading whitespace from every line in a string.",
-        "link": "sindresorhus_strip-indent",
+        "link": "https://github.com/sindresorhus/strip-indent",
         "level": 0
       },
       {
         "title": "detect-indent",
         "subtitle": "Detect the indentation of code.",
-        "link": "sindresorhus_detect-indent",
+        "link": "https://github.com/sindresorhus/detect-indent",
         "level": 0
       },
       {
         "title": "he",
         "subtitle": "HTML entity encoder/decoder.",
-        "link": "mathiasbynens_he",
+        "link": "https://github.com/mathiasbynens/he",
         "level": 0
       },
       {
         "title": "i18n-node",
         "subtitle": "Simple translation module with dynamic JSON storage.",
-        "link": "mashpie_i18n-node",
+        "link": "https://github.com/mashpie/i18n-node",
         "level": 0
       },
       {
         "title": "babelfish",
         "subtitle": "i18n with very easy syntax for plurals.",
-        "link": "nodeca_babelfish",
+        "link": "https://github.com/nodeca/babelfish",
         "level": 0
       },
       {
         "title": "hanging-indent",
         "subtitle": "Format a string into a hanging-indented paragraph.",
-        "link": "codekirei_hanging-indent",
+        "link": "https://github.com/codekirei/hanging-indent",
         "level": 0
       },
       {
         "title": "matcher",
         "subtitle": "Simple wildcard matching.",
-        "link": "sindresorhus_matcher",
+        "link": "https://github.com/sindresorhus/matcher",
         "level": 0
       },
       {
         "title": "unhomoglyph",
         "subtitle": "Normalize visually similar unicode characters.",
-        "link": "nodeca_unhomoglyph",
+        "link": "https://github.com/nodeca/unhomoglyph",
         "level": 0
       }
     ]
@@ -5254,25 +5254,25 @@ export default [
       {
         "title": "random-int",
         "subtitle": "Generate a random integer.",
-        "link": "sindresorhus_random-int",
+        "link": "https://github.com/sindresorhus/random-int",
         "level": 0
       },
       {
         "title": "random-float",
         "subtitle": "Generate a random float.",
-        "link": "sindresorhus_random-float",
+        "link": "https://github.com/sindresorhus/random-float",
         "level": 0
       },
       {
         "title": "unique-random",
         "subtitle": "Generate random numbers that are consecutively unique.",
-        "link": "sindresorhus_unique-random",
+        "link": "https://github.com/sindresorhus/unique-random",
         "level": 0
       },
       {
         "title": "round-to",
         "subtitle": "Round a number to a specific number of decimal places:",
-        "link": "sindresorhus_round-to",
+        "link": "https://github.com/sindresorhus/round-to",
         "level": 0
       }
     ]
@@ -5284,31 +5284,31 @@ export default [
       {
         "title": "ndarray",
         "subtitle": "Multidimensional arrays.",
-        "link": "scijs_ndarray",
+        "link": "https://github.com/scijs/ndarray",
         "level": 0
       },
       {
         "title": "mathjs",
         "subtitle": "An extensive math library.",
-        "link": "josdejong_mathjs",
+        "link": "https://github.com/josdejong/mathjs",
         "level": 0
       },
       {
         "title": "math-sum",
         "subtitle": "Sum numbers.",
-        "link": "sindresorhus_math-sum",
+        "link": "https://github.com/sindresorhus/math-sum",
         "level": 0
       },
       {
         "title": "math-clamp",
         "subtitle": "Clamp a number.",
-        "link": "sindresorhus_math-clamp",
+        "link": "https://github.com/sindresorhus/math-clamp",
         "level": 0
       },
       {
         "title": "algebra",
         "subtitle": "Algebraic structures.",
-        "link": "fibo_algebra",
+        "link": "https://github.com/fibo/algebra",
         "level": 0
       }
     ]
@@ -5320,37 +5320,37 @@ export default [
       {
         "title": "date-fns",
         "subtitle": "Modern date utility.",
-        "link": "date-fns_date-fns",
+        "link": "https://github.com/date-fns/date-fns",
         "level": 0
       },
       {
         "title": "Moment.js",
         "subtitle": "Parse, validate, manipulate, and display dates.",
-        "link": "_momentjs.com",
+        "link": "http://momentjs.com",
         "level": 0
       },
       {
         "title": "Moment Timezone",
         "subtitle": "IANA Time Zone Database + Moment.js.",
-        "link": "timezone_",
+        "link": "http://momentjs.com/timezone/",
         "level": 0
       },
       {
         "title": "dateformat",
         "subtitle": "Date formatting.",
-        "link": "felixge_node-dateformat",
+        "link": "https://github.com/felixge/node-dateformat",
         "level": 0
       },
       {
         "title": "tz-format",
         "subtitle": "Format a date with timezone:",
-        "link": "samverschueren_tz-format",
+        "link": "https://github.com/samverschueren/tz-format",
         "level": 0
       },
       {
         "title": "cctz",
         "subtitle": "Fast parsing, formatting, and timezone conversation for dates.",
-        "link": "floatdrop_node-cctz",
+        "link": "https://github.com/floatdrop/node-cctz",
         "level": 0
       }
     ]
@@ -5362,43 +5362,43 @@ export default [
       {
         "title": "normalize-url",
         "subtitle": "Normalize a URL.",
-        "link": "sindresorhus_normalize-url",
+        "link": "https://github.com/sindresorhus/normalize-url",
         "level": 0
       },
       {
         "title": "humanize-url",
         "subtitle": "Humanize a URL:",
-        "link": "sindresorhus_humanize-url",
+        "link": "https://github.com/sindresorhus/humanize-url",
         "level": 0
       },
       {
         "title": "url-unshort",
         "subtitle": "Expand shortened URLs.",
-        "link": "nodeca_url-unshort",
+        "link": "https://github.com/nodeca/url-unshort",
         "level": 0
       },
       {
         "title": "speakingurl",
         "subtitle": "Generate a slug from a string with transliteration.",
-        "link": "pid_speakingurl",
+        "link": "https://github.com/pid/speakingurl",
         "level": 0
       },
       {
         "title": "linkify-it",
         "subtitle": "Link patterns detector with full unicode support.",
-        "link": "markdown-it_linkify-it",
+        "link": "https://github.com/markdown-it/linkify-it",
         "level": 0
       },
       {
         "title": "url-pattern",
         "subtitle": "Easier than regex string matching patterns for URLs and other strings.",
-        "link": "snd_url-pattern",
+        "link": "https://github.com/snd/url-pattern",
         "level": 0
       },
       {
         "title": "embedza",
         "subtitle": "Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.",
-        "link": "nodeca_embedza",
+        "link": "https://github.com/nodeca/embedza",
         "level": 0
       }
     ]
@@ -5410,31 +5410,31 @@ export default [
       {
         "title": "joi",
         "subtitle": "Object schema description language and validator for JavaScript objects.",
-        "link": "hapijs_joi",
+        "link": "https://github.com/hapijs/joi",
         "level": 0
       },
       {
         "title": "is-my-json-valid",
         "subtitle": "JSON Schema validator that uses code generation to be extremely fast.",
-        "link": "mafintosh_is-my-json-valid",
+        "link": "https://github.com/mafintosh/is-my-json-valid",
         "level": 0
       },
       {
         "title": "property-validator",
         "subtitle": "Easy property validation for Express.",
-        "link": "nettofarah_property-validator",
+        "link": "https://github.com/nettofarah/property-validator",
         "level": 0
       },
       {
         "title": "schema-inspector",
         "subtitle": "JSON API sanitization and validation.",
-        "link": "Atinux_schema-inspector",
+        "link": "https://github.com/Atinux/schema-inspector",
         "level": 0
       },
       {
         "title": "ajv",
         "subtitle": "The fastest JSON Schema validator. Supports v5 proposals.",
-        "link": "epoberezkin_ajv",
+        "link": "https://github.com/epoberezkin/ajv",
         "level": 0
       }
     ]
@@ -5446,145 +5446,145 @@ export default [
       {
         "title": "remark",
         "subtitle": "Markdown processor powered by plugins.",
-        "link": "wooorm_remark",
+        "link": "https://github.com/wooorm/remark",
         "level": 0
       },
       {
         "title": "markdown-it",
         "subtitle": "Markdown parser with 100% CommonMark support, extensions and syntax plugins.",
-        "link": "markdown-it_markdown-it",
+        "link": "https://github.com/markdown-it/markdown-it",
         "level": 0
       },
       {
         "title": "parse5",
         "subtitle": "Fast full-featured spec compliant HTML parser.",
-        "link": "inikulin_parse5",
+        "link": "https://github.com/inikulin/parse5",
         "level": 0
       },
       {
         "title": "strip-json-comments",
         "subtitle": "Strip comments from JSON.",
-        "link": "sindresorhus_strip-json-comments",
+        "link": "https://github.com/sindresorhus/strip-json-comments",
         "level": 0
       },
       {
         "title": "strip-css-comments",
         "subtitle": "Strip comments from CSS.",
-        "link": "sindresorhus_strip-css-comments",
+        "link": "https://github.com/sindresorhus/strip-css-comments",
         "level": 0
       },
       {
         "title": "parse-json",
         "subtitle": "Parse JSON with more helpful errors.",
-        "link": "sindresorhus_parse-json",
+        "link": "https://github.com/sindresorhus/parse-json",
         "level": 0
       },
       {
         "title": "URI.js",
         "subtitle": "URL mutation.",
-        "link": "medialize_URI.js",
+        "link": "https://github.com/medialize/URI.js",
         "level": 0
       },
       {
         "title": "PostCSS",
         "subtitle": "CSS parser / stringifier.",
-        "link": "postcss_postcss",
+        "link": "https://github.com/postcss/postcss",
         "level": 0
       },
       {
         "title": "JSONStream",
         "subtitle": "Streaming JSON.parse and stringify.",
-        "link": "dominictarr_JSONStream",
+        "link": "https://github.com/dominictarr/JSONStream",
         "level": 0
       },
       {
         "title": "neat-csv",
         "subtitle": "Fast CSV parser. Callback interface for the above.",
-        "link": "sindresorhus_neat-csv",
+        "link": "https://github.com/sindresorhus/neat-csv",
         "level": 0
       },
       {
         "title": "csv-parser",
         "subtitle": "Streaming CSV parser that aims to be faster than everyone else.",
-        "link": "mafintosh_csv-parser",
+        "link": "https://github.com/mafintosh/csv-parser",
         "level": 0
       },
       {
         "title": "PEG.js",
         "subtitle": "Simple parser generator that produces fast parsers with excellent error reporting.",
-        "link": "pegjs_pegjs",
+        "link": "https://github.com/pegjs/pegjs",
         "level": 0
       },
       {
         "title": "x-ray",
         "subtitle": "Web scraping utility.",
-        "link": "lapwinglabs_x-ray",
+        "link": "https://github.com/lapwinglabs/x-ray",
         "level": 0
       },
       {
         "title": "nearley",
         "subtitle": "Simple, fast, powerful parsing for JavaScript.",
-        "link": "Hardmath123_nearley",
+        "link": "https://github.com/Hardmath123/nearley",
         "level": 0
       },
       {
         "title": "binary-extract",
         "subtitle": "Extract a value from a buffer of JSON without parsing the whole thing.",
-        "link": "juliangruber_binary-extract",
+        "link": "https://github.com/juliangruber/binary-extract",
         "level": 0
       },
       {
         "title": "json-mask",
         "subtitle": "Tiny language and engine for selecting parts of an object, hiding/masking the rest.",
-        "link": "nemtsov_json-mask",
+        "link": "https://github.com/nemtsov/json-mask",
         "level": 0
       },
       {
         "title": "Stylecow",
         "subtitle": "Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.",
-        "link": "stylecow_stylecow",
+        "link": "https://github.com/stylecow/stylecow",
         "level": 0
       },
       {
         "title": "js-yaml",
         "subtitle": "Very fast YAML parser.",
-        "link": "nodeca_js-yaml",
+        "link": "https://github.com/nodeca/js-yaml",
         "level": 0
       },
       {
         "title": "excel-stream",
         "subtitle": "Streaming Excel spreadsheet to JSON parser.",
-        "link": "dominictarr_excel-stream",
+        "link": "https://github.com/dominictarr/excel-stream",
         "level": 0
       },
       {
         "title": "xml2js",
         "subtitle": "XML to JavaScript object converter.",
-        "link": "Leonidas-from-XIV_node-xml2js",
+        "link": "https://github.com/Leonidas-from-XIV/node-xml2js",
         "level": 0
       },
       {
         "title": "Jison",
         "subtitle": "Friendly JavaScript parser generator. It shares genes with Bison, Yacc and family.",
-        "link": "jison_",
+        "link": "http://zaach.github.io/jison/",
         "level": 0
       },
       {
         "title": "google-libphonenumber",
         "subtitle": "Parse, format, store and validate phone numbers.",
-        "link": "seegno_google-libphonenumber",
+        "link": "https://github.com/seegno/google-libphonenumber",
         "level": 0
       },
       {
         "title": "ref",
         "subtitle": "Read/write structured binary data in Buffers.",
-        "link": "TooTallNate_ref",
+        "link": "https://github.com/TooTallNate/ref",
         "level": 0
       },
       {
         "title": "xlsx-populate",
         "subtitle": "Read/write Excel XLSX.",
-        "link": "dtjohnson_xlsx-populate",
+        "link": "https://github.com/dtjohnson/xlsx-populate",
         "level": 0
       }
     ]
@@ -5596,37 +5596,37 @@ export default [
       {
         "title": "pretty-bytes",
         "subtitle": "Convert bytes to a human readable string:",
-        "link": "sindresorhus_pretty-bytes",
+        "link": "https://github.com/sindresorhus/pretty-bytes",
         "level": 0
       },
       {
         "title": "pretty-ms",
         "subtitle": "Convert milliseconds to a human readable string:",
-        "link": "sindresorhus_pretty-ms",
+        "link": "https://github.com/sindresorhus/pretty-ms",
         "level": 0
       },
       {
         "title": "ms",
         "subtitle": "Tiny millisecond conversion utility.",
-        "link": "rauchg_ms.js",
+        "link": "https://github.com/rauchg/ms.js",
         "level": 0
       },
       {
         "title": "pretty-error",
         "subtitle": "Errors with less clutter.",
-        "link": "AriaMinaei_pretty-error",
+        "link": "https://github.com/AriaMinaei/pretty-error",
         "level": 0
       },
       {
         "title": "humanize",
         "subtitle": "Data formatter for human readability.",
-        "link": "taijinlee_humanize",
+        "link": "https://github.com/taijinlee/humanize",
         "level": 0
       },
       {
         "title": "read-art",
         "subtitle": "Extract readable content from any page.",
-        "link": "Tjatse_node-readability",
+        "link": "https://github.com/Tjatse/node-readability",
         "level": 0
       }
     ]
@@ -5638,37 +5638,37 @@ export default [
       {
         "title": "yazl",
         "subtitle": "Zip.",
-        "link": "thejoshwolfe_yazl",
+        "link": "https://github.com/thejoshwolfe/yazl",
         "level": 0
       },
       {
         "title": "yauzl",
         "subtitle": "Unzip.",
-        "link": "thejoshwolfe_yauzl",
+        "link": "https://github.com/thejoshwolfe/yauzl",
         "level": 0
       },
       {
         "title": "Archiver",
         "subtitle": "Streaming interface for archive generation, supporting ZIP and TAR.",
-        "link": "archiverjs_node-archiver",
+        "link": "https://github.com/archiverjs/node-archiver",
         "level": 0
       },
       {
         "title": "pako",
         "subtitle": "High speed zlib port to pure js (deflate, inflate, gzip).",
-        "link": "nodeca_pako",
+        "link": "https://github.com/nodeca/pako",
         "level": 0
       },
       {
         "title": "tar-stream",
         "subtitle": "Streaming tar parser and generator. Also see",
-        "link": "mafintosh_tar-stream",
+        "link": "https://github.com/mafintosh/tar-stream",
         "level": 0
       },
       {
         "title": "decompress",
         "subtitle": "Decompression module with support for",
-        "link": "kevva_decompress",
+        "link": "https://github.com/kevva/decompress",
         "level": 0
       }
     ]
@@ -5680,31 +5680,31 @@ export default [
       {
         "title": "get-port",
         "subtitle": "Get an available port.",
-        "link": "sindresorhus_get-port",
+        "link": "https://github.com/sindresorhus/get-port",
         "level": 0
       },
       {
         "title": "ipify",
         "subtitle": "Get your public IP address.",
-        "link": "sindresorhus_ipify",
+        "link": "https://github.com/sindresorhus/ipify",
         "level": 0
       },
       {
         "title": "getmac",
         "subtitle": "Get the computer MAC address.",
-        "link": "bevry_getmac",
+        "link": "https://github.com/bevry/getmac",
         "level": 0
       },
       {
         "title": "polo",
         "subtitle": "Zero-config service discovery.",
-        "link": "mafintosh_polo",
+        "link": "https://github.com/mafintosh/polo",
         "level": 0
       },
       {
         "title": "DHCP",
         "subtitle": "DHCP client and server.",
-        "link": "infusion_node-dhcp",
+        "link": "https://github.com/infusion/node-dhcp",
         "level": 0
       }
     ]
@@ -5722,49 +5722,49 @@ export default [
       {
         "title": "PostgreSQL",
         "subtitle": "PostgreSQL client. Pure JavaScript and native libpq bindings.",
-        "link": "brianc_node-postgres",
+        "link": "https://github.com/brianc/node-postgres",
         "level": 1
       },
       {
         "title": "Redis",
         "subtitle": "Redis client.",
-        "link": "luin_ioredis",
+        "link": "https://github.com/luin/ioredis",
         "level": 1
       },
       {
         "title": "LevelUP",
         "subtitle": "LevelDB.",
-        "link": "Level_levelup",
+        "link": "https://github.com/Level/levelup",
         "level": 1
       },
       {
         "title": "MySQL",
         "subtitle": "MySQL client.",
-        "link": "mysqljs_mysql",
+        "link": "https://github.com/mysqljs/mysql",
         "level": 1
       },
       {
         "title": "nano",
         "subtitle": "CouchDB client.",
-        "link": "dscape_nano",
+        "link": "https://github.com/dscape/nano",
         "level": 1
       },
       {
         "title": "Aerospike",
         "subtitle": "Aerospike client.",
-        "link": "aerospike_aerospike-client-nodejs",
+        "link": "https://github.com/aerospike/aerospike-client-nodejs",
         "level": 1
       },
       {
         "title": "Couchbase",
         "subtitle": "Couchbase client.",
-        "link": "couchbase_couchnode",
+        "link": "https://github.com/couchbase/couchnode",
         "level": 1
       },
       {
         "title": "MongoDB",
         "subtitle": "MongoDB driver.",
-        "link": "mongodb_node-mongodb-native",
+        "link": "https://github.com/mongodb/node-mongodb-native",
         "level": 1
       },
       {
@@ -5776,67 +5776,67 @@ export default [
       {
         "title": "Sequelize",
         "subtitle": "Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL.",
-        "link": "sequelize_sequelize",
+        "link": "https://github.com/sequelize/sequelize",
         "level": 1
       },
       {
         "title": "Bookshelf",
         "subtitle": "ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.",
-        "link": "_bookshelfjs.org",
+        "link": "http://bookshelfjs.org",
         "level": 1
       },
       {
         "title": "Massive",
         "subtitle": "PostgreSQL data access tool.",
-        "link": "robconery_massive-js",
+        "link": "https://github.com/robconery/massive-js",
         "level": 1
       },
       {
         "title": "Mongoose",
         "subtitle": "Elegant MongoDB object modeling.",
-        "link": "_mongoosejs.com",
+        "link": "http://mongoosejs.com",
         "level": 1
       },
       {
         "title": "Waterline",
         "subtitle": "Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.",
-        "link": "balderdashy_waterline",
+        "link": "https://github.com/balderdashy/waterline",
         "level": 1
       },
       {
         "title": "Iridium",
         "subtitle": "MongoDB ORM with support for promises, distributed caching, preprocessing, validation and plugins.",
-        "link": "SierraSoftworks_Iridium",
+        "link": "https://github.com/SierraSoftworks/Iridium",
         "level": 1
       },
       {
         "title": "OpenRecord",
         "subtitle": "ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord.",
-        "link": "PhilWaldmann_openrecord",
+        "link": "https://github.com/PhilWaldmann/openrecord",
         "level": 1
       },
       {
         "title": "orm2",
         "subtitle": "ORM for PostgreSQL, MariaDB, MySQL, Amazon Redshift, SQLite, MongoDB.",
-        "link": "dresende_node-orm2",
+        "link": "https://github.com/dresende/node-orm2",
         "level": 1
       },
       {
         "title": "firenze",
         "subtitle": "Adapter-based ORM for MySQL, Memory, Redis, localStorage and more.",
-        "link": "fahad19_firenze",
+        "link": "https://github.com/fahad19/firenze",
         "level": 1
       },
       {
         "title": "pg-promise",
         "subtitle": "PostgreSQL framework for native SQL using promises.",
-        "link": "vitaly-t_pg-promise",
+        "link": "https://github.com/vitaly-t/pg-promise",
         "level": 1
       },
       {
         "title": "Objection.js",
         "subtitle": "Lightweight ORM built on the SQL query builder Knex.",
-        "link": "Vincit_objection.js",
+        "link": "https://github.com/Vincit/objection.js",
         "level": 1
       },
       {
@@ -5848,7 +5848,7 @@ export default [
       {
         "title": "Knex",
         "subtitle": "Query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.",
-        "link": "_knexjs.org",
+        "link": "http://knexjs.org",
         "level": 1
       },
       {
@@ -5860,19 +5860,19 @@ export default [
       {
         "title": "NeDB",
         "subtitle": "Embedded persistent database written in JavaScript.",
-        "link": "louischatriot_nedb",
+        "link": "https://github.com/louischatriot/nedb",
         "level": 1
       },
       {
         "title": "Lowdb",
         "subtitle": "Small JavaScript database powered by Lodash.",
-        "link": "typicode_lowdb",
+        "link": "https://github.com/typicode/lowdb",
         "level": 1
       },
       {
         "title": "Keyv",
         "subtitle": "Simple key-value storage with support for multiple backends.",
-        "link": "lukechilds_keyv",
+        "link": "https://github.com/lukechilds/keyv",
         "level": 1
       }
     ]
@@ -5884,127 +5884,127 @@ export default [
       {
         "title": "AVA",
         "subtitle": "Futuristic test runner.",
-        "link": "_ava.li",
+        "link": "https://ava.li",
         "level": 0
       },
       {
         "title": "Mocha",
         "subtitle": "Feature-rich test framework making asynchronous testing simple and fun.",
-        "link": "_mochajs.org",
+        "link": "http://mochajs.org",
         "level": 0
       },
       {
         "title": "nyc",
         "subtitle": "Code coverage tool built on istanbul that works with subprocesses.",
-        "link": "bcoe_nyc",
+        "link": "https://github.com/bcoe/nyc",
         "level": 0
       },
       {
         "title": "tap",
         "subtitle": "TAP test framework.",
-        "link": "isaacs_node-tap",
+        "link": "https://github.com/isaacs/node-tap",
         "level": 0
       },
       {
         "title": "tape",
         "subtitle": "TAP-producing test harness.",
-        "link": "substack_tape",
+        "link": "https://github.com/substack/tape",
         "level": 0
       },
       {
         "title": "power-assert",
         "subtitle": "Provides descriptive assertion messages through the standard assert interface.",
-        "link": "power-assert-js_power-assert",
+        "link": "https://github.com/power-assert-js/power-assert",
         "level": 0
       },
       {
         "title": "Mochify",
         "subtitle": "TDD with Browserify, Mocha, PhantomJS and WebDriver.",
-        "link": "mantoni_mochify.js",
+        "link": "https://github.com/mantoni/mochify.js",
         "level": 0
       },
       {
         "title": "trevor",
         "subtitle": "Run tests against multiple versions of Node.js without switching versions manually or pushing to Travis CI.",
-        "link": "vdemedes_trevor",
+        "link": "https://github.com/vdemedes/trevor",
         "level": 0
       },
       {
         "title": "loadtest",
         "subtitle": "Run load tests for your web application, with an API for automation.",
-        "link": "alexfernandez_loadtest",
+        "link": "https://github.com/alexfernandez/loadtest",
         "level": 0
       },
       {
         "title": "Sinon.JS",
         "subtitle": "Test spies, stubs and mocks.",
-        "link": "sinonjs_sinon",
+        "link": "https://github.com/sinonjs/sinon",
         "level": 0
       },
       {
         "title": "navit",
         "subtitle": "PhantomJS / SlimerJS wrapper to simplify browser test scripting.",
-        "link": "nodeca_navit",
+        "link": "https://github.com/nodeca/navit",
         "level": 0
       },
       {
         "title": "nock",
         "subtitle": "HTTP mocking and expectations.",
-        "link": "pgte_nock",
+        "link": "https://github.com/pgte/nock",
         "level": 0
       },
       {
         "title": "intern",
         "subtitle": "Code testing stack.",
-        "link": "theintern_intern",
+        "link": "https://github.com/theintern/intern",
         "level": 0
       },
       {
         "title": "toxy",
         "subtitle": "Hackable HTTP proxy to simulate failure scenarios and network conditions.",
-        "link": "h2non_toxy",
+        "link": "https://github.com/h2non/toxy",
         "level": 0
       },
       {
         "title": "hook-std",
         "subtitle": "Hook and modify stdout/stderr.",
-        "link": "sindresorhus_hook-std",
+        "link": "https://github.com/sindresorhus/hook-std",
         "level": 0
       },
       {
         "title": "testen",
         "subtitle": "Run tests for multiple versions of Node.js locally with NVM.",
-        "link": "egoist_testen",
+        "link": "https://github.com/egoist/testen",
         "level": 0
       },
       {
         "title": "Nightwatch",
         "subtitle": "Automated UI testing framework based on Selenium WebDriver.",
-        "link": "nightwatchjs_nightwatch",
+        "link": "https://github.com/nightwatchjs/nightwatch",
         "level": 0
       },
       {
         "title": "WebdriverIO",
         "subtitle": "Automated testing based on the WebDriver protocol.",
-        "link": "_webdriver.io",
+        "link": "http://webdriver.io",
         "level": 0
       },
       {
         "title": "Jest",
         "subtitle": "Painless JavaScript testing.",
-        "link": "facebook_jest",
+        "link": "https://github.com/facebook/jest",
         "level": 0
       },
       {
         "title": "TestCafe",
         "subtitle": "Automated browser testing.",
-        "link": "DevExpress_testcafe",
+        "link": "https://github.com/DevExpress/testcafe",
         "level": 0
       },
       {
         "title": "abstruse",
         "subtitle": "Continuous Integration server.",
-        "link": "bleenco_abstruse",
+        "link": "https://github.com/bleenco/abstruse",
         "level": 0
       }
     ]
@@ -6016,25 +6016,25 @@ export default [
       {
         "title": "snyk",
         "subtitle": "CLI and build-time tool to find & fix vulnerable npm dependencies.",
-        "link": "Snyk_snyk",
+        "link": "https://github.com/Snyk/snyk",
         "level": 0
       },
       {
         "title": "nsp",
         "subtitle": "CLI tool to identify known vulnerabilities in your project.",
-        "link": "nodesecurity_nsp",
+        "link": "https://github.com/nodesecurity/nsp",
         "level": 0
       },
       {
         "title": "RegEx-DoS",
         "subtitle": "CLI tool to identify possible regex denial of service (ReDos) vulnerabilities in your project.",
-        "link": "jagracey_RegEx-DoS",
+        "link": "https://github.com/jagracey/RegEx-DoS",
         "level": 0
       },
       {
         "title": "credential-plus",
         "subtitle": "Password hashing and verification made easy.",
-        "link": "simonepri_credential-plus",
+        "link": "https://github.com/simonepri/credential-plus",
         "level": 0
       }
     ]
@@ -6046,13 +6046,13 @@ export default [
       {
         "title": "Benchmark.js",
         "subtitle": "Benchmarking library that supports high-resolution timers and returns statistically significant results.",
-        "link": "_benchmarkjs.com",
+        "link": "http://benchmarkjs.com",
         "level": 0
       },
       {
         "title": "matcha",
         "subtitle": "Simplistic approach to benchmarking.",
-        "link": "logicalparadox_matcha",
+        "link": "https://github.com/logicalparadox/matcha",
         "level": 0
       }
     ]
@@ -6064,31 +6064,31 @@ export default [
       {
         "title": "babili",
         "subtitle": "ES2015+ aware minifier based on the Babel toolchain.",
-        "link": "babel_babili",
+        "link": "https://github.com/babel/babili",
         "level": 0
       },
       {
         "title": "UglifyJS2",
         "subtitle": "JavaScript minifier.",
-        "link": "uglifyjs_",
+        "link": "http://lisperator.net/uglifyjs/",
         "level": 0
       },
       {
         "title": "clean-css",
         "subtitle": "CSS minifier.",
-        "link": "jakubpawlowicz_clean-css",
+        "link": "https://github.com/jakubpawlowicz/clean-css",
         "level": 0
       },
       {
         "title": "minimize",
         "subtitle": "HTML minifier.",
-        "link": "Swaagie_minimize",
+        "link": "https://github.com/Swaagie/minimize",
         "level": 0
       },
       {
         "title": "imagemin",
         "subtitle": "Image minifier.",
-        "link": "imagemin_imagemin",
+        "link": "https://github.com/imagemin/imagemin",
         "level": 0
       }
     ]
@@ -6100,37 +6100,37 @@ export default [
       {
         "title": "Passport",
         "subtitle": "Simple, unobtrusive authentication.",
-        "link": "_passportjs.org",
+        "link": "http://passportjs.org",
         "level": 0
       },
       {
         "title": "everyauth",
         "subtitle": "Authentication and authorization (password, Facebook, etc) for your Connect and Express apps.",
-        "link": "bnoguchi_everyauth",
+        "link": "https://github.com/bnoguchi/everyauth",
         "level": 0
       },
       {
         "title": "passwordless",
         "subtitle": "Token-based authentication middleware for Express allowing authentication without passwords.",
-        "link": "_passwordless.net",
+        "link": "https://passwordless.net",
         "level": 0
       },
       {
         "title": "Lockit",
         "subtitle": "Full featured authentication solution for Express. Supports a variety of databases, predefined routes, email and two-factor authentication.",
-        "link": "zemirco_lockit",
+        "link": "https://github.com/zemirco/lockit",
         "level": 0
       },
       {
         "title": "Grant",
         "subtitle": "OAuth middleware for Express, Koa, and Hapi.",
-        "link": "simov_grant",
+        "link": "https://github.com/simov/grant",
         "level": 0
       },
       {
         "title": "CloudRail",
         "subtitle": "Unified API for social authentication (Facebook, Twitter, Slack, Instagram, …).",
-        "link": "CloudRail_cloudrail-si-node-sdk",
+        "link": "https://github.com/CloudRail/cloudrail-si-node-sdk",
         "level": 0
       }
     ]
@@ -6142,19 +6142,19 @@ export default [
       {
         "title": "Nodemailer",
         "subtitle": "The fastest way to handle email.",
-        "link": "andris9_Nodemailer",
+        "link": "https://github.com/andris9/Nodemailer",
         "level": 0
       },
       {
         "title": "emailjs",
         "subtitle": "Send text/HTML emails with attachments to any SMTP server.",
-        "link": "eleith_emailjs",
+        "link": "https://github.com/eleith/emailjs",
         "level": 0
       },
       {
         "title": "email-templates",
         "subtitle": "Create, preview, and send custom email templates.",
-        "link": "niftylettuce_email-templates",
+        "link": "https://github.com/niftylettuce/email-templates",
         "level": 0
       }
     ]
@@ -6166,31 +6166,31 @@ export default [
       {
         "title": "kue",
         "subtitle": "Priority job queue backed by Redis.",
-        "link": "Automattic_kue",
+        "link": "https://github.com/Automattic/kue",
         "level": 0
       },
       {
         "title": "bull",
         "subtitle": "Persistent job and message queue.",
-        "link": "OptimalBits_bull",
+        "link": "https://github.com/OptimalBits/bull",
         "level": 0
       },
       {
         "title": "agenda",
         "subtitle": "Lightweight job scheduling on MongoDB.",
-        "link": "rschmukler_agenda",
+        "link": "https://github.com/rschmukler/agenda",
         "level": 0
       },
       {
         "title": "idoit",
         "subtitle": "Redis-backed job queue engine with advanced job control.",
-        "link": "nodeca_idoit",
+        "link": "https://github.com/nodeca/idoit",
         "level": 0
       },
       {
         "title": "node-resque",
         "subtitle": "Redis-backed job queue.",
-        "link": "taskrabbit_node-resque",
+        "link": "https://github.com/taskrabbit/node-resque",
         "level": 0
       }
     ]
@@ -6202,25 +6202,25 @@ export default [
       {
         "title": "n",
         "subtitle": "Node.js version management.",
-        "link": "tj_n",
+        "link": "https://github.com/tj/n",
         "level": 0
       },
       {
         "title": "nave",
         "subtitle": "Virtual Environments for Node.js.",
-        "link": "isaacs_nave",
+        "link": "https://github.com/isaacs/nave",
         "level": 0
       },
       {
         "title": "nodeenv",
         "subtitle": "Node.js virtual environment compatible to Python’s virtualenv.",
-        "link": "ekalinin_nodeenv",
+        "link": "https://github.com/ekalinin/nodeenv",
         "level": 0
       },
       {
         "title": "nvm for Windows",
         "subtitle": "Version management for Windows.",
-        "link": "coreybutler_nvm-windows",
+        "link": "https://github.com/coreybutler/nvm-windows",
         "level": 0
       }
     ]
@@ -6238,19 +6238,19 @@ export default [
       {
         "title": "user-info",
         "subtitle": "Node.js 6",
-        "link": "sindresorhus_user-info",
+        "link": "https://github.com/sindresorhus/user-info",
         "level": 1
       },
       {
         "title": "buffer-includes",
         "subtitle": "Node.js 5.3",
-        "link": "sindresorhus_buffer-includes",
+        "link": "https://github.com/sindresorhus/buffer-includes",
         "level": 1
       },
       {
         "title": "deep-strict-equal",
         "subtitle": "Test for deep equality - Node.js",
-        "link": "sindresorhus_deep-strict-equal",
+        "link": "https://github.com/sindresorhus/deep-strict-equal",
         "level": 1
       },
       {
@@ -6262,13 +6262,13 @@ export default [
       {
         "title": "harmony-reflect",
         "subtitle": "ES2015",
-        "link": "tvcutsem_harmony-reflect",
+        "link": "https://github.com/tvcutsem/harmony-reflect",
         "level": 1
       },
       {
         "title": "es6-shim",
         "subtitle": "Collection of ES2015 polyfills.",
-        "link": "paulmillr_es6-shim",
+        "link": "https://github.com/paulmillr/es6-shim",
         "level": 1
       }
     ]
@@ -6280,25 +6280,25 @@ export default [
       {
         "title": "retext",
         "subtitle": "An extensible natural language system.",
-        "link": "wooorm_retext",
+        "link": "https://github.com/wooorm/retext",
         "level": 0
       },
       {
         "title": "franc",
         "subtitle": "Detect the language of text.",
-        "link": "wooorm_franc",
+        "link": "https://github.com/wooorm/franc",
         "level": 0
       },
       {
         "title": "leven",
         "subtitle": "Measure the difference between two strings using the Levenshtein distance algorithm.",
-        "link": "sindresorhus_leven",
+        "link": "https://github.com/sindresorhus/leven",
         "level": 0
       },
       {
         "title": "natural",
         "subtitle": "Natural language facility.",
-        "link": "NaturalNode_natural",
+        "link": "https://github.com/NaturalNode/natural",
         "level": 0
       }
     ]
@@ -6310,55 +6310,55 @@ export default [
       {
         "title": "PM2",
         "subtitle": "Advanced Process Manager.",
-        "link": "Unitech_pm2",
+        "link": "https://github.com/Unitech/pm2",
         "level": 0
       },
       {
         "title": "nodemon",
         "subtitle": "Monitor for changes in your app and automatically restart the server.",
-        "link": "remy_nodemon",
+        "link": "https://github.com/remy/nodemon",
         "level": 0
       },
       {
         "title": "node-mac",
         "subtitle": "Run scripts as a native Mac daemon and log to the console app.",
-        "link": "coreybutler_node-mac",
+        "link": "https://github.com/coreybutler/node-mac",
         "level": 0
       },
       {
         "title": "node-linux",
         "subtitle": "Run scripts as native system service and log to syslog.",
-        "link": "coreybutler_node-linux",
+        "link": "https://github.com/coreybutler/node-linux",
         "level": 0
       },
       {
         "title": "node-windows",
         "subtitle": "Run scripts as a native Windows service and log to the Event viewer.",
-        "link": "coreybutler_node-windows",
+        "link": "https://github.com/coreybutler/node-windows",
         "level": 0
       },
       {
         "title": "forever",
         "subtitle": "Ensures that a given script runs continuously.",
-        "link": "foreverjs_forever",
+        "link": "https://github.com/foreverjs/forever",
         "level": 0
       },
       {
         "title": "supervisor",
         "subtitle": "Restart scripts when they crash or restart when a",
-        "link": "petruisfan_node-supervisor",
+        "link": "https://github.com/petruisfan/node-supervisor",
         "level": 0
       },
       {
         "title": "Phusion Passenger",
         "subtitle": "Friendly process manager that integrates directly into Nginx.",
-        "link": "_www.phusionpassenger.com",
+        "link": "https://www.phusionpassenger.com",
         "level": 0
       },
       {
         "title": "naught",
         "subtitle": "Process manager with zero downtime deployment.",
-        "link": "andrewrk_naught",
+        "link": "https://github.com/andrewrk/naught",
         "level": 0
       }
     ]
@@ -6370,7 +6370,7 @@ export default [
       {
         "title": "robotjs",
         "subtitle": "Desktop Automation: control the mouse, keyboard and read the screen.",
-        "link": "octalmage_robotjs",
+        "link": "https://github.com/octalmage/robotjs",
         "level": 0
       }
     ]
@@ -6382,13 +6382,13 @@ export default [
       {
         "title": "Acorn",
         "subtitle": "Tiny, fast JavaScript parser.",
-        "link": "ternjs_acorn",
+        "link": "https://github.com/ternjs/acorn",
         "level": 0
       },
       {
         "title": "Rocambole",
         "subtitle": "Recursively walk and transform JavaScript AST.",
-        "link": "millermedeiros_rocambole",
+        "link": "https://github.com/millermedeiros/rocambole",
         "level": 0
       }
     ]
@@ -6400,37 +6400,37 @@ export default [
       {
         "title": "Metalsmith",
         "subtitle": "Pluggable static site generator.",
-        "link": "_www.metalsmith.io",
+        "link": "http://www.metalsmith.io",
         "level": 0
       },
       {
         "title": "Wintersmith",
         "subtitle": "Flexible, minimalistic, multi-platform static site generator.",
-        "link": "_wintersmith.io",
+        "link": "http://wintersmith.io",
         "level": 0
       },
       {
         "title": "Assemble",
         "subtitle": "Static site generator for Node.js, Grunt.js, and Yeoman.",
-        "link": "_assemble.io",
+        "link": "http://assemble.io",
         "level": 0
       },
       {
         "title": "DocPad",
         "subtitle": "Static site generator with dynamic abilities and huge plugin ecosystem.",
-        "link": "docpad_docpad",
+        "link": "https://github.com/docpad/docpad",
         "level": 0
       },
       {
         "title": "Phenomic",
         "subtitle": "Modern static website generator based on the React and Webpack ecosystem.",
-        "link": "_phenomic.io",
+        "link": "https://phenomic.io",
         "level": 0
       },
       {
         "title": "docsify",
         "subtitle": "Markdown documentation site generator with no statically built HTML files.",
-        "link": "_docsify.js.org",
+        "link": "https://docsify.js.org",
         "level": 0
       }
     ]
@@ -6442,13 +6442,13 @@ export default [
       {
         "title": "KeystoneJS",
         "subtitle": "CMS and web application platform built on Express and MongoDB.",
-        "link": "_keystonejs.com",
+        "link": "http://keystonejs.com",
         "level": 0
       },
       {
         "title": "Apostrophe2",
         "subtitle": "Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.",
-        "link": "_apostrophenow.org",
+        "link": "http://apostrophenow.org",
         "level": 0
       }
     ]
@@ -6460,7 +6460,7 @@ export default [
       {
         "title": "nodeBB",
         "subtitle": "Forum platform for the modern web.",
-        "link": "_nodebb.org",
+        "link": "https://nodebb.org",
         "level": 0
       }
     ]
@@ -6472,13 +6472,13 @@ export default [
       {
         "title": "ghost",
         "subtitle": "Simple, powerful publishing platform.",
-        "link": "_ghost.org",
+        "link": "https://ghost.org",
         "level": 0
       },
       {
         "title": "Hexo",
         "subtitle": "Fast, simple and powerful blogging framework.",
-        "link": "_hexo.io",
+        "link": "https://hexo.io",
         "level": 0
       }
     ]
@@ -6490,55 +6490,55 @@ export default [
       {
         "title": "cows",
         "subtitle": "ASCII cows.",
-        "link": "sindresorhus_cows",
+        "link": "https://github.com/sindresorhus/cows",
         "level": 0
       },
       {
         "title": "superb",
         "subtitle": "Get superb like words.",
-        "link": "sindresorhus_superb",
+        "link": "https://github.com/sindresorhus/superb",
         "level": 0
       },
       {
         "title": "cat-names",
         "subtitle": "Get popular cat names.",
-        "link": "sindresorhus_cat-names",
+        "link": "https://github.com/sindresorhus/cat-names",
         "level": 0
       },
       {
         "title": "dog-names",
         "subtitle": "Get popular dog names.",
-        "link": "sindresorhus_dog-names",
+        "link": "https://github.com/sindresorhus/dog-names",
         "level": 0
       },
       {
         "title": "superheroes",
         "subtitle": "Get superhero names.",
-        "link": "sindresorhus_superheroes",
+        "link": "https://github.com/sindresorhus/superheroes",
         "level": 0
       },
       {
         "title": "supervillains",
         "subtitle": "Get supervillain names.",
-        "link": "sindresorhus_supervillains",
+        "link": "https://github.com/sindresorhus/supervillains",
         "level": 0
       },
       {
         "title": "cool-ascii-faces",
         "subtitle": "Get some cool ascii faces.",
-        "link": "maxogden_cool-ascii-faces",
+        "link": "https://github.com/maxogden/cool-ascii-faces",
         "level": 0
       },
       {
         "title": "cat-ascii-faces",
         "subtitle": "₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”",
-        "link": "melaniecebula_cat-ascii-faces",
+        "link": "https://github.com/melaniecebula/cat-ascii-faces",
         "level": 0
       },
       {
         "title": "nerds",
         "subtitle": "Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon.",
-        "link": "SkyHacks_nerds",
+        "link": "https://github.com/SkyHacks/nerds",
         "level": 0
       }
     ]
@@ -6550,193 +6550,193 @@ export default [
       {
         "title": "execa",
         "subtitle": "Better",
-        "link": "sindresorhus_execa",
+        "link": "https://github.com/sindresorhus/execa",
         "level": 0
       },
       {
         "title": "cheerio",
         "subtitle": "Fast, flexible, and lean implementation of core jQuery designed specifically for the server.",
-        "link": "cheeriojs_cheerio",
+        "link": "https://github.com/cheeriojs/cheerio",
         "level": 0
       },
       {
         "title": "Electron",
         "subtitle": "Build cross platform desktop apps with web technologies.",
-        "link": "atom_electron",
+        "link": "https://github.com/atom/electron",
         "level": 0
       },
       {
         "title": "opn",
         "subtitle": "Opens stuff like websites, files, executables.",
-        "link": "sindresorhus_opn",
+        "link": "https://github.com/sindresorhus/opn",
         "level": 0
       },
       {
         "title": "hasha",
         "subtitle": "Hashing made simple. Get the hash of a buffer/string/stream/file.",
-        "link": "sindresorhus_hasha",
+        "link": "https://github.com/sindresorhus/hasha",
         "level": 0
       },
       {
         "title": "dot-prop",
         "subtitle": "Get a property from a nested object using a dot path.",
-        "link": "sindresorhus_dot-prop",
+        "link": "https://github.com/sindresorhus/dot-prop",
         "level": 0
       },
       {
         "title": "onetime",
         "subtitle": "Only run a function once.",
-        "link": "sindresorhus_onetime",
+        "link": "https://github.com/sindresorhus/onetime",
         "level": 0
       },
       {
         "title": "mem",
         "subtitle": "Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.",
-        "link": "sindresorhus_mem",
+        "link": "https://github.com/sindresorhus/mem",
         "level": 0
       },
       {
         "title": "import-fresh",
         "subtitle": "Import a module while bypassing the cache.",
-        "link": "sindresorhus_import-fresh",
+        "link": "https://github.com/sindresorhus/import-fresh",
         "level": 0
       },
       {
         "title": "strip-bom",
         "subtitle": "Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.",
-        "link": "sindresorhus_strip-bom",
+        "link": "https://github.com/sindresorhus/strip-bom",
         "level": 0
       },
       {
         "title": "os-locale",
         "subtitle": "Get the system locale.",
-        "link": "sindresorhus_os-locale",
+        "link": "https://github.com/sindresorhus/os-locale",
         "level": 0
       },
       {
         "title": "nan",
         "subtitle": "Makes native add-on development for across Node.js versions easier.",
-        "link": "nodejs_nan",
+        "link": "https://github.com/nodejs/nan",
         "level": 0
       },
       {
         "title": "ssh2",
         "subtitle": "SSH2 client and server module.",
-        "link": "mscdex_ssh2",
+        "link": "https://github.com/mscdex/ssh2",
         "level": 0
       },
       {
         "title": "adit",
         "subtitle": "SSH tunneling made simple.",
-        "link": "markelog_adit",
+        "link": "https://github.com/markelog/adit",
         "level": 0
       },
       {
         "title": "import-lazy",
         "subtitle": "Import a module lazily.",
-        "link": "sindresorhus_import-lazy",
+        "link": "https://github.com/sindresorhus/import-lazy",
         "level": 0
       },
       {
         "title": "file-type",
         "subtitle": "Detect the file type of a Buffer.",
-        "link": "sindresorhus_file-type",
+        "link": "https://github.com/sindresorhus/file-type",
         "level": 0
       },
       {
         "title": "Bottleneck",
         "subtitle": "Rate limiter that makes throttling easy.",
-        "link": "SGrondin_bottleneck",
+        "link": "https://github.com/SGrondin/bottleneck",
         "level": 0
       },
       {
         "title": "webworker-threads",
         "subtitle": "Lightweight Web Worker API implementation with native threads.",
-        "link": "audreyt_node-webworker-threads",
+        "link": "https://github.com/audreyt/node-webworker-threads",
         "level": 0
       },
       {
         "title": "clipboardy",
         "subtitle": "Access the system clipboard (copy/paste).",
-        "link": "sindresorhus_clipboardy",
+        "link": "https://github.com/sindresorhus/clipboardy",
         "level": 0
       },
       {
         "title": "node-pre-gyp",
         "subtitle": "Makes it easy to publish and install Node.js C++ addons from binaries.",
-        "link": "mapbox_node-pre-gyp",
+        "link": "https://github.com/mapbox/node-pre-gyp",
         "level": 0
       },
       {
         "title": "opencv",
         "subtitle": "Bindings for OpenCV. The defacto computer vision library.",
-        "link": "peterbraden_node-opencv",
+        "link": "https://github.com/peterbraden/node-opencv",
         "level": 0
       },
       {
         "title": "dotenv",
         "subtitle": "Load environment variables from .env file.",
-        "link": "motdotla_dotenv",
+        "link": "https://github.com/motdotla/dotenv",
         "level": 0
       },
       {
         "title": "remote-git-tags",
         "subtitle": "Get tags from a remote git repo.",
-        "link": "sindresorhus_remote-git-tags",
+        "link": "https://github.com/sindresorhus/remote-git-tags",
         "level": 0
       },
       {
         "title": "semver",
         "subtitle": "",
-        "link": "npm_node-semver",
+        "link": "https://github.com/npm/node-semver",
         "level": 0
       },
       {
         "title": "Faker.js",
         "subtitle": "Generate massive amounts of fake data.",
-        "link": "Marak_Faker.js",
+        "link": "https://github.com/Marak/Faker.js",
         "level": 0
       },
       {
         "title": "nodegit",
         "subtitle": "Native bindings to Git.",
-        "link": "nodegit_nodegit",
+        "link": "https://github.com/nodegit/nodegit",
         "level": 0
       },
       {
         "title": "json-strictify",
         "subtitle": "Safely serialize a value to JSON without data loss or going into an infinite loop.",
-        "link": "pigulla_json-strictify",
+        "link": "https://github.com/pigulla/json-strictify",
         "level": 0
       },
       {
         "title": "parent-module",
         "subtitle": "Get the path of the parent module.",
-        "link": "sindresorhus_parent-module",
+        "link": "https://github.com/sindresorhus/parent-module",
         "level": 0
       },
       {
         "title": "resolve-from",
         "subtitle": "Resolve the path of a module like",
-        "link": "sindresorhus_resolve-from",
+        "link": "https://github.com/sindresorhus/resolve-from",
         "level": 0
       },
       {
         "title": "simplecrawler",
         "subtitle": "Event driven web crawler.",
-        "link": "cgiffard_node-simplecrawler",
+        "link": "https://github.com/cgiffard/node-simplecrawler",
         "level": 0
       },
       {
         "title": "jsdom",
         "subtitle": "JavaScript implementation of HTML and the DOM.",
-        "link": "tmpvar_jsdom",
+        "link": "https://github.com/tmpvar/jsdom",
         "level": 0
       },
       {
         "title": "hypernova",
         "subtitle": "Server-side rendering your JavaScript views.",
-        "link": "airbnb_hypernova",
+        "link": "https://github.com/airbnb/hypernova",
         "level": 0
       }
     ]
@@ -6753,43 +6753,43 @@ export default [
       {
         "title": "Nodeschool",
         "subtitle": "Learn Node.js with interactive lessons.",
-        "link": "_nodeschool.io",
+        "link": "http://nodeschool.io",
         "level": 0
       },
       {
         "title": "The Art of Node",
         "subtitle": "An introduction to Node.js.",
-        "link": "art-of-node_#the-art-of-node",
+        "link": "https://github.com/maxogden/art-of-node/#the-art-of-node",
         "level": 0
       },
       {
         "title": "stream-handbook",
         "subtitle": "How to write Node.js programs with streams.",
-        "link": "substack_stream-handbook",
+        "link": "https://github.com/substack/stream-handbook",
         "level": 0
       },
       {
         "title": "browserify-handbook",
         "subtitle": "The definitive guide for browserify.",
-        "link": "substack_browserify-handbook",
+        "link": "https://github.com/substack/browserify-handbook",
         "level": 0
       },
       {
         "title": "module-best-practices",
         "subtitle": "Some good practices when writing new npm modules.",
-        "link": "mattdesl_module-best-practices",
+        "link": "https://github.com/mattdesl/module-best-practices",
         "level": 0
       },
       {
         "title": "The Node Way",
         "subtitle": "An entire philosophy of Node.js best practices and guiding principles exists for writing maintainable modules, scalable applications, and code that is actually pleasant to read.",
-        "link": "_thenodeway.io",
+        "link": "http://thenodeway.io",
         "level": 0
       },
       {
         "title": "You Don’t Know Node.js",
         "subtitle": "Introduction to Node.js core features and asynchronous JavaScript.",
-        "link": "azat-co_you-dont-know-node",
+        "link": "https://github.com/azat-co/you-dont-know-node",
         "level": 0
       }
     ]
@@ -6801,25 +6801,25 @@ export default [
       {
         "title": "npms",
         "subtitle": "Superb package search with deep analysis of package quality using a",
-        "link": "_npms.io",
+        "link": "https://npms.io",
         "level": 0
       },
       {
         "title": "node-modules.com",
         "subtitle": "An alternative npm search engine with a more intelligent and personal results ranking.",
-        "link": "_node-modules.com",
+        "link": "http://node-modules.com",
         "level": 0
       },
       {
         "title": "npm addict",
         "subtitle": "Your daily injection of npm packages.",
-        "link": "_npmaddict.com",
+        "link": "https://npmaddict.com",
         "level": 0
       },
       {
         "title": "npmcompare.com",
         "subtitle": "Compare and discover npm packages.",
-        "link": "_npmcompare.com",
+        "link": "https://npmcompare.com",
         "level": 0
       }
     ]
@@ -6831,55 +6831,55 @@ export default [
       {
         "title": "Error Handling in Node.js",
         "subtitle": "",
-        "link": "design_errors",
+        "link": "https://www.joyent.com/node-js/production/design/errors",
         "level": 0
       },
       {
         "title": "Teach Yourself Node.js in 10 Steps",
         "subtitle": "",
-        "link": "articles_teach-yourself-nodejs-in-10-steps",
+        "link": "https://ponyfoo.com/articles/teach-yourself-nodejs-in-10-steps",
         "level": 0
       },
       {
         "title": "Mastering the filesystem in Node.js",
         "subtitle": "",
-        "link": "@yoshuawuyts_mastering-the-filesystem-in-node-js-4706b7cb0801",
+        "link": "https://medium.com/@yoshuawuyts/mastering-the-filesystem-in-node-js-4706b7cb0801",
         "level": 0
       },
       {
         "title": "Semver: A Primer",
         "subtitle": "",
-        "link": "semver-a-primer_",
+        "link": "https://nodesource.com/blog/semver-a-primer/",
         "level": 0
       },
       {
         "title": "Semver: Tilde and Caret",
         "subtitle": "",
-        "link": "semver-tilde-and-caret_",
+        "link": "https://nodesource.com/blog/semver-tilde-and-caret/",
         "level": 0
       },
       {
         "title": "Why Asynchronous?",
         "subtitle": "",
-        "link": "why-asynchronous_",
+        "link": "https://nodesource.com/blog/why-asynchronous/",
         "level": 0
       },
       {
         "title": "Understanding the Node.js Event Loop",
         "subtitle": "",
-        "link": "understanding-the-nodejs-event-loop_",
+        "link": "https://nodesource.com/blog/understanding-the-nodejs-event-loop/",
         "level": 0
       },
       {
         "title": "Understanding Object Streams",
         "subtitle": "",
-        "link": "understanding-object-streams_",
+        "link": "https://nodesource.com/blog/understanding-object-streams/",
         "level": 0
       },
       {
         "title": "Art of README",
         "subtitle": "Learn the art of writing quality READMEs.",
-        "link": "noffle_art-of-readme",
+        "link": "https://github.com/noffle/art-of-readme",
         "level": 0
       }
     ]
@@ -6891,13 +6891,13 @@ export default [
       {
         "title": "node weekly",
         "subtitle": "Weekly e-mail round-up of Node.js news and articles.",
-        "link": "_nodeweekly.com",
+        "link": "http://nodeweekly.com",
         "level": 0
       },
       {
         "title": "nmotw",
         "subtitle": "Node Module Of The Week, weekly dose of hand picked node modules.",
-        "link": "_nmotw.in",
+        "link": "http://nmotw.in",
         "level": 0
       }
     ]
@@ -6909,43 +6909,43 @@ export default [
       {
         "title": "Introduction to Node.js with Ryan Dahl",
         "subtitle": "",
-        "link": "www.youtube.com_watch?v=jo_B4LTHi3I",
+        "link": "https://www.youtube.com/watch?v=jo_B4LTHi3I",
         "level": 0
       },
       {
         "title": "Hands on with Node.js",
         "subtitle": "",
-        "link": "node_preface",
+        "link": "https://learn.bevry.me/node/preface",
         "level": 0
       },
       {
         "title": "Full Streams Ahead",
         "subtitle": "Introduction to streams.",
-        "link": "dry.ly_full-streams-ahead",
+        "link": "http://dry.ly/full-streams-ahead",
         "level": 0
       },
       {
         "title": "StrongLoop Talks",
         "subtitle": "Series of talks.",
-        "link": "videos_",
+        "link": "https://strongloop.com/node-js/videos/",
         "level": 0
       },
       {
         "title": "thenewboston’s Node.js for Beginners",
         "subtitle": "",
-        "link": "www.thenewboston.com_videos.php?cat=355",
+        "link": "https://www.thenewboston.com/videos.php?cat=355",
         "level": 0
       },
       {
         "title": "Nodetuts",
         "subtitle": "Series of talks, including TCP & HTTP API servers, async programming, and more.",
-        "link": "_nodetuts.com",
+        "link": "http://nodetuts.com",
         "level": 0
       },
       {
         "title": "Node Interactive 2015",
         "subtitle": "List of talks, keynotes and panels from the 2015 Node Interactive conference.",
-        "link": "duffn_nodeinteractive-2015",
+        "link": "https://github.com/duffn/nodeinteractive-2015",
         "level": 0
       }
     ]
@@ -6957,13 +6957,13 @@ export default [
       {
         "title": "NodeUp",
         "subtitle": "",
-        "link": "_nodeup.com",
+        "link": "http://nodeup.com",
         "level": 0
       },
       {
         "title": "Mostly Node",
         "subtitle": "",
-        "link": "_mostlynode.com",
+        "link": "http://mostlynode.com",
         "level": 0
       }
     ]
@@ -6975,67 +6975,67 @@ export default [
       {
         "title": "Node.js in Action",
         "subtitle": "",
-        "link": "dp_1617290572",
+        "link": "http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572",
         "level": 0
       },
       {
         "title": "Node.js in Practice",
         "subtitle": "",
-        "link": "dp_1617290939",
+        "link": "http://www.amazon.com/Node-js-Practice-Alex-R-Young/dp/1617290939",
         "level": 0
       },
       {
         "title": "Mastering Node",
         "subtitle": "",
-        "link": "masteringnode_",
+        "link": "http://visionmedia.github.io/masteringnode/",
         "level": 0
       },
       {
         "title": "Node.js 8 the Right Way",
         "subtitle": "",
-        "link": "jwnode2_node-js-8-the-right-way",
+        "link": "https://pragprog.com/book/jwnode2/node-js-8-the-right-way",
         "level": 0
       },
       {
         "title": "Professional Node.js: Building Javascript Based Scalable Software",
         "subtitle": "",
-        "link": "B009L7QETY_",
+        "link": "http://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable-ebook/dp/B009L7QETY/",
         "level": 0
       },
       {
         "title": "Practical Node.js: Building Real-World Scalable Web Apps",
         "subtitle": "",
-        "link": "_practicalnodebook.com",
+        "link": "http://practicalnodebook.com",
         "level": 0
       },
       {
         "title": "Mixu’s Node book",
         "subtitle": "",
-        "link": "node_",
+        "link": "http://book.mixu.net/node/",
         "level": 0
       },
       {
         "title": "Web Development with Node and Express",
         "subtitle": "",
-        "link": "product_0636920032977.do",
+        "link": "http://shop.oreilly.com/product/0636920032977.do",
         "level": 0
       },
       {
         "title": "Pro Express.js",
         "subtitle": "",
-        "link": "_proexpressjs.com",
+        "link": "http://proexpressjs.com",
         "level": 0
       },
       {
         "title": "Secure Your Node.js Web Application",
         "subtitle": "",
-        "link": "dp_1680500856",
+        "link": "http://www.amazon.com/Secure-Your-Node-js-Web-Application/dp/1680500856",
         "level": 0
       },
       {
         "title": "Express in Action",
         "subtitle": "",
-        "link": "books_express-in-action",
+        "link": "https://www.manning.com/books/express-in-action",
         "level": 0
       }
     ]
@@ -7047,19 +7047,19 @@ export default [
       {
         "title": "Node.js blog",
         "subtitle": "",
-        "link": "blog_",
+        "link": "https://nodejs.org/en/blog/",
         "level": 0
       },
       {
         "title": "HowToNode",
         "subtitle": "Teaching how to do various tasks in Node.js as well as teach fundamental concepts that are needed to write effective code.",
-        "link": "_howtonode.org",
+        "link": "http://howtonode.org",
         "level": 0
       },
       {
         "title": "webapplog.com",
         "subtitle": "Blog posts on Node.js and JavaScript from the author of Practical Node.js and Pro Express.js Azat Mardan.",
-        "link": "node-js_",
+        "link": "http://webapplog.com/tag/node-js/",
         "level": 0
       }
     ]
@@ -7071,19 +7071,19 @@ export default [
       {
         "title": "Real Time Web with Node.js",
         "subtitle": "",
-        "link": "courses_real-time-web-with-node-js",
+        "link": "https://www.codeschool.com/courses/real-time-web-with-node-js",
         "level": 0
       },
       {
         "title": "Learn and Understand Node.js",
         "subtitle": "",
-        "link": "www.udemy.com_understand-nodejs",
+        "link": "https://www.udemy.com/understand-nodejs",
         "level": 0
       },
       {
         "title": "Learn to build apps and APIs with Node.js",
         "subtitle": "Video course by Wes Bos.",
-        "link": "friend_AWESOME",
+        "link": "https://learnnode.com/friend/AWESOME",
         "level": 0
       }
     ]
@@ -7095,13 +7095,13 @@ export default [
       {
         "title": "Express.js",
         "subtitle": "",
-        "link": "master_express4",
+        "link": "https://github.com/azat-co/cheatsheets/blob/master/express4",
         "level": 0
       },
       {
         "title": "Stream FAQs",
         "subtitle": "Answering common questions about streams, covering pagination, events, and more.",
-        "link": "stephenplusplus_stream-faqs",
+        "link": "https://github.com/stephenplusplus/stream-faqs",
         "level": 0
       }
     ]
@@ -7113,31 +7113,31 @@ export default [
       {
         "title": "OctoLinker",
         "subtitle": "Chrome extension that linkifies dependencies in package.json, .js, .jsx, .coffee and .md files on GitHub.",
-        "link": "octolinker_jlmafbaeoofdegohdhinkhilhclaklkp",
+        "link": "https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp",
         "level": 0
       },
       {
         "title": "npm-hub",
         "subtitle": "Chrome extension to display npm dependencies at the bottom of a repo’s readme.",
-        "link": "npm-hub_kbbbjimdjbjclaebffknlabpogocablj",
+        "link": "https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj",
         "level": 0
       },
       {
         "title": "RunKit",
         "subtitle": "Embed a Node.js environment on any website.",
-        "link": "30_embedded-tonic.html",
+        "link": "http://blog.tonicdev.com/2015/09/30/embedded-tonic.html",
         "level": 0
       },
       {
         "title": "RequireBin",
         "subtitle": "Shareable JavaScript programs powered by npm and browserify.",
-        "link": "_requirebin.com",
+        "link": "http://requirebin.com",
         "level": 0
       },
       {
         "title": "github-npm-stats",
         "subtitle": "Chrome extension that displays npm download stats on GitHub.",
-        "link": "github-npm-stats_oomfflokggoffaiagenekchfnpighcef",
+        "link": "https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef",
         "level": 0
       }
     ]
@@ -7149,37 +7149,37 @@ export default [
       {
         "title": "Gitter",
         "subtitle": "",
-        "link": "nodejs_node",
+        "link": "https://gitter.im/nodejs/node",
         "level": 0
       },
       {
         "title": " on Freenode",
         "subtitle": "",
-        "link": "webchat.freenode.net_?channels=node.js",
+        "link": "http://webchat.freenode.net/?channels=node.js",
         "level": 0
       },
       {
         "title": "Stack Overflow",
         "subtitle": "",
-        "link": "tagged_node.js",
+        "link": "http://stackoverflow.com/questions/tagged/node.js",
         "level": 0
       },
       {
         "title": "Reddit",
         "subtitle": "",
-        "link": "r_node",
+        "link": "https://www.reddit.com/r/node",
         "level": 0
       },
       {
         "title": "Twitter",
         "subtitle": "",
-        "link": "twitter.com_nodejs",
+        "link": "https://twitter.com/nodejs",
         "level": 0
       },
       {
         "title": "Hashnode",
         "subtitle": "",
-        "link": "n_nodejs",
+        "link": "https://hashnode.com/n/nodejs",
         "level": 0
       }
     ]
@@ -7191,31 +7191,31 @@ export default [
       {
         "title": "nodebots",
         "subtitle": "Robots powered by JavaScript.",
-        "link": "_nodebots.io",
+        "link": "http://nodebots.io",
         "level": 0
       },
       {
         "title": "node-module-boilerplate",
         "subtitle": "Boilerplate to kickstart creating a node module.",
-        "link": "sindresorhus_node-module-boilerplate",
+        "link": "https://github.com/sindresorhus/node-module-boilerplate",
         "level": 0
       },
       {
         "title": "generator-nm",
         "subtitle": "Scaffold out a node module.",
-        "link": "sindresorhus_generator-nm",
+        "link": "https://github.com/sindresorhus/generator-nm",
         "level": 0
       },
       {
         "title": "awesome-cross-platform-nodejs",
         "subtitle": "Resources for writing and testing cross-platform code.",
-        "link": "bcoe_awesome-cross-platform-nodejs",
+        "link": "https://github.com/bcoe/awesome-cross-platform-nodejs",
         "level": 0
       },
       {
         "title": "Microsoft Node.js Guidelines",
         "subtitle": "Tips, tricks, and resources for working with Node.js on Microsoft platforms.",
-        "link": "Microsoft_nodejs-guidelines",
+        "link": "https://github.com/Microsoft/nodejs-guidelines",
         "level": 0
       }
     ]
@@ -7238,19 +7238,19 @@ export default [
       {
         "title": "",
         "subtitle": "Animation",
-        "link": "appearance_animation.md",
+        "link": "appearance/animation.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Typography",
-        "link": "appearance_typography.md",
+        "link": "appearance/typography.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Visualization",
-        "link": "appearance_visualization.md",
+        "link": "appearance/visualization.md",
         "level": 0
       }
     ]
@@ -7268,37 +7268,37 @@ export default [
       {
         "title": "",
         "subtitle": "Algorithms",
-        "link": "architecture_algorithms.md",
+        "link": "architecture/algorithms.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Design Patterns",
-        "link": "architecture_design-patterns.md",
+        "link": "architecture/design-patterns.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Designs",
-        "link": "architecture_designs.md",
+        "link": "architecture/designs.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Event-Driven Programming",
-        "link": "architecture_event-driven-programming.md",
+        "link": "architecture/event-driven-programming.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Functional Programming",
-        "link": "architecture_functional-programming.md",
+        "link": "architecture/functional-programming.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Functional Reactive Programming (FRP)",
-        "link": "architecture_functional-reactive-programming-frp.md",
+        "link": "architecture/functional-reactive-programming-frp.md",
         "level": 0
       }
     ]
@@ -7316,43 +7316,43 @@ export default [
       {
         "title": "",
         "subtitle": "Cross Browser",
-        "link": "compatibility_cross-browser.md",
+        "link": "compatibility/cross-browser.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "E-Mail",
-        "link": "compatibility_e-mail.md",
+        "link": "compatibility/e-mail.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Keyboard",
-        "link": "compatibility_keyboard.md",
+        "link": "compatibility/keyboard.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Mobile",
-        "link": "compatibility_mobile.md",
+        "link": "compatibility/mobile.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Printers",
-        "link": "compatibility_printers.md",
+        "link": "compatibility/printers.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Responsive Web Design (RWD)",
-        "link": "compatibility_responsive-web-design-rwd.md",
+        "link": "compatibility/responsive-web-design-rwd.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Web Accessibility",
-        "link": "compatibility_web-accessibility.md",
+        "link": "compatibility/web-accessibility.md",
         "level": 0
       }
     ]
@@ -7370,31 +7370,31 @@ export default [
       {
         "title": "",
         "subtitle": "Communities Around Projects",
-        "link": "ecosystem_communities-around-projects.md",
+        "link": "ecosystem/communities-around-projects.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "News",
-        "link": "ecosystem_news.md",
+        "link": "ecosystem/news.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Notable Community Members",
-        "link": "ecosystem_notable-community-members.md",
+        "link": "ecosystem/notable-community-members.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Organizations",
-        "link": "ecosystem_organizations.md",
+        "link": "ecosystem/organizations.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Podcasts",
-        "link": "ecosystem_podcasts.md",
+        "link": "ecosystem/podcasts.md",
         "level": 0
       }
     ]
@@ -7412,79 +7412,79 @@ export default [
       {
         "title": "",
         "subtitle": "Cascading Style Sheets (CSS)",
-        "link": "languages-protocols-browser-apis_cascading-style-sheets-css.md",
+        "link": "languages-protocols-browser-apis/cascading-style-sheets-css.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Document Object Model (DOM)",
-        "link": "languages-protocols-browser-apis_document-object-model-dom.md",
+        "link": "languages-protocols-browser-apis/document-object-model-dom.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "HyperText Markup Language (HTML)",
-        "link": "languages-protocols-browser-apis_hypertext-markup-language-html.md",
+        "link": "languages-protocols-browser-apis/hypertext-markup-language-html.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Hypertext Transfer Protocol (HTTP)",
-        "link": "languages-protocols-browser-apis_hypertext-transfer-protocol-http.md",
+        "link": "languages-protocols-browser-apis/hypertext-transfer-protocol-http.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "JavaScript (EcmaScript)",
-        "link": "languages-protocols-browser-apis_javascript-ecmascript.md",
+        "link": "languages-protocols-browser-apis/javascript-ecmascript.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "JavaScript Object Notation (JSON)",
-        "link": "languages-protocols-browser-apis_javascript-object-notation-json.md",
+        "link": "languages-protocols-browser-apis/javascript-object-notation-json.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Scalable Vector Graphics (SVG)",
-        "link": "languages-protocols-browser-apis_scalable-vector-graphics-svg.md",
+        "link": "languages-protocols-browser-apis/scalable-vector-graphics-svg.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Service Workers",
-        "link": "languages-protocols-browser-apis_service-workers.md",
+        "link": "languages-protocols-browser-apis/service-workers.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Templating Languages and Engines",
-        "link": "languages-protocols-browser-apis_templating-languages-and-engines.md",
+        "link": "languages-protocols-browser-apis/templating-languages-and-engines.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Transpiled Languages",
-        "link": "languages-protocols-browser-apis_transpiled-languages.md",
+        "link": "languages-protocols-browser-apis/transpiled-languages.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Uniform Resource Identifier (URI)",
-        "link": "languages-protocols-browser-apis_uniform-resource-identifier-uri.md",
+        "link": "languages-protocols-browser-apis/uniform-resource-identifier-uri.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Web Animations API",
-        "link": "animation_web-animations-api.md",
+        "link": "animation/web-animations-api.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "WebAssembly",
-        "link": "languages-protocols-browser-apis_webassembly.md",
+        "link": "languages-protocols-browser-apis/webassembly.md",
         "level": 0
       }
     ]
@@ -7502,55 +7502,55 @@ export default [
       {
         "title": "",
         "subtitle": "Buttons",
-        "link": "user-interface-components_buttons.md",
+        "link": "user-interface-components/buttons.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Code",
-        "link": "user-interface-components_code.md",
+        "link": "user-interface-components/code.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Forms",
-        "link": "user-interface-components_forms.md",
+        "link": "user-interface-components/forms.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Galeries & Image Sliders",
-        "link": "user-interface-components_galeries-and-image-sliders.md",
+        "link": "user-interface-components/galeries-and-image-sliders.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Grid",
-        "link": "user-interface-components_grid.md",
+        "link": "user-interface-components/grid.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Rich Text Editors",
-        "link": "user-interface-components_rich-text-editors.md",
+        "link": "user-interface-components/rich-text-editors.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Table Of Contents",
-        "link": "user-interface-components_table-of-contents.md",
+        "link": "user-interface-components/table-of-contents.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "UI Kits",
-        "link": "user-interface-components_ui-kits.md",
+        "link": "user-interface-components/ui-kits.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Video & Audio",
-        "link": "user-interface-components_video-and-audio.md",
+        "link": "user-interface-components/video-and-audio.md",
         "level": 0
       }
     ]
@@ -7568,81 +7568,2035 @@ export default [
       {
         "title": "",
         "subtitle": "Automated Testing",
-        "link": "workflow_automated-testing.md",
+        "link": "workflow/automated-testing.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Build Tools",
-        "link": "workflow_build-tools.md",
+        "link": "workflow/build-tools.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "CSS Tools",
-        "link": "workflow_css-tools.md",
+        "link": "workflow/css-tools.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Code Editors",
-        "link": "workflow_code-editors.md",
+        "link": "workflow/code-editors.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Documentation",
-        "link": "workflow_documentation.md",
+        "link": "workflow/documentation.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Fonts for Programmers",
-        "link": "workflow_fonts-for-programmers.md",
+        "link": "workflow/fonts-for-programmers.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Getting Started",
-        "link": "workflow_getting-started.md",
+        "link": "workflow/getting-started.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "HTML Tools",
-        "link": "workflow_html-tools.md",
+        "link": "workflow/html-tools.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Image Post Processing",
-        "link": "workflow_image-post-processing.md",
+        "link": "workflow/image-post-processing.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "JavaScript Tools",
-        "link": "workflow_javascript-tools.md",
+        "link": "workflow/javascript-tools.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Package Management",
-        "link": "workflow_package-management.md",
+        "link": "workflow/package-management.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Sourcemaps",
-        "link": "workflow_sourcemaps.md",
+        "link": "workflow/sourcemaps.md",
         "level": 0
       },
       {
         "title": "",
         "subtitle": "Version Control",
-        "link": "workflow_version-control.md",
+        "link": "workflow/version-control.md",
         "level": 0
       }
     ]
+  },
+  {
+    "id": "JStumpp_awesome-android",
+    "title": "Emulators",
+    "links": [
+      {
+        "title": "AMIDuOS",
+        "subtitle": "",
+        "link": "https://www.amiduos.com",
+        "level": 0
+      },
+      {
+        "title": "AndY",
+        "subtitle": "",
+        "link": "https://andyroid.net",
+        "level": 0
+      },
+      {
+        "title": "ARChon",
+        "subtitle": "",
+        "link": "https://archon-runtime.github.io",
+        "level": 0
+      },
+      {
+        "title": "BlueStacks",
+        "subtitle": "",
+        "link": "https://www.bluestacks.com",
+        "level": 0
+      },
+      {
+        "title": "Genymotion",
+        "subtitle": "",
+        "link": "https://www.genymotion.com",
+        "level": 0
+      },
+      {
+        "title": "nox",
+        "subtitle": "",
+        "link": "https://www.bignox.com",
+        "level": 0
+      },
+      {
+        "title": "Xamarin",
+        "subtitle": "",
+        "link": "https://www.xamarin.com",
+        "level": 0
+      },
+      {
+        "title": "Remix OS Player",
+        "subtitle": "",
+        "link": "http://www.jide.com/remixos-player",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#libraries",
+    "title": "Libraries",
+    "links": []
+  },
+  {
+    "id": "JStumpp_awesome-android#charts",
+    "title": "Charts",
+    "links": [
+      {
+        "title": "AChartEngine",
+        "subtitle": "Charting Engine.",
+        "link": "https://github.com/ddanny/achartengine",
+        "level": 0
+      },
+      {
+        "title": "EazeGraph",
+        "subtitle": "Chart and graph library.",
+        "link": "https://github.com/blackfizz/EazeGraph",
+        "level": 0
+      },
+      {
+        "title": "WilliamChart",
+        "subtitle": "Chart library with good motion capabilities.",
+        "link": "https://github.com/diogobernardino/WilliamChart",
+        "level": 0
+      },
+      {
+        "title": "HelloCharts",
+        "subtitle": "Chart and graph library with support for scaling, scrolling and animations.",
+        "link": "https://github.com/lecho/hellocharts-android",
+        "level": 0
+      },
+      {
+        "title": "MPAndroidChart",
+        "subtitle": "An Android chart and graph library supporting scaling and dragging by gesture.",
+        "link": "https://github.com/PhilJay/MPAndroidChart",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#cloud-services",
+    "title": "Cloud Services",
+    "links": [
+      {
+        "title": "CloudRail",
+        "subtitle": "Unified API Library for: Cloud Storage, Social Profiles, Payment, Email, SMS & POIs.",
+        "link": "https://cloudrail.com",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#data-binding",
+    "title": "Data binding",
+    "links": [
+      {
+        "title": "Anvil",
+        "subtitle": "A small library to create reactive UI components, inspired by React. Provides data binding and event listener binding, fits well for MVVM.",
+        "link": "https://github.com/zserge/anvil",
+        "level": 0
+      },
+      {
+        "title": "RoboBinding",
+        "subtitle": "A data-binding Presentation Model (MVVM) framework for the Android platform.",
+        "link": "https://github.com/RoboBinding/RoboBinding",
+        "level": 0
+      },
+      {
+        "title": "Data Binding Library",
+        "subtitle": "Official Android Data Binding Library to write declarative layouts and minimize the glue code necessary to bind application logic and layouts.",
+        "link": "https://developer.android.com/topic/libraries/data-binding/index.html",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#dependency-injection",
+    "title": "Dependency Injection",
+    "links": [
+      {
+        "title": "RoboGuice",
+        "subtitle": "Dependency injection framework for Android.",
+        "link": "https://github.com/roboguice/roboguice",
+        "level": 0
+      },
+      {
+        "title": "Dagger",
+        "subtitle": "Dependency injection framework for Java and Android.",
+        "link": "https://github.com/square/Dagger",
+        "level": 0
+      },
+      {
+        "title": "Dagger 2",
+        "subtitle": "A fast dependency injector for Android and Java.",
+        "link": "https://github.com/google/dagger",
+        "level": 0
+      },
+      {
+        "title": "Butter Knife",
+        "subtitle": "View “injection” library for Android.",
+        "link": "http://jakewharton.github.io/butterknife/",
+        "level": 0
+      },
+      {
+        "title": "ActivityStarter",
+        "subtitle": "Android Library that provide simpler way to start the Activities with multiple arguments.",
+        "link": "https://github.com/MarcinMoskala/ActivityStarter",
+        "level": 0
+      },
+      {
+        "title": "AndroidAnnotations",
+        "subtitle": "Java annotations with dependency injection at compile time.",
+        "link": "https://github.com/androidannotations/androidannotations",
+        "level": 0
+      },
+      {
+        "title": "Toothpick",
+        "subtitle": "A scope tree based Dependency Injection (DI) library for Java.",
+        "link": "https://github.com/stephanenicolas/toothpick",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#android-services",
+    "title": "Android Services",
+    "links": [
+      {
+        "title": "Remoter",
+        "subtitle": "An alternative to Android AIDL for Android Remote IPC services using plain java interfaces.",
+        "link": "https://github.com/josesamuel/remoter",
+        "level": 0
+      },
+      {
+        "title": "Service Connector",
+        "subtitle": "Bind Android services and callbacks to fields and methods.",
+        "link": "https://github.com/josesamuel/serviceconnector",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#game-development",
+    "title": "Game Development",
+    "links": [
+      {
+        "title": "AndEngine",
+        "subtitle": "Free, Fun and Fast Android 2D OpenGL Game Engine.",
+        "link": "http://www.andengine.org/",
+        "level": 0
+      },
+      {
+        "title": "Libgdx",
+        "subtitle": "Cross-platform game engine and SDK.",
+        "link": "https://libgdx.badlogicgames.com/",
+        "level": 0
+      },
+      {
+        "title": "Vuforia",
+        "subtitle": "Augmented Reality library.",
+        "link": "https://www.vuforia.com/",
+        "level": 0
+      },
+      {
+        "title": "Unity",
+        "subtitle": "Cross-platform game creation system.",
+        "link": "https://unity3d.com/unity/features/multiplatform",
+        "level": 0
+      },
+      {
+        "title": "Rajawali",
+        "subtitle": "Android OpenGL ES 2.0/3.0 Engine",
+        "link": "https://github.com/Rajawali/Rajawali",
+        "level": 0
+      },
+      {
+        "title": "Cocos2d-x",
+        "subtitle": "Cross-platform 2d game framework.",
+        "link": "http://www.cocos2d-x.org",
+        "level": 0
+      },
+      {
+        "title": "JustWeEngine",
+        "subtitle": "An easy open source Android Native Game FrameWork.",
+        "link": "https://github.com/lfkdsk/JustWeEngine",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#security",
+    "title": "Security",
+    "links": [
+      {
+        "title": "libsignal-protocol-java",
+        "subtitle": "A ratcheting forward secrecy protocol that works in synchronous and asynchronous messaging environments.",
+        "link": "https://github.com/whispersystems/libsignal-protocol-java",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#gui",
+    "title": "GUI",
+    "links": [
+      {
+        "title": "Pull to refresh",
+        "subtitle": "A swipe refresh layout is available in the v4 support library.",
+        "link": "https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout.html",
+        "level": 0
+      },
+      {
+        "title": "Cardslib",
+        "subtitle": "Android Library to build a UI Card.",
+        "link": "https://github.com/gabrielemariotti/cardslib",
+        "level": 0
+      },
+      {
+        "title": "AndroidStaggeredGrid",
+        "subtitle": "Grid view which supports multiple columns with rows of varying sizes.",
+        "link": "https://github.com/etsy/AndroidStaggeredGrid",
+        "level": 0
+      },
+      {
+        "title": "AndroidQuery",
+        "subtitle": "Android-Query (AQuery) is a light-weight library for doing asynchronous tasks and manipulating UI elements in Android.",
+        "link": "https://github.com/androidquery/androidquery",
+        "level": 0
+      },
+      {
+        "title": "Flow",
+        "subtitle": "Library that helps with describing an app as a collection of moderately independent screens.",
+        "link": "https://github.com/square/flow",
+        "level": 0
+      },
+      {
+        "title": "Crouton",
+        "subtitle": "Context sensitive notifications for Android",
+        "link": "https://github.com/keyboardsurfer/Crouton",
+        "level": 0
+      },
+      {
+        "title": "DragSortListView",
+        "subtitle": "Extension of the Android ListView that enables drag-and-drop reordering (No longer maintained).",
+        "link": "https://github.com/bauerca/drag-sort-listview",
+        "level": 0
+      },
+      {
+        "title": "SortableTableView",
+        "subtitle": "An Android library containing a simple TableView and an advanced SortableTableView providing a lot of customisation possibilities to fit all needs.",
+        "link": "https://github.com/ISchwarz23/SortableTableView",
+        "level": 0
+      },
+      {
+        "title": "MaterialProgressBar",
+        "subtitle": "Material design ProgressBar with consistent appearance.",
+        "link": "https://github.com/DreaminginCodeZH/MaterialProgressBar",
+        "level": 0
+      },
+      {
+        "title": "AndroidFillableLoaders",
+        "subtitle": "Fillable progress view working with SVG paths. Nice option too for creating interesting app logos.",
+        "link": "https://github.com/JorgeCastilloPrz/AndroidFillableLoaders",
+        "level": 0
+      },
+      {
+        "title": "NexusDialog",
+        "subtitle": "Allows you to easily and quickly create forms in Android with little code.",
+        "link": "https://github.com/dkharrat/NexusDialog",
+        "level": 0
+      },
+      {
+        "title": "Snap RecyclerView Utils",
+        "subtitle": "Populate Single or multiple Layout RecyclerView without creating an Adapter.",
+        "link": "https://github.com/prashantsolanki3/Snap-RecyclerView-Utils",
+        "level": 0
+      },
+      {
+        "title": "MultiSnapRecyclerView",
+        "subtitle": "Android library for multiple snapping of RecyclerView",
+        "link": "https://github.com/TakuSemba/MultiSnapRecyclerView",
+        "level": 0
+      },
+      {
+        "title": "SwipeableCard",
+        "subtitle": "Implementation of swipe card like StreetView!!",
+        "link": "https://github.com/michelelacorte/SwipeableCard",
+        "level": 0
+      },
+      {
+        "title": "ElasticProgressBar",
+        "subtitle": "Beautiful loading bar.",
+        "link": "https://github.com/michelelacorte/ElasticProgressBar",
+        "level": 0
+      },
+      {
+        "title": "EntryScreenManager",
+        "subtitle": "Intro/Entry/Walkthrough/Starting Screens.",
+        "link": "https://github.com/kunall17/EntryScreenManager",
+        "level": 0
+      },
+      {
+        "title": "EasyIntro",
+        "subtitle": "The flexible, easy to use, all in one app intro library for your Android project.",
+        "link": "https://github.com/meNESS/EasyIntro",
+        "level": 0
+      },
+      {
+        "title": "Material-Calendar-View",
+        "subtitle": "Material Design Calendar compatible with API 8+",
+        "link": "https://github.com/BlackBoxVision/material-calendar-view",
+        "level": 0
+      },
+      {
+        "title": "SectionedRecyclerViewAdapter",
+        "subtitle": "An Adapter that allows a RecyclerView to be split into Sections with headers and/or footers.",
+        "link": "https://github.com/luizgrp/SectionedRecyclerViewAdapter",
+        "level": 0
+      },
+      {
+        "title": "DragListView",
+        "subtitle": "Drag and drop to reorder items in a list, grid or board.",
+        "link": "https://github.com/woxblom/DragListView",
+        "level": 0
+      },
+      {
+        "title": "Animated Expanding ListView",
+        "subtitle": "Animated Expanding ListView provides a fancy animation on expanding or collapsing the content of a listview item.",
+        "link": "https://github.com/LeonardoCardoso/Animated-Expanding-ListView",
+        "level": 0
+      },
+      {
+        "title": "TastyToast",
+        "subtitle": "Toasts with icons and color.",
+        "link": "https://github.com/yadav-rahul/TastyToast",
+        "level": 0
+      },
+      {
+        "title": "DotLoader",
+        "subtitle": "A customizable loading animation with Dots.",
+        "link": "https://github.com/bhargavms/DotLoader",
+        "level": 0
+      },
+      {
+        "title": "PodSlider",
+        "subtitle": "A customizable slider widget adhering to material design specs.",
+        "link": "https://github.com/bhargavms/PodSLider",
+        "level": 0
+      },
+      {
+        "title": "TapTargetView",
+        "subtitle": "An implementation of tap targets from the Material Design guidelines for feature discovery.",
+        "link": "https://github.com/KeepSafe/TapTargetView",
+        "level": 0
+      },
+      {
+        "title": "MaterialIntroScreen",
+        "subtitle": "Material Intro Screen implementation with easily extensible API.",
+        "link": "https://github.com/TangoAgency/material-intro-screen",
+        "level": 0
+      },
+      {
+        "title": "FloatingView",
+        "subtitle": "FloatingView can make the target view floating above the anchor view with cool animation.",
+        "link": "https://github.com/UFreedom/FloatingView",
+        "level": 0
+      },
+      {
+        "title": "Timecon",
+        "subtitle": "Easy-to-use animated clock icon",
+        "link": "https://github.com/alxrm/animated-clock-icon",
+        "level": 0
+      },
+      {
+        "title": "Audiogram",
+        "subtitle": "Lightweight audiowave progressbar",
+        "link": "https://github.com/alxrm/audiowave-progressbar",
+        "level": 0
+      },
+      {
+        "title": "Bubbles for Android",
+        "subtitle": "Facebook like chat bubble library",
+        "link": "https://github.com/txusballesteros/bubbles-for-android",
+        "level": 0
+      },
+      {
+        "title": "Litho (By Facebook)",
+        "subtitle": "A declarative framework for building efficient UIs on Android.",
+        "link": "https://github.com/facebook/litho",
+        "level": 0
+      },
+      {
+        "title": "MultiViewAdapter",
+        "subtitle": "Recyclerview Adapter library to create composable view holders.",
+        "link": "https://github.com/DevAhamed/MultiViewAdapter",
+        "level": 0
+      },
+      {
+        "title": "LGSnackbar",
+        "subtitle": "An easy to use and customisable wrapper of the native Android Snackbar which stays visible across multiple activities.",
+        "link": "https://github.com/loregr/LGSnackbar",
+        "level": 0
+      },
+      {
+        "title": "ShimmerLayout",
+        "subtitle": "Memory efficient shimmering effect for Android applications.",
+        "link": "https://github.com/team-supercharge/ShimmerLayout",
+        "level": 0
+      },
+      {
+        "title": "CircleProgressBar",
+        "subtitle": "A simple library for creating circular progressbars for Android.",
+        "link": "https://github.com/emre1512/CircleProgressBar",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#paginate",
+    "title": "Paginate",
+    "links": [
+      {
+        "title": "NoPaginate",
+        "subtitle": "Simple Android pagination library",
+        "link": "https://github.com/NoNews/NoPaginate",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#actionbar",
+    "title": "ActionBar",
+    "links": [
+      {
+        "title": "ActionBarSherlock",
+        "subtitle": "ActionBar for older Android versions.",
+        "link": "http://actionbarsherlock.com",
+        "level": 0
+      },
+      {
+        "title": "FadingActionBar",
+        "subtitle": "Fading action bar effect that can be seen in the new Play Music app.",
+        "link": "https://github.com/ManuelPeinado/FadingActionBar",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#navigation",
+    "title": "Navigation",
+    "links": [
+      {
+        "title": "SlidingMenu",
+        "subtitle": "Library to create applications with slide-in menus.",
+        "link": "https://github.com/jfeinstein10/SlidingMenu",
+        "level": 0
+      },
+      {
+        "title": "SlidingTutorial",
+        "subtitle": "Simple library that helps to create awesome sliding android app tutorials.",
+        "link": "https://github.com/Cleveroad/slidingtutorial-android",
+        "level": 0
+      },
+      {
+        "title": "PagerSlidingTabStrip",
+        "subtitle": "An interactive indicator to navigate between the different pages of a ViewPager.",
+        "link": "https://github.com/astuetz/PagerSlidingTabStrip",
+        "level": 0
+      },
+      {
+        "title": "Page View indicator",
+        "subtitle": "Support for horizontally scrolling ViewPager.",
+        "link": "https://github.com/JakeWharton/ViewPagerIndicator",
+        "level": 0
+      },
+      {
+        "title": "RecyclerTabLayout",
+        "subtitle": "An efficient TabLayout library implemented with RecyclerView.",
+        "link": "https://github.com/nshmura/RecyclerTabLayout",
+        "level": 0
+      },
+      {
+        "title": "MaterialDrawer",
+        "subtitle": "Simple take on a material design navigation drawer.",
+        "link": "https://github.com/mikepenz/MaterialDrawer",
+        "level": 0
+      },
+      {
+        "title": "Debug-Artist",
+        "subtitle": "Debug menu to enable leakcanary, scalpel and others easy.",
+        "link": "https://github.com/baristaventures/debug-artist",
+        "level": 0
+      },
+      {
+        "title": "Floating-Navigation-View",
+        "subtitle": "A simple Floating Action Button that shows an anchored Navigation View.",
+        "link": "https://github.com/andremion/Floating-Navigation-View",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#animations",
+    "title": "Animations",
+    "links": [
+      {
+        "title": "NineOldAndroids",
+        "subtitle": "Library for using the Honeycomb animation API on all versions of the platform back to 1.0.",
+        "link": "https://github.com/JakeWharton/NineOldAndroids",
+        "level": 0
+      },
+      {
+        "title": "Rebound",
+        "subtitle": "Rebound is a Java library that models spring dynamics.",
+        "link": "https://github.com/facebook/rebound",
+        "level": 0
+      },
+      {
+        "title": "Android View Animations",
+        "subtitle": "Cute view animation collection.",
+        "link": "https://github.com/daimajia/AndroidViewAnimations",
+        "level": 0
+      },
+      {
+        "title": "Android-Transition",
+        "subtitle": "Allows the easy creation of view transitions that react to user inputs.",
+        "link": "https://github.com/kaichunlin/android-transition",
+        "level": 0
+      },
+      {
+        "title": "Android-View-Actions",
+        "subtitle": "Makes creating complex animations for views easy.",
+        "link": "https://github.com/dtx12/AndroidAnimationsActions",
+        "level": 0
+      },
+      {
+        "title": "Swipper",
+        "subtitle": "Android library for swipeable gestures to control volume , brightness and seek .",
+        "link": "https://github.com/sdsmdg/Swipper",
+        "level": 0
+      },
+      {
+        "title": "Spotlight",
+        "subtitle": "Android Library that lights items for tutorials or walk-throughs etc…",
+        "link": "https://github.com/TakuSemba/Spotlight",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#images",
+    "title": "Images",
+    "links": [
+      {
+        "title": "Crescento",
+        "subtitle": "Explore new style in material design by adding curve below image view.",
+        "link": "https://github.com/developer-shivam/crescento",
+        "level": 0
+      },
+      {
+        "title": "android-crop",
+        "subtitle": "Library project for cropping images.",
+        "link": "https://github.com/jdamcd/android-crop",
+        "level": 0
+      },
+      {
+        "title": "CircularImageView",
+        "subtitle": "Custom view for circular images while maintaining the best draw performance.",
+        "link": "https://github.com/Pkmmte/CircularImageView",
+        "level": 0
+      },
+      {
+        "title": "Android-Image-Filter",
+        "subtitle": "Library project for applying image filters easily.",
+        "link": "https://github.com/ragnraok/android-image-filter",
+        "level": 0
+      },
+      {
+        "title": "Compressor",
+        "subtitle": "Compressor is a lightweight and powerful android image compression library.",
+        "link": "https://github.com/zetbaitsu/Compressor",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#inputs",
+    "title": "Inputs",
+    "links": [
+      {
+        "title": "FloatingLabel",
+        "subtitle": "FloatingLabel Allows you to create a blow kind of EditText.",
+        "link": "https://github.com/hardik-trivedi/FloatingLabel",
+        "level": 0
+      },
+      {
+        "title": "MaterialEditText",
+        "subtitle": "Supporting Floating Labels, Single Line Ellipsis, Max/Min Characters, Helper Text and Error Text with Custom Colors.",
+        "link": "https://github.com/rengwuxian/MaterialEditText",
+        "level": 0
+      },
+      {
+        "title": "Emojicon",
+        "subtitle": "Adds emoticons to your app",
+        "link": "https://github.com/rockerhieu/emojicon",
+        "level": 0
+      },
+      {
+        "title": "MaterialSearchBar",
+        "subtitle": "Material Design Search Bar for Android",
+        "link": "https://github.com/mancj/MaterialSearchBar",
+        "level": 0
+      },
+      {
+        "title": "InputMask",
+        "subtitle": "Pattern-based user input formatter, parser and validator.",
+        "link": "https://github.com/RedMadRobot/input-mask-android",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#loading-images",
+    "title": "Loading Images",
+    "links": [
+      {
+        "title": "Picasso",
+        "subtitle": "A powerful image downloading and caching library for Android.",
+        "link": "https://github.com/square/picasso",
+        "level": 0
+      },
+      {
+        "title": "Universal Image Loader",
+        "subtitle": "Asynchronous, out of the box loading and caching of images.",
+        "link": "https://github.com/nostra13/Android-Universal-Image-Loader",
+        "level": 0
+      },
+      {
+        "title": "Glide",
+        "subtitle": "An image loading and caching library for Android focused on smooth scrolling, Recommended by Google.",
+        "link": "https://github.com/bumptech/glide",
+        "level": 0
+      },
+      {
+        "title": "Fresco",
+        "subtitle": "An Android library for managing images and the memory they use.",
+        "link": "https://github.com/facebook/fresco",
+        "level": 0
+      },
+      {
+        "title": "Glide Bitmap Pool",
+        "subtitle": "Glide Bitmap Pool is a memory management library for reusing the bitmap memory.",
+        "link": "https://github.com/amitshekhariitbhu/GlideBitmapPool",
+        "level": 0
+      },
+      {
+        "title": "MediaPicker",
+        "subtitle": "Android Library that lets you to select multiple images, video or voice for Android",
+        "link": "https://github.com/alhazmy13/MediaPicker",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#video",
+    "title": "Video",
+    "links": [
+      {
+        "title": "ijkplayer",
+        "subtitle": "Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.",
+        "link": "https://github.com/Bilibili/ijkplayer",
+        "level": 0
+      },
+      {
+        "title": "Exoplayer",
+        "subtitle": "ExoPlayer is an application level media player for Android, allow  playing audio and video both locally and over the Internet.",
+        "link": "https://github.com/google/ExoPlayer",
+        "level": 0
+      },
+      {
+        "title": "Easy-Video-Player",
+        "subtitle": "Easy Video Player is very simple and easy to use in our app.",
+        "link": "https://github.com/afollestad/easy-video-player",
+        "level": 0
+      },
+      {
+        "title": "VideoPlayView",
+        "subtitle": "Custom Android view with video player, play/stop, loader and placeholder image.",
+        "link": "https://github.com/MarcinMoskala/VideoPlayView",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#camera",
+    "title": "Camera",
+    "links": [
+      {
+        "title": "MagicalCamera",
+        "subtitle": "Simple way to take or select photos of your gallery, with other features for manage pictures.",
+        "link": "https://github.com/fabian7593/MagicalCamera",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#field-validation",
+    "title": "Field Validation",
+    "links": [
+      {
+        "title": "Convalida",
+        "subtitle": "A simple and annotation-based way to validate your input fields.",
+        "link": "https://github.com/WellingtonCosta/convalida",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#json",
+    "title": "JSON",
+    "links": [
+      {
+        "title": "Gson",
+        "subtitle": "Gson is a Java library used for serializing and deserializing Java objects from and into JSON.",
+        "link": "https://github.com/google/gson",
+        "level": 0
+      },
+      {
+        "title": "Jackson JSON Processor",
+        "subtitle": "High-performance JSON processor.",
+        "link": "https://github.com/FasterXML/jackson",
+        "level": 0
+      },
+      {
+        "title": "Moshi",
+        "subtitle": "A modern JSON library for Android and Java.",
+        "link": "https://github.com/square/moshi",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#crash-monitoring",
+    "title": "Crash monitoring",
+    "links": [
+      {
+        "title": "Fabric Crashlytics",
+        "subtitle": "Easy crash reporting solution.",
+        "link": "https://get.fabric.io/",
+        "level": 0
+      },
+      {
+        "title": "HockeyApp",
+        "subtitle": "Distribution, Crash Reports, Feedback and Analytics",
+        "link": "https://www.hockeyapp.net/",
+        "level": 0
+      },
+      {
+        "title": "Splunk MINT",
+        "subtitle": "Monitoring, Crash Reports, Real time data, Statistic.",
+        "link": "https://mint.splunk.com/",
+        "level": 0
+      },
+      {
+        "title": "Bugsnag",
+        "subtitle": "Cross platform error monitoring. Free tier. Support for SDK & NDK. Error reports include data on device, release, user, and allows arbitrary data.",
+        "link": "https://www.bugsnag.com/",
+        "level": 0
+      },
+      {
+        "title": "Catcho",
+        "subtitle": "No Force Close any more.",
+        "link": "https://github.com/alhazmy13/Catcho",
+        "level": 0
+      },
+      {
+        "title": "Apteligent",
+        "subtitle": "Cross platform crash reporting/analytics solution. Supports NDK log.",
+        "link": "https://www.apteligent.com/",
+        "level": 0
+      },
+      {
+        "title": "Instabug",
+        "subtitle": "Bug reporting, Crash Reporting, In-app Feedback.",
+        "link": "https://instabug.com/",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#networking",
+    "title": "Networking",
+    "links": [
+      {
+        "title": "Ion",
+        "subtitle": "Good networking library for android.",
+        "link": "https://github.com/koush/ion",
+        "level": 0
+      },
+      {
+        "title": "OkHttp",
+        "subtitle": "An HTTP+SPDY client for Android and Java applications.",
+        "link": "https://github.com/square/okhttp",
+        "level": 0
+      },
+      {
+        "title": "Asynchronous Http Client",
+        "subtitle": "An Asynchronous HTTP Library.",
+        "link": "https://github.com/loopj/android-async-http",
+        "level": 0
+      },
+      {
+        "title": "RoboSpice",
+        "subtitle": "Library that makes writing asynchronous network requests easy.",
+        "link": "https://github.com/stephanenicolas/robospice",
+        "level": 0
+      },
+      {
+        "title": "IceNet",
+        "subtitle": "Fast, Simple and Easy Networking for Android",
+        "link": "https://github.com/anton46/IceNet",
+        "level": 0
+      },
+      {
+        "title": "Android Volley",
+        "subtitle": "Official Android HTTP library that makes networking for easier and faster.",
+        "link": "https://developer.android.com/training/volley/index.html",
+        "level": 0
+      },
+      {
+        "title": "IceSoap",
+        "subtitle": "Easy, asynchronous, annotation-based SOAP for Android.",
+        "link": "https://github.com/AlexGilleran/IceSoap",
+        "level": 0
+      },
+      {
+        "title": "node-android",
+        "subtitle": "Run Node.js on Android.",
+        "link": "https://github.com/InstantWebP2P/node-android",
+        "level": 0
+      },
+      {
+        "title": "HappyDns",
+        "subtitle": "A Dns library, user can use custom dns server, dnspod httpdns. Only support A record.",
+        "link": "https://github.com/qiniu/happy-dns-android",
+        "level": 0
+      },
+      {
+        "title": "RESTMock",
+        "subtitle": "HTTP Web server for mocking API responses in Android Instrumentation tests.",
+        "link": "https://github.com/andrzejchm/RESTMock",
+        "level": 0
+      },
+      {
+        "title": "Packetzoom",
+        "subtitle": "SDK for optimizing HTTP requests and free analytics service for networking.",
+        "link": "https://packetzoom.com/blog/introducing-http-optimizer-and-analytics-service.html",
+        "level": 0
+      },
+      {
+        "title": "Fast-Android-Networking",
+        "subtitle": "A Complete Fast Android Networking Library that also support HTTP/2.",
+        "link": "https://github.com/amitshekhariitbhu/Fast-Android-Networking",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#logger",
+    "title": "Logger",
+    "links": [
+      {
+        "title": "logger",
+        "subtitle": "Simple, pretty and powerful logger for android",
+        "link": "https://github.com/orhanobut/logger",
+        "level": 0
+      },
+      {
+        "title": "timber",
+        "subtitle": "A logger with a small, extensible API which provides utility on top of Android’s normal Log class.",
+        "link": "https://github.com/JakeWharton/timber",
+        "level": 0
+      },
+      {
+        "title": "LoggingInterceptor",
+        "subtitle": "An OkHttp interceptor which pretty logs request and response data.",
+        "link": "https://github.com/ihsanbal/LoggingInterceptor",
+        "level": 0
+      },
+      {
+        "title": "Bugfender",
+        "subtitle": "Upload your logs and check them online, specially made for mobile",
+        "link": "https://github.com/bugfender/BugfenderSDK-android-sample",
+        "level": 0
+      },
+      {
+        "title": "EzyLogger",
+        "subtitle": "Simple Lightweight logger",
+        "link": "https://github.com/afiqiqmal/EzyLogger",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#notifications",
+    "title": "Notifications",
+    "links": [
+      {
+        "title": "android-remote-notifications",
+        "subtitle": "Pulls notifications from a remote JSON file and shows them in your app.",
+        "link": "https://github.com/kaiwinter/android-remote-notifications",
+        "level": 0
+      },
+      {
+        "title": "Android HeartBeat Fixer",
+        "subtitle": "Way to set heartbeat interval and users receive PushNotifications from GCM.",
+        "link": "https://github.com/joaopedronardari/AndroidHeartBeatFixer",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#database",
+    "title": "Database",
+    "links": [
+      {
+        "title": "Cupboard",
+        "subtitle": "Access the sqlite easily via direct database access or through the ContentProvider framework.",
+        "link": "https://bitbucket.org/littlerobots/cupboard",
+        "level": 0
+      },
+      {
+        "title": "DbInspector",
+        "subtitle": "Provides a simple way to view the contents of the in-app database for debugging purposes.",
+        "link": "https://github.com/infinum/android_dbinspector",
+        "level": 0
+      },
+      {
+        "title": "SQLite Asset Helper",
+        "subtitle": "manage database creation and version management using an application’s raw asset files.",
+        "link": "https://github.com/jgilfelt/android-sqlite-asset-helper",
+        "level": 0
+      },
+      {
+        "title": "Realm",
+        "subtitle": "The alternative to SQLite and ORMs: Simple, modern and fast! Object oriented API and multi platform support.",
+        "link": "https://github.com/realm/realm-java",
+        "level": 0
+      },
+      {
+        "title": "Realm Asset Helper",
+        "subtitle": "Copies a realm database from the apk assets folder. Efficiently handles versioning of read-only realm databases.",
+        "link": "https://github.com/eggheadgames/android-realm-asset-helper",
+        "level": 0
+      },
+      {
+        "title": "RestorableSQLiteDatabase",
+        "subtitle": "A wrapper to replicate android’s SQLiteDatabase with restoring capability.",
+        "link": "https://github.com/yaa110/RestorableSQLiteDatabase",
+        "level": 0
+      },
+      {
+        "title": "Nitrite Database",
+        "subtitle": "A NoSQL embedded document store for Android with MongoDb like API.",
+        "link": "https://github.com/dizitart/nitrite-database",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#orm",
+    "title": "ORM",
+    "links": [
+      {
+        "title": "requery",
+        "subtitle": "Compile time ORM and SQL query library for Java & Android.",
+        "link": "https://github.com/requery/requery",
+        "level": 0
+      },
+      {
+        "title": "GreenDAO",
+        "subtitle": "Light & fast ORM solution.",
+        "link": "http://greenrobot.org/greendao/",
+        "level": 0
+      },
+      {
+        "title": "ORMLite",
+        "subtitle": "Lightweight ORM Java package for JDBC and Android.",
+        "link": "http://ormlite.com/sqlite_java_android_orm.shtml",
+        "level": 0
+      },
+      {
+        "title": "ActiveAndroid",
+        "subtitle": "Active record style ORM.",
+        "link": "http://www.activeandroid.com",
+        "level": 0
+      },
+      {
+        "title": "Sugar ORM",
+        "subtitle": "Insanely easy way to work with Android Databases.",
+        "link": "http://satyan.github.io/sugar/",
+        "level": 0
+      },
+      {
+        "title": "DBFlow",
+        "subtitle": "Fast and powerful ORM with compile-time annotation processing.",
+        "link": "https://github.com/Raizlabs/DBFlow",
+        "level": 0
+      },
+      {
+        "title": "NexusData",
+        "subtitle": "Object graph and persistence framework for Android.",
+        "link": "https://github.com/dkharrat/NexusData",
+        "level": 0
+      },
+      {
+        "title": "SimpleNoSQL",
+        "subtitle": "A simple NoSQL client for Android. Meant as a document store using key/value pairs and some rudimentary querying. Useful for avoiding the hassle of SQL code.",
+        "link": "https://github.com/Jearil/SimpleNoSQL",
+        "level": 0
+      },
+      {
+        "title": "RxSimpleNoSQL",
+        "subtitle": "Reactive extensions for SimpleNoSQL. Manipulate entities using Observables.",
+        "link": "https://github.com/xmartlabs/RxSimpleNoSQL",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#rest",
+    "title": "REST",
+    "links": [
+      {
+        "title": "Retrofit",
+        "subtitle": "Retrofit turns your REST API into a Java interface.",
+        "link": "http://square.github.io/retrofit/",
+        "level": 0
+      },
+      {
+        "title": "Spring for Android - Rest Template",
+        "subtitle": "A Rest Client for Android.",
+        "link": "https://github.com/spring-projects/spring-android",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#testing",
+    "title": "Testing",
+    "links": [
+      {
+        "title": "Robotium",
+        "subtitle": "Test automation framework for black-box UI tests.",
+        "link": "https://github.com/robotiumtech/robotium",
+        "level": 0
+      },
+      {
+        "title": "Roboletric",
+        "subtitle": "Unit test framework to run tests inside the JVM on your workstation, not in the emulator.",
+        "link": "http://robolectric.org/",
+        "level": 0
+      },
+      {
+        "title": "AssertJ Android",
+        "subtitle": "AssertJ assertions geared towards Android.",
+        "link": "https://github.com/square/assertj-android",
+        "level": 0
+      },
+      {
+        "title": "Green Coffee",
+        "subtitle": "Run your Cucumber tests in your Android instrumentation tests.",
+        "link": "https://github.com/mauriciotogneri/green-coffee",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#tracking",
+    "title": "Tracking",
+    "links": [
+      {
+        "title": "MobileAppTracking",
+        "subtitle": "Tracking your marketing campaigns across multiple ad networks.",
+        "link": "https://www.tune.com/",
+        "level": 0
+      },
+      {
+        "title": "Mixpanel",
+        "subtitle": "Analytics platform to analyze the users.",
+        "link": "https://mixpanel.com/",
+        "level": 0
+      },
+      {
+        "title": "Countly",
+        "subtitle": "Open source mobile & web analytics, push notifications and crash reporting platform, based on Node.js, MongoDB and Linux.",
+        "link": "https://count.ly",
+        "level": 0
+      },
+      {
+        "title": "CleverTap",
+        "subtitle": "Analytics platform and user-engagement platform with 1 million free events",
+        "link": "https://clevertap.com",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#maps",
+    "title": "Maps",
+    "links": [
+      {
+        "title": "Google-Directions-Android",
+        "subtitle": "Allows you to calculate the direction between two locations and display the route on a Google Map using the Google Directions API.",
+        "link": "https://github.com/jd-alexander/Google-Directions-Android",
+        "level": 0
+      },
+      {
+        "title": "Android Maps Extensions",
+        "subtitle": "Extending capabilities of Google Maps Android API v2, adding marker clustering among other things",
+        "link": "https://github.com/mg6maciej/android-maps-extensions",
+        "level": 0
+      },
+      {
+        "title": "Clusterkraf",
+        "subtitle": "Clustering library for the Google Maps Android API v2",
+        "link": "https://github.com/twotoasters/clusterkraf",
+        "level": 0
+      },
+      {
+        "title": "MapScaleView",
+        "subtitle": "Scale bar for Google Maps Android API",
+        "link": "https://github.com/pengrad/MapScaleView",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#utility",
+    "title": "Utility",
+    "links": [
+      {
+        "title": "Conceal SharedPreferences",
+        "subtitle": "Secured Preferences using Facebook Secure Encryption called Conceal.",
+        "link": "https://github.com/afiqiqmal/ConcealSharedPreference-Android",
+        "level": 0
+      },
+      {
+        "title": "EventBus",
+        "subtitle": "EventBus is a library that simplifies communication between different parts of your application.",
+        "link": "http://greenrobot.github.io/EventBus/",
+        "level": 0
+      },
+      {
+        "title": "Otto",
+        "subtitle": "Event Bus for Android.",
+        "link": "https://github.com/square/otto",
+        "level": 0
+      },
+      {
+        "title": "Weak handler",
+        "subtitle": "Memory safer implementation of android.os.Handler.",
+        "link": "https://github.com/badoo/android-weak-handler",
+        "level": 0
+      },
+      {
+        "title": "Byte Buddy",
+        "subtitle": "Runtime code generation library with support for Android.",
+        "link": "http://bytebuddy.net",
+        "level": 0
+      },
+      {
+        "title": "Secure Preference Manager",
+        "subtitle": "Secure Preference Manager for android. It uses various Encryption to protect your application’s Shared Preferences.",
+        "link": "https://github.com/prashantsolanki3/Secure-Pref-Manager",
+        "level": 0
+      },
+      {
+        "title": "LeakCanary",
+        "subtitle": "Catch memory leaks as they occur.",
+        "link": "https://github.com/square/leakcanary",
+        "level": 0
+      },
+      {
+        "title": "Drekkar",
+        "subtitle": "An Android event bus for WebView and JS.",
+        "link": "https://github.com/coshx/drekkar",
+        "level": 0
+      },
+      {
+        "title": "Androl4b",
+        "subtitle": "A vm for assessing android applications.",
+        "link": "https://github.com/sh4hin/Androl4b",
+        "level": 0
+      },
+      {
+        "title": "DroidMVP",
+        "subtitle": "Android library to help you incorporate MVP along with Passive View and Presentation Model patterns into your app.",
+        "link": "https://github.com/andrzejchm/DroidMVP",
+        "level": 0
+      },
+      {
+        "title": "Gota",
+        "subtitle": "Simplifying Android Permissions.",
+        "link": "https://github.com/alhazmy13/Gota",
+        "level": 0
+      },
+      {
+        "title": "EasyDeviceInfo",
+        "subtitle": "Get device information in a super easy way.",
+        "link": "https://github.com/nisrulz/easydeviceinfo",
+        "level": 0
+      },
+      {
+        "title": "Ask-Permission",
+        "subtitle": "Simple RunTime permission manager.",
+        "link": "https://github.com/Kishanjvaghela/Ask-Permission",
+        "level": 0
+      },
+      {
+        "title": "Shutter-Android",
+        "subtitle": "Capture photos/videos from device camera or get photos/video from gallery app with no runtime permissions needed.",
+        "link": "https://github.com/levibostian/Shutter-Android",
+        "level": 0
+      },
+      {
+        "title": "Validator",
+        "subtitle": "An utilities class to validate text inside TextInputLayout.",
+        "link": "https://github.com/anderscheow/Validator",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#debugging-tools",
+    "title": "Debugging Tools",
+    "links": [
+      {
+        "title": "Linx",
+        "subtitle": "Show logcat inside the device for debug builds",
+        "link": "https://github.com/pedrovgs/Lynx",
+        "level": 0
+      },
+      {
+        "title": "Scalpel",
+        "subtitle": "View the entire hierarchy in 3d in the phone.",
+        "link": "https://github.com/JakeWharton/scalpel",
+        "level": 0
+      },
+      {
+        "title": "Stetho",
+        "subtitle": "Debug hierarchy and network from chrome.",
+        "link": "https://github.com/facebook/stetho",
+        "level": 0
+      },
+      {
+        "title": "Android Debug Database",
+        "subtitle": "Android Debug Database is a powerful library for debugging databases and shared preferences in Android applications.",
+        "link": "https://github.com/amitshekhariitbhu/Android-Debug-Database",
+        "level": 0
+      },
+      {
+        "title": "Android Debug Bridge - ADB",
+        "subtitle": "a command-line tool to assist in debugging Android-powered devices",
+        "link": "https://github.com/mzlogin/awesome-adb/blob/master/README.en.md",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#wireless",
+    "title": "Wireless",
+    "links": [
+      {
+        "title": "SmartGattLib",
+        "subtitle": "Simplifies the work with Bluetooth SMART devices (a.k.a. Bluetooth Low Energy in Bluetooth 4.0).",
+        "link": "https://github.com/movisens/SmartGattLib",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#chat-&-messaging",
+    "title": "Chat & Messaging",
+    "links": [
+      {
+        "title": "Applozic Android Chat SDK",
+        "subtitle": "Android Chat and Messaging SDK for adding real time chat and in-app messaging into your android application.",
+        "link": "https://github.com/AppLozic/Applozic-Android-SDK",
+        "level": 0
+      },
+      {
+        "title": "Qiscus SDK",
+        "subtitle": "Qiscus SDK is a lightweight and powerful android chat library. Qiscus SDK will allow you to easily integrating Qiscus engine with your apps to make cool chatting application.",
+        "link": "https://github.com/qiscus/qiscus-sdk-android",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#custom-dialog",
+    "title": "Custom Dialog",
+    "links": [
+      {
+        "title": "MediaRecorderDialog",
+        "subtitle": "Custom Dialog to record audio, store it and play it in your phone.",
+        "link": "https://github.com/alhazmy13/MediaRecorderDialog",
+        "level": 0
+      },
+      {
+        "title": "HijriDatePicker",
+        "subtitle": "offers a hijri (Islamic Calendar) Date Picker designed on Google’s Material Design Principals For Pickers.",
+        "link": "https://github.com/alhazmy13/HijriDatePicker",
+        "level": 0
+      },
+      {
+        "title": "Noty",
+        "subtitle": "A simple library for creating animated alerts/dialogs/warnings.",
+        "link": "https://github.com/emre1512/Noty",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#version-checking",
+    "title": "Version Checking",
+    "links": [
+      {
+        "title": "AppUpdater",
+        "subtitle": "comprehensive and feature rich library, including support for checks at Amazon and FDroid.",
+        "link": "https://github.com/javiersantos/AppUpdater",
+        "level": 0
+      },
+      {
+        "title": "Gandalf",
+        "subtitle": "comprehensive features and a “companion” iOS solution.",
+        "link": "https://github.com/btkelly/gandalf",
+        "level": 0
+      },
+      {
+        "title": "Siren",
+        "subtitle": "focused feature set that mimicks the popular iOS library of the same name. Supports Play and Amazon.",
+        "link": "https://github.com/eggheadgames/Siren",
+        "level": 0
+      },
+      {
+        "title": "Fit",
+        "subtitle": "version checking callback framework with no UI.",
+        "link": "https://github.com/KeithYokoma/Fit",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#date-&-time",
+    "title": "Date & Time",
+    "links": [
+      {
+        "title": "ThreeTen Android Backport",
+        "subtitle": "An adaptation of the JSR-310 backport for Android.",
+        "link": "https://github.com/JakeWharton/ThreeTenABP",
+        "level": 0
+      },
+      {
+        "title": "Joda-Time Android",
+        "subtitle": "Joda-Time library with Android specialization.",
+        "link": "https://github.com/dlew/joda-time-android",
+        "level": 0
+      },
+      {
+        "title": "True Time",
+        "subtitle": "Android NTP time library. Get the true current time impervious to device clock time changes.",
+        "link": "https://github.com/instacart/truetime-android",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#runtime-permissions",
+    "title": "Runtime Permissions",
+    "links": [
+      {
+        "title": "Permission Dispatcher",
+        "subtitle": "Simple annotation-based API to handle runtime permissions.",
+        "link": "https://github.com/permissions-dispatcher/PermissionsDispatcher",
+        "level": 0
+      },
+      {
+        "title": "RxPermissions",
+        "subtitle": "Android runtime permissions powered by RxJava.",
+        "link": "https://github.com/tbruyelle/RxPermissions",
+        "level": 0
+      },
+      {
+        "title": "NoPermission",
+        "subtitle": "Simple Android library for permissions request. Consists of only one class.",
+        "link": "https://github.com/NoNews/NoPermission",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#other",
+    "title": "Other",
+    "links": [
+      {
+        "title": "Android Support library",
+        "subtitle": "The Android Support Library package is a set of code libraries that provide backward-compatible versions of Android framework API.",
+        "link": "https://developer.android.com/topic/libraries/support-library/index.html",
+        "level": 0
+      },
+      {
+        "title": "Google Play Services",
+        "subtitle": "Library to access Google services, such as account syncing, Google+ (sharing, single sign-on), Google Maps, Location APIs, Google Play Games, Cloud Messaging, Android Device Manager, and others.",
+        "link": "https://developers.google.com/android/guides/overview",
+        "level": 0
+      },
+      {
+        "title": "Tape",
+        "subtitle": "A lightning fast, transactional, file-based FIFO for Android and Java.",
+        "link": "https://github.com/square/tape",
+        "level": 0
+      },
+      {
+        "title": "Guava: Google Core Libraries for Java",
+        "subtitle": "Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.",
+        "link": "https://github.com/google/guava",
+        "level": 0
+      },
+      {
+        "title": "Android Scripting",
+        "subtitle": "Allows to run scripting languages on Android.",
+        "link": "https://github.com/damonkohler/sl4a",
+        "level": 0
+      },
+      {
+        "title": "Android Priority Job Queue",
+        "subtitle": "Implementation of a Job Queue to easily schedule jobs (tasks) that run in the background, improving UX and application stability.",
+        "link": "https://github.com/path/android-priority-jobqueue",
+        "level": 0
+      },
+      {
+        "title": "RateMeMaybe",
+        "subtitle": "Asks the user if (s)he wants to open the Play Store to rate your application.",
+        "link": "https://github.com/nspo/RateMeMaybe",
+        "level": 0
+      },
+      {
+        "title": "Easy Rating Dialog",
+        "subtitle": "Lib provides a simple way to display an alert dialog for rating app.",
+        "link": "https://github.com/fernandodev/easy-rating-dialog",
+        "level": 0
+      },
+      {
+        "title": "ZXing Android-Integration",
+        "subtitle": "Integration with Barcode Scanner via Intent.",
+        "link": "https://github.com/zxing/zxing",
+        "level": 0
+      },
+      {
+        "title": "Gradle Retrolambda Plugin",
+        "subtitle": "Java 8 Lambdas on Android!",
+        "link": "https://github.com/evant/gradle-retrolambda",
+        "level": 0
+      },
+      {
+        "title": "RxJava",
+        "subtitle": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.",
+        "link": "https://github.com/ReactiveX/RxJava",
+        "level": 0
+      },
+      {
+        "title": "RxBinding",
+        "subtitle": "RxBinding – RxJava binding APIs for Android UI widgets from the platform and support libraries.",
+        "link": "https://github.com/JakeWharton/RxBinding",
+        "level": 0
+      },
+      {
+        "title": "Caffeine",
+        "subtitle": "A collection of utility classes that help make Android development faster.",
+        "link": "https://github.com/percolate/caffeine",
+        "level": 0
+      },
+      {
+        "title": "AboutLibraries",
+        "subtitle": "Automatically generates an About this app section, with a list of used libraries.",
+        "link": "https://github.com/mikepenz/AboutLibraries",
+        "level": 0
+      },
+      {
+        "title": "AudioPlayerView",
+        "subtitle": "A view that loads audio from an url and have basic playback tools.",
+        "link": "https://github.com/HugoMatilla/AudioPlayerView",
+        "level": 0
+      },
+      {
+        "title": "andle",
+        "subtitle": "command line tool help you sync dependencies, sdk or build tool version.",
+        "link": "https://github.com/Jintin/andle",
+        "level": 0
+      },
+      {
+        "title": "Typography",
+        "subtitle": "An Android library that makes it easy to use custom fonts in views.",
+        "link": "https://github.com/workarounds/typography",
+        "level": 0
+      },
+      {
+        "title": "Calligraphy",
+        "subtitle": "Custom fonts in Android an OK way.",
+        "link": "https://github.com/chrisjenx/Calligraphy",
+        "level": 0
+      },
+      {
+        "title": "transai",
+        "subtitle": "command line tool help you manage localization string files.",
+        "link": "https://github.com/Jintin/transai",
+        "level": 0
+      },
+      {
+        "title": "Android-Link-Preview",
+        "subtitle": "It makes a preview from an url, grabbing all the information such as title, relevant texts and images.",
+        "link": "https://github.com/LeonardoCardoso/Android-Link-Preview",
+        "level": 0
+      },
+      {
+        "title": "Sensey",
+        "subtitle": "Detecting gestures in a snap.",
+        "link": "https://github.com/nisrulz/sensey",
+        "level": 0
+      },
+      {
+        "title": "UserAwareVideoView",
+        "subtitle": "A customized video view that will automatically pause video is user is not looking at device screen!",
+        "link": "https://github.com/kevalpatel2106/UserAwareVideoView",
+        "level": 0
+      },
+      {
+        "title": "Flexbox Layout",
+        "subtitle": "FlexboxLayout is a library which brings the similar capabilities of CSS Flexible Box Layout Module to Android.",
+        "link": "https://github.com/google/flexbox-layout",
+        "level": 0
+      },
+      {
+        "title": "Agile Boiler Plate",
+        "subtitle": "The boiler plate is based on MVP architecture and it is fully based on Dependency Injection design pattern using Dagger2.",
+        "link": "https://github.com/xresco/Android-Agile-Boiler-Plate",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#resources",
+    "title": "Resources",
+    "links": [
+      {
+        "title": "Vogella Tutorials",
+        "subtitle": "Very good tutorials by Lars Vogel.",
+        "link": "http://www.vogella.com/tutorials/android.html",
+        "level": 0
+      },
+      {
+        "title": "Android Design in Action Video series",
+        "subtitle": "The video series by Android Design Team of Google.",
+        "link": "https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF",
+        "level": 0
+      },
+      {
+        "title": "Android Design in Action slides",
+        "subtitle": "The application that gives you access to the slides of the video series.",
+        "link": "https://play.google.com/store/apps/details?id=com.astuetz.android.adia&feature=md",
+        "level": 0
+      },
+      {
+        "title": "Android DevBytes Video Series",
+        "subtitle": "It is the technical counterpart of Android Design in Action series.",
+        "link": "https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_XOgcRukSoKKjewFJZrKV0",
+        "level": 0
+      },
+      {
+        "title": "Developing for Android",
+        "subtitle": "A series of articles from Googler Chet Hasae and others, answering most commonly asked question: “What are some of the important rules to keep in mind when developing Android applications?”.",
+        "link": "https://medium.com/google-developers/developing-for-android-introduction-5345b451567c",
+        "level": 0
+      },
+      {
+        "title": "Android Hive Tutorials",
+        "subtitle": "Very good tutorials for beginners.",
+        "link": "https://www.androidhive.info",
+        "level": 0
+      },
+      {
+        "title": "Android Weekly",
+        "subtitle": "Newsletter with weekly information about android.",
+        "link": "http://androidweekly.net",
+        "level": 0
+      },
+      {
+        "title": "Android Asset Studio",
+        "subtitle": "Generator for icons and other assets.",
+        "link": "http://romannurik.github.io/AndroidAssetStudio/",
+        "level": 0
+      },
+      {
+        "title": "Android Action Bar Style Generator",
+        "subtitle": ".",
+        "link": "http://jgilfelt.github.io/android-actionbarstylegenerator/",
+        "level": 0
+      },
+      {
+        "title": "Device Art Generator",
+        "subtitle": "Wraps app screenshots in real device artwork.",
+        "link": "https://developer.android.com/distribute/marketing-tools/device-art-generator.html",
+        "level": 0
+      },
+      {
+        "title": "Android UI design resources",
+        "subtitle": "Gives you wide variety of design resources form a Google Developer Expert in UI/UX.",
+        "link": "https://androiduiux.com/free-design-resources/",
+        "level": 0
+      },
+      {
+        "title": "Pencil Project",
+        "subtitle": "An open source prototyping software.",
+        "link": "http://pencil.evolus.vn/",
+        "level": 0
+      },
+      {
+        "title": "Google Wear App",
+        "subtitle": "This is an open source Google Wear App that uses speech recognition to calculate a tip.",
+        "link": "https://github.com/mbcrump/FirstGoogleWearableApp",
+        "level": 0
+      },
+      {
+        "title": "How to Make Android Apps",
+        "subtitle": "Video tutorials by Derek Banas.",
+        "link": "https://www.youtube.com/playlist?list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh",
+        "level": 0
+      },
+      {
+        "title": "android-blogs",
+        "subtitle": "List with blogs about Android.",
+        "link": "https://github.com/vbauer/android-blogs",
+        "level": 0
+      },
+      {
+        "title": "Future Studio",
+        "subtitle": "Extensive Android tutorials on Retrofit, Picasso, Glide & Gson.",
+        "link": "https://futurestud.io/tutorials/tag/android",
+        "level": 0
+      },
+      {
+        "title": "Android Tips & Tricks",
+        "subtitle": "Cheatsheet about tips and tricks for Android Development.",
+        "link": "https://github.com/nisrulz/android-tips-tricks",
+        "level": 0
+      },
+      {
+        "title": "Droid Talks",
+        "subtitle": "Awesome Android talks and learning resources, categorised by topic.",
+        "link": "http://www.droidtalks.pro/",
+        "level": 0
+      },
+      {
+        "title": "Associate Android Developer Certification Materials",
+        "subtitle": "A collection of materials for getting ready for the test.",
+        "link": "https://github.com/Amejia481/Associate-Android-Developer-Certification",
+        "level": 0
+      },
+      {
+        "title": "Google Developers Training",
+        "subtitle": "Google Developers Official Training page has list of various useful learning resources for beginner as well seasoned developer.",
+        "link": "https://developers.google.com/training/android/",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#podcast",
+    "title": "Podcast",
+    "links": [
+      {
+        "title": "Fragmented",
+        "subtitle": "is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.",
+        "link": "http://fragmentedpodcast.com/",
+        "level": 0
+      },
+      {
+        "title": "Android Developers Backstage",
+        "subtitle": "is a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.",
+        "link": "http://androidbackstage.blogspot.com/",
+        "level": 0
+      },
+      {
+        "title": "Android Dialogs",
+        "subtitle": "is a video based podcast, where they have bite-sized conversations with people from the Android community.",
+        "link": "https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed",
+        "level": 0
+      },
+      {
+        "title": "Android Intelligence",
+        "subtitle": "features in-depth interviews with interesting people from the Android world.",
+        "link": "https://plus.google.com/collection/ATg6b",
+        "level": 0
+      },
+      {
+        "title": "The Context",
+        "subtitle": "a podcast about Android Development with Hannes Dorfmann, Artem Zinnatullin and wonderful guests!",
+        "link": "https://github.com/artem-zinnatullin/TheContext-Podcast",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#more-lists-of-libraries",
+    "title": "More lists of libraries",
+    "links": [
+      {
+        "title": "The Android Arsenal",
+        "subtitle": "Large list of android libraries",
+        "link": "https://android-arsenal.com/",
+        "level": 0
+      },
+      {
+        "title": "Square libraries",
+        "subtitle": "Multiple high quality libraries by square.",
+        "link": "http://square.github.io/#android",
+        "level": 0
+      },
+      {
+        "title": "Awesome Android @LibHunt",
+        "subtitle": "Your go-to Android Toolbox.",
+        "link": "https://android.libhunt.com",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#development-alternatives",
+    "title": "Development Alternatives",
+    "links": [
+      {
+        "title": "My personal recommendation is (for now) to use the android api to build a native app. Scala can help to build this native apps with cleaner code but it adds to many methods (Multidex required). Kotlin is a modern language with 100% interoperatibility with java projects ",
+        "subtitle": "without multidex",
+        "link": "",
+        "level": -2
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#c&#35;",
+    "title": "C&#35;",
+    "links": [
+      {
+        "title": "Xamarin",
+        "subtitle": "Framework to create native iOS, Android, Mac and Windows apps in C#.",
+        "link": "https://www.xamarin.com/",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#html,-css-and-javascript",
+    "title": "HTML, CSS and Javascript",
+    "links": [
+      {
+        "title": "PhoneGap",
+        "subtitle": "Open source framework by Adobe to create cross platform mobile apps using HTML, CSS, and JavaScript.",
+        "link": "https://phonegap.com",
+        "level": 0
+      },
+      {
+        "title": "Titanium",
+        "subtitle": "Open-source framework to create ‘native’ cross platform apps using JavaScript.",
+        "link": "http://www.appcelerator.com/mobile-app-development-products/",
+        "level": 0
+      },
+      {
+        "title": "NativeScript",
+        "subtitle": "An open-source framework to build native iOS and Android apps with JavaScript from a single code base.",
+        "link": "https://www.nativescript.org/",
+        "level": 0
+      },
+      {
+        "title": "React Native",
+        "subtitle": "A framework for building native apps with React by Facebook.",
+        "link": "https://github.com/facebook/react-native",
+        "level": 0
+      },
+      {
+        "title": "Ionic Framework",
+        "subtitle": "A framework to build hybrid apps with mobile-optimized HTML, CSS and JS with AngularJS.",
+        "link": "http://ionicframework.com",
+        "level": 0
+      },
+      {
+        "title": "Apache Cordova",
+        "subtitle": "Cordova based applications are, at the core, applications written with web technology: HTML, CSS and JavaScript.",
+        "link": "https://github.com/apache/cordova-android",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#lua",
+    "title": "Lua",
+    "links": [
+      {
+        "title": "Corona SDK",
+        "subtitle": "Framework to create native iOS and Android Apps (especially Games).",
+        "link": "https://coronalabs.com/product/",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#scala",
+    "title": "Scala",
+    "links": [
+      {
+        "title": "Scaloid",
+        "subtitle": "Library for less painful Android development with Scala.",
+        "link": "https://github.com/pocorall/scaloid",
+        "level": 0
+      },
+      {
+        "title": "Macroid",
+        "subtitle": "A modular functional UI language for Android.",
+        "link": "https://github.com/47deg/macroid",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#groovy",
+    "title": "Groovy",
+    "links": [
+      {
+        "title": "Groovy on Android",
+        "subtitle": "Introduction to Groovy on Android.",
+        "link": "http://melix.github.io/blog/2014/06/grooid.html",
+        "level": 0
+      },
+      {
+        "title": "Groovy Language Support for Android",
+        "subtitle": "Gradle Plugin for Compiling Groovy for Android.",
+        "link": "https://github.com/groovy/groovy-android-gradle-plugin",
+        "level": 0
+      },
+      {
+        "title": "SwissKnife",
+        "subtitle": "A multi-purpose Groovy library containing view injection and threading for Android using annotations.",
+        "link": "https://github.com/Arasthel/SwissKnife",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#kotlin",
+    "title": "Kotlin",
+    "links": [
+      {
+        "title": "Anko",
+        "subtitle": "DSL for Android written in Kotlin by JetBrains.",
+        "link": "https://github.com/Kotlin/anko",
+        "level": 0
+      },
+      {
+        "title": "Kotterknife",
+        "subtitle": "Android view injection written in Kotlin based on ButterKnife",
+        "link": "https://github.com/JakeWharton/kotterknife",
+        "level": 0
+      },
+      {
+        "title": "Android Kotlin Samples",
+        "subtitle": "Some basic Android code samples written in Kotlin.",
+        "link": "https://github.com/irontec/android-kotlin-samples",
+        "level": 0
+      },
+      {
+        "title": "KAndroid",
+        "subtitle": "Lightweight library providing useful extensions to eliminate boilerplate code in Android SDK.",
+        "link": "https://github.com/pawegio/KAndroid",
+        "level": 0
+      },
+      {
+        "title": "RxKotlin/Pocket",
+        "subtitle": "This app help user to save links easily, and can export to Evernote as weekly.",
+        "link": "https://github.com/RxKotlin/Pocket",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "JStumpp_awesome-android#contributing",
+    "title": "Contributing",
+    "links": []
   }
 ]

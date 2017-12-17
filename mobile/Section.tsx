@@ -1,5 +1,5 @@
 import * as React from 'react';
-import {FlatList, StyleSheet, Text, TouchableOpacity, View} from 'react-native';
+import {FlatList, Linking, StyleSheet, Text, TouchableOpacity, View} from 'react-native';
 import {findSection} from './navigation/navigation';
 import {Link} from '../data/types';
 import {getLinkFromNav} from './navigation/Root';
@@ -24,7 +24,12 @@ const Item = ({title, level, subtitle, onPress}: Props) => <TouchableOpacity
 </TouchableOpacity>;
 
 const onPress = (link: string, navigation: any,) => {
-  if (link)
+  if (!link)
+    return;
+
+  if (link.startsWith('http'))
+    Linking.openURL(link);
+  else if (link)
     navigation.navigate('Home', {link})
 }
 

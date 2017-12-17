@@ -46,3 +46,37 @@ Tokens will always be committed, since I don't have control over remove md files
 - google analytics
 - gamification?
 - web?
+
+Metalist:
+☑ [Awesome](https://github.com/sindresorhus/awesome)
+
+Awesome lists supported:
+☐ Platforms (1 of 28)
+   ☑ Node.js
+   ☐ Frontend Development
+   ☐ iOS
+   ☐ Android
+   ☐ IoT & Hybrid Apps
+   ☐ Electron
+   ☐ Cordova
+   ☐ React Native
+   ☐ Xamarin
+   ☐ Linux
+   ☐ Containers
+   ☐ macOS
+   ☐ Command-Line
+   ☐ Screensavers
+   ☐ watchOS
+   ☐ JVM
+   ☐ Salesforce
+   ☐ Amazon Web Services
+   ☐ Windows
+   ☐ IPFS
+   ☐ Fuse
+   ☐ Heroku
+   ☐ Raspberry Pi
+   ☐ Qt
+   ☐ WebExtensions
+   ☐ RubyMotion
+   ☐ Smart TV
+   ☐ GNOME

@@ -25,7 +25,7 @@ export const parseAll = () => {
   const repSections = parseFromFile(root.id);
   const links = allRemoteLinks(repSections);
 
-  const linkToParse = [0, 1];
+  const linkToParse = [0, 1, 3];
 
   const parsed = flatten(linkToParse.map(i => parseFromFile(links[i])));
 
@@ -103,4 +103,4 @@ const parseSection = (tokens: Token[], startIndex: number): Section => {
 };
 
 const localizeLink = (link: string, repoId: string): string =>
-  link.startsWith('#') ? repoId + link : createIdForUrl(link);
+  link.startsWith('#') ? repoId + link :  repoId === root.id ? createIdForUrl(link) : link;
