@@ -17,38 +17,34 @@ const parseLink = (token: Token): string => {
   const validated = validateNonEmpty(linkToken, 'Could not find link_open token in ');
   return validated.attrs[0][1];
 };
+
 const parseSubtitle = (token: Token) => {
   const textTokenIndex = token.children.findIndex(x => x.type === 'text');
   const subtitleToken = find(token.children, x => x.type === 'text', textTokenIndex + 1);
   const subtitle = subtitleToken ? subtitleToken.content : '';
   return trim(subtitle, '- —');
-}
+};
 
-const transformLink = (link: string, repoUrl: string): string =>
-  link.startsWith('#') ? getParts(repoUrl).join('_') + link : getParts(link).join('_');
-
-const createLink = (token: Token, url: string): Link => ({
+const createLink = (token: Token): Link => ({
   title: mapTitle(token),
   subtitle: parseSubtitle(token),
-  link: transformLink(parseLink(token), url),
+  link: parseLink(token),
   level: Math.min(token.level - 3, 1)
 });
 
-
-const parseSection = (tokens: Token[], startIndex: number, url: string): Section => {
+const parseSection = (tokens: Token[], startIndex: number): Section => {
   const endParagraphIndex = findIndex(tokens.slice(startIndex), token => token.type === 'heading_close') + startIndex;
   const nextParagraph = findIndex(tokens.slice(endParagraphIndex + 1), token => token.type === 'heading_open') + endParagraphIndex;
   const headerToken = find(tokens, token => token.type === 'inline', startIndex);
   const linkTokens = tokens.slice(endParagraphIndex, nextParagraph).filter(t => t.type === 'inline');
   return {
-    id: 'temporary',
+    id: '',
     title: headerToken ? headerToken.content : 'Unknown',
-    links: linkTokens.map(l => createLink(l, url)),
+    links: linkTokens.map(createLink),
   };
 };
 
-
-export const parseLocalSection = (tokens: Token[], repoUrl: string, localLink: Link): Section => {
+export const parseLocalSection = (tokens: Token[], localLink: Link): Section => {
   const sectionStateIndex = tokens.findIndex(token => normalizeLocalLink(token.content) === localLink.link || token.content === localLink.title);
   if (sectionStateIndex === -1) {
     throw  new Error(`Can't find section header for ${localLink.link}`);
@@ -58,18 +54,18 @@ export const parseLocalSection = (tokens: Token[], repoUrl: string, localLink: L
     //TODO: investigate for Node.js repository
     // throw new Error(`Token at ${previousToken} should be start of heading, but what ${tokens[previousToken].type}`)
   }
-  const baseSection = parseSection(tokens, previousToken, repoUrl);
+  const baseSection = parseSection(tokens, previousToken);
   return {
     ...baseSection,
     id: localLink.link,
   };
 };
 
-export const parseHeader = (tokens: Token[], repoUrl: string): Section => {
+export const parseHeader = (tokens: Token[]): Section => {
   const startIndex = findIndex(tokens, token => token.type === 'heading_open' && token.markup !== '#'); //specific for node.js repo
   return {
-    ...parseSection(tokens, startIndex, repoUrl),
+    ...parseSection(tokens, startIndex),
     title: 'Awesome List',
-    id: getParts(repoUrl).join('_'),
+    id: '',
   };
 };

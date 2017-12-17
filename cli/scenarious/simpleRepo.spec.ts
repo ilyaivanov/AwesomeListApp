@@ -27,7 +27,7 @@ const rootMd = `
 describe('Parsing a sample from Awesome List', () => {
   let sections: Section[];
   beforeEach(() => {
-    sections = parseIntoSections(root.id, parseMd(rootMd));
+    sections = parseIntoSections(parseMd(rootMd), root.id);
   });
 
   it('should match snapshot', function () {

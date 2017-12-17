@@ -7,9 +7,7 @@ const command = process.argv[2];
 if (command === 'load') {
   load();
 } else if (command === 'parse') {
-  parseRoot(root.url);
-} else if (command === 'update') {
-  load().then(() => parseRoot(root.url));
+  parseRoot();
 }  else {
   console.log(`Unrecognized parameter: ${command}`)
 }

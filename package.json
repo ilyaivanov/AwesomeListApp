@@ -5,7 +5,8 @@
 	"scripts": {
 		"start": "react-native start --transformer node_modules/react-native-typescript-transformer/index.js --sourceExts ts,tsx",
 		"test": "jest",
-		"cli": "ts-node cli/index.ts"
+		"load": "ts-node cli/index.ts load",
+		"parse": "ts-node cli/index.ts parse"
 	},
 	"dependencies": {
 		"lodash": "^4.17.4",
