@@ -20,11 +20,11 @@ const loadRepo = (repoId: string) =>
 const waitFor = (time: number) => new Promise(resolve => setTimeout(resolve, time));
 
 export const load = () => {
-  return loadRepo(createIdForUrl(root.url))
+  return loadRepo(root.id)
     .then(() => {
-      const sections = parseFromFile(root.url);
+      const sections = parseFromFile(root.id);
       const allLinks = allRemoteLinks(sections);
-      const sectionsToLoad = allLinks.slice(0, 50);
+      const sectionsToLoad = allLinks.slice(0, 2);
 
       return sectionsToLoad.reduce((promise, link, i) => {
         return promise.then(() => {

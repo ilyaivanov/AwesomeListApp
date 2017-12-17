@@ -1,5 +1,5 @@
-import sections from '../../data/sampleSections';
-// import sections from '../../data/sections';
+// import sections from '../../data/sampleSections';
+import sections from '../../data/sections';
 import {Section} from '../../data/types';
 import {findRoot} from '../../cli/util';
 
