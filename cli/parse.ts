@@ -26,7 +26,7 @@ export const parseAll = () => {
   const repSections = parseFromFile(root.id);
   const links = allRemoteLinks(repSections);
 
-  const linkToParse = [0, 1];
+  const linkToParse = [0, 1, 3];
 
   const parsed = flatten(linkToParse.map(i => parseFromFile(links[i])));
 
@@ -49,9 +49,8 @@ export const parseFromMd = (md: string, repoId: string): Section[] => {
 
   const sections = headingIndices.map(index => localizeSection(parseSection(tokens, index), repoId));
 
-  //first section considered root of the repository, move to postprocessing
-  sections[0].id = repoId;
-  return postProcessing(sections);
+
+  return postProcessing(sections, repoId);
 };
 
 const localizeSection = (section: Section, repoId: string) => ({
@@ -60,6 +59,8 @@ const localizeSection = (section: Section, repoId: string) => ({
   links: section.links.map(l => ({...l, link: localizeLink(l.link, repoId)}))
 });
 
+const localizeLink = (link: string, repoId: string): string =>
+  link.startsWith('#') ? repoId + link :  repoId === root.id ? createIdForUrl(link) : link;
 
 //LEGACY, to refactor
 const mapTitle = (token: Token) => {
@@ -102,6 +103,3 @@ const parseSection = (tokens: Token[], startIndex: number): Section => {
     links: linkTokens.map(createLink),
   };
 };
-
-const localizeLink = (link: string, repoId: string): string =>
-  link.startsWith('#') ? repoId + link :  repoId === root.id ? createIdForUrl(link) : link;
