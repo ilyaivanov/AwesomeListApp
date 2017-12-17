@@ -1,7 +1,7 @@
 export default [
   {
     "id": "sindresorhus_awesome",
-    "title": "Awesome List",
+    "title": "Contents",
     "links": [
       {
         "title": "Platforms",
@@ -2820,8 +2820,13 @@ export default [
     ]
   },
   {
+    "id": "sindresorhus_awesome#license",
+    "title": "License",
+    "links": []
+  },
+  {
     "id": "sindresorhus_awesome-nodejs",
-    "title": "Awesome List",
+    "title": "Contents",
     "links": [
       {
         "title": "Packages",
@@ -6191,7 +6196,7 @@ export default [
     ]
   },
   {
-    "id": "sindresorhus_awesome-nodejs#nodejs-management",
+    "id": "sindresorhus_awesome-nodejs#node.js-management",
     "title": "Node.js management",
     "links": [
       {
@@ -7184,195 +7189,458 @@ export default [
     "title": "Miscellaneous",
     "links": [
       {
-        "title": "execa",
-        "subtitle": "Better",
-        "link": "sindresorhus_execa",
+        "title": "nodebots",
+        "subtitle": "Robots powered by JavaScript.",
+        "link": "_nodebots.io",
         "level": 0
       },
       {
-        "title": "cheerio",
-        "subtitle": "Fast, flexible, and lean implementation of core jQuery designed specifically for the server.",
-        "link": "cheeriojs_cheerio",
+        "title": "node-module-boilerplate",
+        "subtitle": "Boilerplate to kickstart creating a node module.",
+        "link": "sindresorhus_node-module-boilerplate",
         "level": 0
       },
       {
-        "title": "Electron",
-        "subtitle": "Build cross platform desktop apps with web technologies.",
-        "link": "atom_electron",
+        "title": "generator-nm",
+        "subtitle": "Scaffold out a node module.",
+        "link": "sindresorhus_generator-nm",
         "level": 0
       },
       {
-        "title": "opn",
-        "subtitle": "Opens stuff like websites, files, executables.",
-        "link": "sindresorhus_opn",
+        "title": "awesome-cross-platform-nodejs",
+        "subtitle": "Resources for writing and testing cross-platform code.",
+        "link": "bcoe_awesome-cross-platform-nodejs",
         "level": 0
       },
       {
-        "title": "hasha",
-        "subtitle": "Hashing made simple. Get the hash of a buffer/string/stream/file.",
-        "link": "sindresorhus_hasha",
+        "title": "Microsoft Node.js Guidelines",
+        "subtitle": "Tips, tricks, and resources for working with Node.js on Microsoft platforms.",
+        "link": "Microsoft_nodejs-guidelines",
         "level": 0
-      },
+      }
+    ]
+  },
+  {
+    "id": "sindresorhus_awesome-nodejs#license",
+    "title": "License",
+    "links": []
+  },
+  {
+    "id": "dypsilon_frontend-dev-bookmarks",
+    "title": "Appearance",
+    "links": [
       {
-        "title": "dot-prop",
-        "subtitle": "Get a property from a nested object using a dot path.",
-        "link": "sindresorhus_dot-prop",
-        "level": 0
-      },
-      {
-        "title": "onetime",
-        "subtitle": "Only run a function once.",
-        "link": "sindresorhus_onetime",
-        "level": 0
-      },
-      {
-        "title": "mem",
-        "subtitle": "Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.",
-        "link": "sindresorhus_mem",
-        "level": 0
-      },
-      {
-        "title": "import-fresh",
-        "subtitle": "Import a module while bypassing the cache.",
-        "link": "sindresorhus_import-fresh",
-        "level": 0
-      },
-      {
-        "title": "strip-bom",
-        "subtitle": "Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.",
-        "link": "sindresorhus_strip-bom",
-        "level": 0
-      },
-      {
-        "title": "os-locale",
-        "subtitle": "Get the system locale.",
-        "link": "sindresorhus_os-locale",
-        "level": 0
-      },
-      {
-        "title": "nan",
-        "subtitle": "Makes native add-on development for across Node.js versions easier.",
-        "link": "nodejs_nan",
-        "level": 0
-      },
-      {
-        "title": "ssh2",
-        "subtitle": "SSH2 client and server module.",
-        "link": "mscdex_ssh2",
-        "level": 0
-      },
-      {
-        "title": "adit",
-        "subtitle": "SSH tunneling made simple.",
-        "link": "markelog_adit",
-        "level": 0
-      },
-      {
-        "title": "import-lazy",
-        "subtitle": "Import a module lazily.",
-        "link": "sindresorhus_import-lazy",
-        "level": 0
-      },
-      {
-        "title": "file-type",
-        "subtitle": "Detect the file type of a Buffer.",
-        "link": "sindresorhus_file-type",
-        "level": 0
-      },
-      {
-        "title": "Bottleneck",
-        "subtitle": "Rate limiter that makes throttling easy.",
-        "link": "SGrondin_bottleneck",
-        "level": 0
-      },
-      {
-        "title": "webworker-threads",
-        "subtitle": "Lightweight Web Worker API implementation with native threads.",
-        "link": "audreyt_node-webworker-threads",
-        "level": 0
-      },
-      {
-        "title": "clipboardy",
-        "subtitle": "Access the system clipboard (copy/paste).",
-        "link": "sindresorhus_clipboardy",
-        "level": 0
-      },
-      {
-        "title": "node-pre-gyp",
-        "subtitle": "Makes it easy to publish and install Node.js C++ addons from binaries.",
-        "link": "mapbox_node-pre-gyp",
-        "level": 0
-      },
-      {
-        "title": "opencv",
-        "subtitle": "Bindings for OpenCV. The defacto computer vision library.",
-        "link": "peterbraden_node-opencv",
-        "level": 0
-      },
-      {
-        "title": "dotenv",
-        "subtitle": "Load environment variables from .env file.",
-        "link": "motdotla_dotenv",
-        "level": 0
-      },
-      {
-        "title": "remote-git-tags",
-        "subtitle": "Get tags from a remote git repo.",
-        "link": "sindresorhus_remote-git-tags",
-        "level": 0
-      },
-      {
-        "title": "semver",
+        "title": "The outward or visible aspect of a website.",
         "subtitle": "",
-        "link": "npm_node-semver",
+        "link": "",
+        "level": -2
+      },
+      {
+        "title": "",
+        "subtitle": "Animation",
+        "link": "appearance_animation.md",
         "level": 0
       },
       {
-        "title": "Faker.js",
-        "subtitle": "Generate massive amounts of fake data.",
-        "link": "Marak_Faker.js",
+        "title": "",
+        "subtitle": "Typography",
+        "link": "appearance_typography.md",
         "level": 0
       },
       {
-        "title": "nodegit",
-        "subtitle": "Native bindings to Git.",
-        "link": "nodegit_nodegit",
+        "title": "",
+        "subtitle": "Visualization",
+        "link": "appearance_visualization.md",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "dypsilon_frontend-dev-bookmarks#architecture",
+    "title": "Architecture",
+    "links": [
+      {
+        "title": "High level structure of the frontend code and the discipline of creating such structures.",
+        "subtitle": "",
+        "link": "",
+        "level": -2
+      },
+      {
+        "title": "",
+        "subtitle": "Algorithms",
+        "link": "architecture_algorithms.md",
         "level": 0
       },
       {
-        "title": "json-strictify",
-        "subtitle": "Safely serialize a value to JSON without data loss or going into an infinite loop.",
-        "link": "pigulla_json-strictify",
+        "title": "",
+        "subtitle": "Design Patterns",
+        "link": "architecture_design-patterns.md",
         "level": 0
       },
       {
-        "title": "parent-module",
-        "subtitle": "Get the path of the parent module.",
-        "link": "sindresorhus_parent-module",
+        "title": "",
+        "subtitle": "Designs",
+        "link": "architecture_designs.md",
         "level": 0
       },
       {
-        "title": "resolve-from",
-        "subtitle": "Resolve the path of a module like",
-        "link": "sindresorhus_resolve-from",
+        "title": "",
+        "subtitle": "Event-Driven Programming",
+        "link": "architecture_event-driven-programming.md",
         "level": 0
       },
       {
-        "title": "simplecrawler",
-        "subtitle": "Event driven web crawler.",
-        "link": "cgiffard_node-simplecrawler",
+        "title": "",
+        "subtitle": "Functional Programming",
+        "link": "architecture_functional-programming.md",
         "level": 0
       },
       {
-        "title": "jsdom",
-        "subtitle": "JavaScript implementation of HTML and the DOM.",
-        "link": "tmpvar_jsdom",
+        "title": "",
+        "subtitle": "Functional Reactive Programming (FRP)",
+        "link": "architecture_functional-reactive-programming-frp.md",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "dypsilon_frontend-dev-bookmarks#compatibility",
+    "title": "Compatibility",
+    "links": [
+      {
+        "title": "Ability of a product to work with different input/output devices and rendering software. Including printers, email, mobile devices and different browsers.",
+        "subtitle": "",
+        "link": "",
+        "level": -2
+      },
+      {
+        "title": "",
+        "subtitle": "Cross Browser",
+        "link": "compatibility_cross-browser.md",
         "level": 0
       },
       {
-        "title": "hypernova",
-        "subtitle": "Server-side rendering your JavaScript views.",
-        "link": "airbnb_hypernova",
+        "title": "",
+        "subtitle": "E-Mail",
+        "link": "compatibility_e-mail.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Keyboard",
+        "link": "compatibility_keyboard.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Mobile",
+        "link": "compatibility_mobile.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Printers",
+        "link": "compatibility_printers.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Responsive Web Design (RWD)",
+        "link": "compatibility_responsive-web-design-rwd.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Web Accessibility",
+        "link": "compatibility_web-accessibility.md",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "dypsilon_frontend-dev-bookmarks#ecosystem",
+    "title": "Ecosystem",
+    "links": [
+      {
+        "title": "Important developers, companies, organizations and news sources.",
+        "subtitle": "",
+        "link": "",
+        "level": -2
+      },
+      {
+        "title": "",
+        "subtitle": "Communities Around Projects",
+        "link": "ecosystem_communities-around-projects.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "News",
+        "link": "ecosystem_news.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Notable Community Members",
+        "link": "ecosystem_notable-community-members.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Organizations",
+        "link": "ecosystem_organizations.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Podcasts",
+        "link": "ecosystem_podcasts.md",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "dypsilon_frontend-dev-bookmarks#languages,-protocols,-browser-apis",
+    "title": "Languages, Protocols, Browser APIs",
+    "links": [
+      {
+        "title": "Programming/mark-up languages and web related standards.",
+        "subtitle": "",
+        "link": "",
+        "level": -2
+      },
+      {
+        "title": "",
+        "subtitle": "Cascading Style Sheets (CSS)",
+        "link": "languages-protocols-browser-apis_cascading-style-sheets-css.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Document Object Model (DOM)",
+        "link": "languages-protocols-browser-apis_document-object-model-dom.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "HyperText Markup Language (HTML)",
+        "link": "languages-protocols-browser-apis_hypertext-markup-language-html.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Hypertext Transfer Protocol (HTTP)",
+        "link": "languages-protocols-browser-apis_hypertext-transfer-protocol-http.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "JavaScript (EcmaScript)",
+        "link": "languages-protocols-browser-apis_javascript-ecmascript.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "JavaScript Object Notation (JSON)",
+        "link": "languages-protocols-browser-apis_javascript-object-notation-json.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Scalable Vector Graphics (SVG)",
+        "link": "languages-protocols-browser-apis_scalable-vector-graphics-svg.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Service Workers",
+        "link": "languages-protocols-browser-apis_service-workers.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Templating Languages and Engines",
+        "link": "languages-protocols-browser-apis_templating-languages-and-engines.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Transpiled Languages",
+        "link": "languages-protocols-browser-apis_transpiled-languages.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Uniform Resource Identifier (URI)",
+        "link": "languages-protocols-browser-apis_uniform-resource-identifier-uri.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Web Animations API",
+        "link": "animation_web-animations-api.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "WebAssembly",
+        "link": "languages-protocols-browser-apis_webassembly.md",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "dypsilon_frontend-dev-bookmarks#user-interface-components",
+    "title": "User Interface Components",
+    "links": [
+      {
+        "title": "Drop-in UI components for web sites and applications.",
+        "subtitle": "",
+        "link": "",
+        "level": -2
+      },
+      {
+        "title": "",
+        "subtitle": "Buttons",
+        "link": "user-interface-components_buttons.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Code",
+        "link": "user-interface-components_code.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Forms",
+        "link": "user-interface-components_forms.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Galeries & Image Sliders",
+        "link": "user-interface-components_galeries-and-image-sliders.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Grid",
+        "link": "user-interface-components_grid.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Rich Text Editors",
+        "link": "user-interface-components_rich-text-editors.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Table Of Contents",
+        "link": "user-interface-components_table-of-contents.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "UI Kits",
+        "link": "user-interface-components_ui-kits.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Video & Audio",
+        "link": "user-interface-components_video-and-audio.md",
+        "level": 0
+      }
+    ]
+  },
+  {
+    "id": "dypsilon_frontend-dev-bookmarks#workflow",
+    "title": "Workflow",
+    "links": [
+      {
+        "title": "Task automation and asset delivery.",
+        "subtitle": "",
+        "link": "",
+        "level": -2
+      },
+      {
+        "title": "",
+        "subtitle": "Automated Testing",
+        "link": "workflow_automated-testing.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Build Tools",
+        "link": "workflow_build-tools.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "CSS Tools",
+        "link": "workflow_css-tools.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Code Editors",
+        "link": "workflow_code-editors.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Documentation",
+        "link": "workflow_documentation.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Fonts for Programmers",
+        "link": "workflow_fonts-for-programmers.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Getting Started",
+        "link": "workflow_getting-started.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "HTML Tools",
+        "link": "workflow_html-tools.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Image Post Processing",
+        "link": "workflow_image-post-processing.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "JavaScript Tools",
+        "link": "workflow_javascript-tools.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Package Management",
+        "link": "workflow_package-management.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Sourcemaps",
+        "link": "workflow_sourcemaps.md",
+        "level": 0
+      },
+      {
+        "title": "",
+        "subtitle": "Version Control",
+        "link": "workflow_version-control.md",
         "level": 0
       }
     ]

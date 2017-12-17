@@ -2,7 +2,7 @@ import * as fs from 'fs';
 import fetch from 'node-fetch';
 
 import {allRemoteLinks, createIdForUrl, decode, root, toGithubFromRepoId} from './util';
-import {readAndParse} from './parse';
+import {parseFromFile} from './parse';
 
 export const mdBase = 'data/md/';
 
@@ -22,7 +22,7 @@ const waitFor = (time: number) => new Promise(resolve => setTimeout(resolve, tim
 export const load = () => {
   return loadRepo(createIdForUrl(root.url))
     .then(() => {
-      const sections = readAndParse(root.url);
+      const sections = parseFromFile(root.url);
       const allLinks = allRemoteLinks(sections);
       const sectionsToLoad = allLinks.slice(0, 50);
 
