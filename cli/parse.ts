@@ -5,6 +5,7 @@ import {normalizeLocalLink, validateNonEmpty} from '../data/utils';
 import {allRemoteLinks, createIdForUrl, root, stringify} from './util';
 import {mdBase} from './load';
 import * as fs from 'fs';
+import postProcessing from './postProcessing';
 
 const mark = md({
   html: true,
@@ -25,7 +26,7 @@ export const parseAll = () => {
   const repSections = parseFromFile(root.id);
   const links = allRemoteLinks(repSections);
 
-  const linkToParse = [0, 1, 3];
+  const linkToParse = [0, 1];
 
   const parsed = flatten(linkToParse.map(i => parseFromFile(links[i])));
 
@@ -48,9 +49,9 @@ export const parseFromMd = (md: string, repoId: string): Section[] => {
 
   const sections = headingIndices.map(index => localizeSection(parseSection(tokens, index), repoId));
 
-  //first section considered root of the repository;
+  //first section considered root of the repository, move to postprocessing
   sections[0].id = repoId;
-  return sections;
+  return postProcessing(sections);
 };
 
 const localizeSection = (section: Section, repoId: string) => ({

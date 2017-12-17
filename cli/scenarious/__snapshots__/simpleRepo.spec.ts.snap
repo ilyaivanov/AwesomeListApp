@@ -1,5 +1,353 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`Parsing a sample from Awesome List should  match snapshot 1`] = `
+Array [
+  Object {
+    "id": "sindresorhus_awesome",
+    "links": Array [
+      Object {
+        "level": 0,
+        "link": "sindresorhus_awesome#platforms",
+        "subtitle": "",
+        "title": "Platforms",
+      },
+      Object {
+        "level": 0,
+        "link": "sindresorhus_awesome#programming-languages",
+        "subtitle": "",
+        "title": "Programming Languages",
+      },
+    ],
+    "title": "Contents",
+  },
+  Object {
+    "id": "sindresorhus_awesome#platforms",
+    "links": Array [
+      Object {
+        "level": 0,
+        "link": "sindresorhus_awesome-nodejs",
+        "subtitle": "JavaScript runtime built on Chrome’s V8 JavaScript engine.",
+        "title": "Node.js",
+      },
+      Object {
+        "level": 0,
+        "link": "dypsilon_frontend-dev-bookmarks",
+        "subtitle": "",
+        "title": "Frontend Development",
+      },
+      Object {
+        "level": 0,
+        "link": "vsouza_awesome-ios",
+        "subtitle": "Mobile operating system for Apple phones and tablets.",
+        "title": "iOS",
+      },
+      Object {
+        "level": 0,
+        "link": "JStumpp_awesome-android",
+        "subtitle": "",
+        "title": "Android",
+      },
+    ],
+    "title": "Platforms",
+  },
+  Object {
+    "id": "sindresorhus_awesome#programming-languages",
+    "links": Array [],
+    "title": "Programming Languages",
+  },
+]
+`;
+
+exports[`Parsing a sample from Awesome List should be match snapshot 1`] = `
+Array [
+  Object {
+    "id": "sindresorhus_awesome",
+    "links": Array [
+      Object {
+        "level": 0,
+        "link": "sindresorhus_awesome#platforms",
+        "subtitle": "",
+        "title": "Platforms",
+      },
+      Object {
+        "level": 0,
+        "link": "sindresorhus_awesome#programming-languages",
+        "subtitle": "",
+        "title": "Programming Languages",
+      },
+    ],
+    "title": "Contents",
+  },
+  Object {
+    "id": "sindresorhus_awesome#platforms",
+    "links": Array [
+      Object {
+        "level": 0,
+        "link": "sindresorhus_awesome-nodejs",
+        "subtitle": "JavaScript runtime built on Chrome’s V8 JavaScript engine.",
+        "title": "Node.js",
+      },
+      Object {
+        "level": 0,
+        "link": "dypsilon_frontend-dev-bookmarks",
+        "subtitle": "",
+        "title": "Frontend Development",
+      },
+      Object {
+        "level": 0,
+        "link": "vsouza_awesome-ios",
+        "subtitle": "Mobile operating system for Apple phones and tablets.",
+        "title": "iOS",
+      },
+      Object {
+        "level": 0,
+        "link": "JStumpp_awesome-android",
+        "subtitle": "",
+        "title": "Android",
+      },
+    ],
+    "title": "Platforms",
+  },
+  Object {
+    "id": "sindresorhus_awesome#programming-languages",
+    "links": Array [],
+    "title": "Programming Languages",
+  },
+]
+`;
+
+exports[`Parsing a sample from Awesome List should be matche snapshot 1`] = `
+Array [
+  Object {
+    "id": "sindresorhus_awesome",
+    "links": Array [
+      Object {
+        "level": 0,
+        "link": "sindresorhus_awesome#platforms",
+        "subtitle": "",
+        "title": "Platforms",
+      },
+      Object {
+        "level": 0,
+        "link": "sindresorhus_awesome#programming-languages",
+        "subtitle": "",
+        "title": "Programming Languages",
+      },
+    ],
+    "title": "Contents",
+  },
+  Object {
+    "id": "sindresorhus_awesome#platforms",
+    "links": Array [
+      Object {
+        "level": 0,
+        "link": "sindresorhus_awesome-nodejs",
+        "subtitle": "JavaScript runtime built on Chrome’s V8 JavaScript engine.",
+        "title": "Node.js",
+      },
+      Object {
+        "level": 0,
+        "link": "dypsilon_frontend-dev-bookmarks",
+        "subtitle": "",
+        "title": "Frontend Development",
+      },
+      Object {
+        "level": 0,
+        "link": "vsouza_awesome-ios",
+        "subtitle": "Mobile operating system for Apple phones and tablets.",
+        "title": "iOS",
+      },
+      Object {
+        "level": 0,
+        "link": "JStumpp_awesome-android",
+        "subtitle": "",
+        "title": "Android",
+      },
+    ],
+    "title": "Platforms",
+  },
+  Object {
+    "id": "sindresorhus_awesome#programming-languages",
+    "links": Array [],
+    "title": "Programming Languages",
+  },
+]
+`;
+
+exports[`Parsing a sample from Awesome List should be matched  snapshot 1`] = `
+Array [
+  Object {
+    "id": "sindresorhus_awesome",
+    "links": Array [
+      Object {
+        "level": 0,
+        "link": "sindresorhus_awesome#platforms",
+        "subtitle": "",
+        "title": "Platforms",
+      },
+      Object {
+        "level": 0,
+        "link": "sindresorhus_awesome#programming-languages",
+        "subtitle": "",
+        "title": "Programming Languages",
+      },
+    ],
+    "title": "Contents",
+  },
+  Object {
+    "id": "sindresorhus_awesome#platforms",
+    "links": Array [
+      Object {
+        "level": 0,
+        "link": "sindresorhus_awesome-nodejs",
+        "subtitle": "JavaScript runtime built on Chrome’s V8 JavaScript engine.",
+        "title": "Node.js",
+      },
+      Object {
+        "level": 0,
+        "link": "dypsilon_frontend-dev-bookmarks",
+        "subtitle": "",
+        "title": "Frontend Development",
+      },
+      Object {
+        "level": 0,
+        "link": "vsouza_awesome-ios",
+        "subtitle": "Mobile operating system for Apple phones and tablets.",
+        "title": "iOS",
+      },
+      Object {
+        "level": 0,
+        "link": "JStumpp_awesome-android",
+        "subtitle": "",
+        "title": "Android",
+      },
+    ],
+    "title": "Platforms",
+  },
+  Object {
+    "id": "sindresorhus_awesome#programming-languages",
+    "links": Array [],
+    "title": "Programming Languages",
+  },
+]
+`;
+
+exports[`Parsing a sample from Awesome List should be matched snapshot 1`] = `
+Array [
+  Object {
+    "id": "sindresorhus_awesome",
+    "links": Array [
+      Object {
+        "level": 0,
+        "link": "sindresorhus_awesome#platforms",
+        "subtitle": "",
+        "title": "Platforms",
+      },
+      Object {
+        "level": 0,
+        "link": "sindresorhus_awesome#programming-languages",
+        "subtitle": "",
+        "title": "Programming Languages",
+      },
+    ],
+    "title": "Contents",
+  },
+  Object {
+    "id": "sindresorhus_awesome#platforms",
+    "links": Array [
+      Object {
+        "level": 0,
+        "link": "sindresorhus_awesome-nodejs",
+        "subtitle": "JavaScript runtime built on Chrome’s V8 JavaScript engine.",
+        "title": "Node.js",
+      },
+      Object {
+        "level": 0,
+        "link": "dypsilon_frontend-dev-bookmarks",
+        "subtitle": "",
+        "title": "Frontend Development",
+      },
+      Object {
+        "level": 0,
+        "link": "vsouza_awesome-ios",
+        "subtitle": "Mobile operating system for Apple phones and tablets.",
+        "title": "iOS",
+      },
+      Object {
+        "level": 0,
+        "link": "JStumpp_awesome-android",
+        "subtitle": "",
+        "title": "Android",
+      },
+    ],
+    "title": "Platforms",
+  },
+  Object {
+    "id": "sindresorhus_awesome#programming-languages",
+    "links": Array [],
+    "title": "Programming Languages",
+  },
+]
+`;
+
+exports[`Parsing a sample from Awesome List should be matched to a snapshot 1`] = `
+Array [
+  Object {
+    "id": "sindresorhus_awesome",
+    "links": Array [
+      Object {
+        "level": 0,
+        "link": "sindresorhus_awesome#platforms",
+        "subtitle": "",
+        "title": "Platforms",
+      },
+      Object {
+        "level": 0,
+        "link": "sindresorhus_awesome#programming-languages",
+        "subtitle": "",
+        "title": "Programming Languages",
+      },
+    ],
+    "title": "Contents",
+  },
+  Object {
+    "id": "sindresorhus_awesome#platforms",
+    "links": Array [
+      Object {
+        "level": 0,
+        "link": "sindresorhus_awesome-nodejs",
+        "subtitle": "JavaScript runtime built on Chrome’s V8 JavaScript engine.",
+        "title": "Node.js",
+      },
+      Object {
+        "level": 0,
+        "link": "dypsilon_frontend-dev-bookmarks",
+        "subtitle": "",
+        "title": "Frontend Development",
+      },
+      Object {
+        "level": 0,
+        "link": "vsouza_awesome-ios",
+        "subtitle": "Mobile operating system for Apple phones and tablets.",
+        "title": "iOS",
+      },
+      Object {
+        "level": 0,
+        "link": "JStumpp_awesome-android",
+        "subtitle": "",
+        "title": "Android",
+      },
+    ],
+    "title": "Platforms",
+  },
+  Object {
+    "id": "sindresorhus_awesome#programming-languages",
+    "links": Array [],
+    "title": "Programming Languages",
+  },
+]
+`;
+
 exports[`Parsing a sample from Awesome List should match snapshot 1`] = `
 Array [
   Object {

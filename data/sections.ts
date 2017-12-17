@@ -2835,377 +2835,300 @@ export default [
         "level": 0
       },
       {
-        "title": "Mad science",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#mad-science",
-        "level": 1
-      },
-      {
-        "title": "Command-line apps",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#command-line-apps",
-        "level": 1
-      },
-      {
-        "title": "Functional programming",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#functional-programming",
-        "level": 1
-      },
-      {
-        "title": "HTTP",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#http",
-        "level": 1
-      },
-      {
-        "title": "Debugging / Profiling",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#debugging--profiling",
-        "level": 1
-      },
-      {
-        "title": "Logging",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#logging",
-        "level": 1
-      },
-      {
-        "title": "Command-line utilities",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#command-line-utilities",
-        "level": 1
-      },
-      {
-        "title": "Build tools",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#build-tools",
-        "level": 1
-      },
-      {
-        "title": "Hardware",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#hardware",
-        "level": 1
-      },
-      {
-        "title": "Templating",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#templating",
-        "level": 1
-      },
-      {
-        "title": "Web frameworks",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#web-frameworks",
-        "level": 1
-      },
-      {
-        "title": "Documentation",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#documentation",
-        "level": 1
-      },
-      {
-        "title": "Filesystem",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#filesystem",
-        "level": 1
-      },
-      {
-        "title": "Control flow",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#control-flow",
-        "level": 1
-      },
-      {
-        "title": "Streams",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#streams",
-        "level": 1
-      },
-      {
-        "title": "Real-time",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#real-time",
-        "level": 1
-      },
-      {
-        "title": "Image",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#image",
-        "level": 1
-      },
-      {
-        "title": "Text",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#text",
-        "level": 1
-      },
-      {
-        "title": "Number",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#number",
-        "level": 1
-      },
-      {
-        "title": "Math",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#math",
-        "level": 1
-      },
-      {
-        "title": "Date",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#date",
-        "level": 1
-      },
-      {
-        "title": "URL",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#url",
-        "level": 1
-      },
-      {
-        "title": "Data validation",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#data-validation",
-        "level": 1
-      },
-      {
-        "title": "Parsing",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#parsing",
-        "level": 1
-      },
-      {
-        "title": "Humanize",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#humanize",
-        "level": 1
-      },
-      {
-        "title": "Compression",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#compression",
-        "level": 1
-      },
-      {
-        "title": "Network",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#network",
-        "level": 1
-      },
-      {
-        "title": "Database",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#database",
-        "level": 1
-      },
-      {
-        "title": "Testing",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#testing",
-        "level": 1
-      },
-      {
-        "title": "Security",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#security",
-        "level": 1
-      },
-      {
-        "title": "Benchmarking",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#benchmarking",
-        "level": 1
-      },
-      {
-        "title": "Minifiers",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#minifiers",
-        "level": 1
-      },
-      {
-        "title": "Authentication",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#authentication",
-        "level": 1
-      },
-      {
-        "title": "Email",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#email",
-        "level": 1
-      },
-      {
-        "title": "Job queues",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#job-queues",
-        "level": 1
-      },
-      {
-        "title": "Node.js management",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#nodejs-management",
-        "level": 1
-      },
-      {
-        "title": "Polyfills",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#polyfills",
-        "level": 1
-      },
-      {
-        "title": "Natural language processing",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#natural-language-processing",
-        "level": 1
-      },
-      {
-        "title": "Process management",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#process-management",
-        "level": 1
-      },
-      {
-        "title": "Automation",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#automation",
-        "level": 1
-      },
-      {
-        "title": "AST",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#ast",
-        "level": 1
-      },
-      {
-        "title": "Static site generators",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#static-site-generators",
-        "level": 1
-      },
-      {
-        "title": "Content management systems",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#content-management-systems",
-        "level": 1
-      },
-      {
-        "title": "Forum",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#forum",
-        "level": 1
-      },
-      {
-        "title": "Blogging",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#blogging",
-        "level": 1
-      },
-      {
-        "title": "Weird",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#weird",
-        "level": 1
-      },
-      {
-        "title": "Miscellaneous",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#miscellaneous",
-        "level": 1
-      },
-      {
         "title": "Resources",
         "subtitle": "",
         "link": "sindresorhus_awesome-nodejs#resources",
         "level": 0
-      },
-      {
-        "title": "Tutorials",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#tutorials",
-        "level": 1
-      },
-      {
-        "title": "Discovery",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#discovery",
-        "level": 1
-      },
-      {
-        "title": "Articles",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#articles",
-        "level": 1
-      },
-      {
-        "title": "Newsletters",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#newsletters",
-        "level": 1
-      },
-      {
-        "title": "Videos",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#videos",
-        "level": 1
-      },
-      {
-        "title": "Podcasts",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#podcasts",
-        "level": 1
-      },
-      {
-        "title": "Books",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#books",
-        "level": 1
-      },
-      {
-        "title": "Blogs",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#blogs",
-        "level": 1
-      },
-      {
-        "title": "Courses",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#courses",
-        "level": 1
-      },
-      {
-        "title": "Cheatsheets",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#cheatsheets",
-        "level": 1
-      },
-      {
-        "title": "Tools",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#tools",
-        "level": 1
-      },
-      {
-        "title": "Community",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#community",
-        "level": 1
-      },
-      {
-        "title": "Miscellaneous",
-        "subtitle": "",
-        "link": "sindresorhus_awesome-nodejs#miscellaneous",
-        "level": 1
       }
     ]
   },
   {
     "id": "sindresorhus_awesome-nodejs#packages",
     "title": "Packages",
-    "links": []
+    "links": [
+      {
+        "title": "Mad science",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#mad-science",
+        "level": 0
+      },
+      {
+        "title": "Command-line apps",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#command-line-apps",
+        "level": 0
+      },
+      {
+        "title": "Functional programming",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#functional-programming",
+        "level": 0
+      },
+      {
+        "title": "HTTP",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#http",
+        "level": 0
+      },
+      {
+        "title": "Debugging / Profiling",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#debugging--profiling",
+        "level": 0
+      },
+      {
+        "title": "Logging",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#logging",
+        "level": 0
+      },
+      {
+        "title": "Command-line utilities",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#command-line-utilities",
+        "level": 0
+      },
+      {
+        "title": "Build tools",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#build-tools",
+        "level": 0
+      },
+      {
+        "title": "Hardware",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#hardware",
+        "level": 0
+      },
+      {
+        "title": "Templating",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#templating",
+        "level": 0
+      },
+      {
+        "title": "Web frameworks",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#web-frameworks",
+        "level": 0
+      },
+      {
+        "title": "Documentation",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#documentation",
+        "level": 0
+      },
+      {
+        "title": "Filesystem",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#filesystem",
+        "level": 0
+      },
+      {
+        "title": "Control flow",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#control-flow",
+        "level": 0
+      },
+      {
+        "title": "Streams",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#streams",
+        "level": 0
+      },
+      {
+        "title": "Real-time",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#real-time",
+        "level": 0
+      },
+      {
+        "title": "Image",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#image",
+        "level": 0
+      },
+      {
+        "title": "Text",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#text",
+        "level": 0
+      },
+      {
+        "title": "Number",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#number",
+        "level": 0
+      },
+      {
+        "title": "Math",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#math",
+        "level": 0
+      },
+      {
+        "title": "Date",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#date",
+        "level": 0
+      },
+      {
+        "title": "URL",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#url",
+        "level": 0
+      },
+      {
+        "title": "Data validation",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#data-validation",
+        "level": 0
+      },
+      {
+        "title": "Parsing",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#parsing",
+        "level": 0
+      },
+      {
+        "title": "Humanize",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#humanize",
+        "level": 0
+      },
+      {
+        "title": "Compression",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#compression",
+        "level": 0
+      },
+      {
+        "title": "Network",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#network",
+        "level": 0
+      },
+      {
+        "title": "Database",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#database",
+        "level": 0
+      },
+      {
+        "title": "Testing",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#testing",
+        "level": 0
+      },
+      {
+        "title": "Security",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#security",
+        "level": 0
+      },
+      {
+        "title": "Benchmarking",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#benchmarking",
+        "level": 0
+      },
+      {
+        "title": "Minifiers",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#minifiers",
+        "level": 0
+      },
+      {
+        "title": "Authentication",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#authentication",
+        "level": 0
+      },
+      {
+        "title": "Email",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#email",
+        "level": 0
+      },
+      {
+        "title": "Job queues",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#job-queues",
+        "level": 0
+      },
+      {
+        "title": "Node.js management",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#nodejs-management",
+        "level": 0
+      },
+      {
+        "title": "Polyfills",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#polyfills",
+        "level": 0
+      },
+      {
+        "title": "Natural language processing",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#natural-language-processing",
+        "level": 0
+      },
+      {
+        "title": "Process management",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#process-management",
+        "level": 0
+      },
+      {
+        "title": "Automation",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#automation",
+        "level": 0
+      },
+      {
+        "title": "AST",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#ast",
+        "level": 0
+      },
+      {
+        "title": "Static site generators",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#static-site-generators",
+        "level": 0
+      },
+      {
+        "title": "Content management systems",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#content-management-systems",
+        "level": 0
+      },
+      {
+        "title": "Forum",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#forum",
+        "level": 0
+      },
+      {
+        "title": "Blogging",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#blogging",
+        "level": 0
+      },
+      {
+        "title": "Weird",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#weird",
+        "level": 0
+      },
+      {
+        "title": "Miscellaneous",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#miscellaneous",
+        "level": 0
+      }
+    ]
   },
   {
     "id": "sindresorhus_awesome-nodejs#mad-science",
@@ -6744,7 +6667,86 @@ export default [
   {
     "id": "sindresorhus_awesome-nodejs#resources",
     "title": "Resources",
-    "links": []
+    "links": [
+      {
+        "title": "Tutorials",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#tutorials",
+        "level": 0
+      },
+      {
+        "title": "Discovery",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#discovery",
+        "level": 0
+      },
+      {
+        "title": "Articles",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#articles",
+        "level": 0
+      },
+      {
+        "title": "Newsletters",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#newsletters",
+        "level": 0
+      },
+      {
+        "title": "Videos",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#videos",
+        "level": 0
+      },
+      {
+        "title": "Podcasts",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#podcasts",
+        "level": 0
+      },
+      {
+        "title": "Books",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#books",
+        "level": 0
+      },
+      {
+        "title": "Blogs",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#blogs",
+        "level": 0
+      },
+      {
+        "title": "Courses",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#courses",
+        "level": 0
+      },
+      {
+        "title": "Cheatsheets",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#cheatsheets",
+        "level": 0
+      },
+      {
+        "title": "Tools",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#tools",
+        "level": 0
+      },
+      {
+        "title": "Community",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#community",
+        "level": 0
+      },
+      {
+        "title": "Miscellaneous",
+        "subtitle": "",
+        "link": "sindresorhus_awesome-nodejs#miscellaneous",
+        "level": 0
+      }
+    ]
   },
   {
     "id": "sindresorhus_awesome-nodejs#tutorials",
@@ -7234,24 +7236,6 @@ export default [
         "subtitle": "",
         "link": "",
         "level": -2
-      },
-      {
-        "title": "",
-        "subtitle": "Animation",
-        "link": "appearance/animation.md",
-        "level": 0
-      },
-      {
-        "title": "",
-        "subtitle": "Typography",
-        "link": "appearance/typography.md",
-        "level": 0
-      },
-      {
-        "title": "",
-        "subtitle": "Visualization",
-        "link": "appearance/visualization.md",
-        "level": 0
       }
     ]
   },
@@ -7644,1959 +7628,5 @@ export default [
         "level": 0
       }
     ]
-  },
-  {
-    "id": "JStumpp_awesome-android",
-    "title": "Emulators",
-    "links": [
-      {
-        "title": "AMIDuOS",
-        "subtitle": "",
-        "link": "https://www.amiduos.com",
-        "level": 0
-      },
-      {
-        "title": "AndY",
-        "subtitle": "",
-        "link": "https://andyroid.net",
-        "level": 0
-      },
-      {
-        "title": "ARChon",
-        "subtitle": "",
-        "link": "https://archon-runtime.github.io",
-        "level": 0
-      },
-      {
-        "title": "BlueStacks",
-        "subtitle": "",
-        "link": "https://www.bluestacks.com",
-        "level": 0
-      },
-      {
-        "title": "Genymotion",
-        "subtitle": "",
-        "link": "https://www.genymotion.com",
-        "level": 0
-      },
-      {
-        "title": "nox",
-        "subtitle": "",
-        "link": "https://www.bignox.com",
-        "level": 0
-      },
-      {
-        "title": "Xamarin",
-        "subtitle": "",
-        "link": "https://www.xamarin.com",
-        "level": 0
-      },
-      {
-        "title": "Remix OS Player",
-        "subtitle": "",
-        "link": "http://www.jide.com/remixos-player",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#libraries",
-    "title": "Libraries",
-    "links": []
-  },
-  {
-    "id": "JStumpp_awesome-android#charts",
-    "title": "Charts",
-    "links": [
-      {
-        "title": "AChartEngine",
-        "subtitle": "Charting Engine.",
-        "link": "https://github.com/ddanny/achartengine",
-        "level": 0
-      },
-      {
-        "title": "EazeGraph",
-        "subtitle": "Chart and graph library.",
-        "link": "https://github.com/blackfizz/EazeGraph",
-        "level": 0
-      },
-      {
-        "title": "WilliamChart",
-        "subtitle": "Chart library with good motion capabilities.",
-        "link": "https://github.com/diogobernardino/WilliamChart",
-        "level": 0
-      },
-      {
-        "title": "HelloCharts",
-        "subtitle": "Chart and graph library with support for scaling, scrolling and animations.",
-        "link": "https://github.com/lecho/hellocharts-android",
-        "level": 0
-      },
-      {
-        "title": "MPAndroidChart",
-        "subtitle": "An Android chart and graph library supporting scaling and dragging by gesture.",
-        "link": "https://github.com/PhilJay/MPAndroidChart",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#cloud-services",
-    "title": "Cloud Services",
-    "links": [
-      {
-        "title": "CloudRail",
-        "subtitle": "Unified API Library for: Cloud Storage, Social Profiles, Payment, Email, SMS & POIs.",
-        "link": "https://cloudrail.com",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#data-binding",
-    "title": "Data binding",
-    "links": [
-      {
-        "title": "Anvil",
-        "subtitle": "A small library to create reactive UI components, inspired by React. Provides data binding and event listener binding, fits well for MVVM.",
-        "link": "https://github.com/zserge/anvil",
-        "level": 0
-      },
-      {
-        "title": "RoboBinding",
-        "subtitle": "A data-binding Presentation Model (MVVM) framework for the Android platform.",
-        "link": "https://github.com/RoboBinding/RoboBinding",
-        "level": 0
-      },
-      {
-        "title": "Data Binding Library",
-        "subtitle": "Official Android Data Binding Library to write declarative layouts and minimize the glue code necessary to bind application logic and layouts.",
-        "link": "https://developer.android.com/topic/libraries/data-binding/index.html",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#dependency-injection",
-    "title": "Dependency Injection",
-    "links": [
-      {
-        "title": "RoboGuice",
-        "subtitle": "Dependency injection framework for Android.",
-        "link": "https://github.com/roboguice/roboguice",
-        "level": 0
-      },
-      {
-        "title": "Dagger",
-        "subtitle": "Dependency injection framework for Java and Android.",
-        "link": "https://github.com/square/Dagger",
-        "level": 0
-      },
-      {
-        "title": "Dagger 2",
-        "subtitle": "A fast dependency injector for Android and Java.",
-        "link": "https://github.com/google/dagger",
-        "level": 0
-      },
-      {
-        "title": "Butter Knife",
-        "subtitle": "View “injection” library for Android.",
-        "link": "http://jakewharton.github.io/butterknife/",
-        "level": 0
-      },
-      {
-        "title": "ActivityStarter",
-        "subtitle": "Android Library that provide simpler way to start the Activities with multiple arguments.",
-        "link": "https://github.com/MarcinMoskala/ActivityStarter",
-        "level": 0
-      },
-      {
-        "title": "AndroidAnnotations",
-        "subtitle": "Java annotations with dependency injection at compile time.",
-        "link": "https://github.com/androidannotations/androidannotations",
-        "level": 0
-      },
-      {
-        "title": "Toothpick",
-        "subtitle": "A scope tree based Dependency Injection (DI) library for Java.",
-        "link": "https://github.com/stephanenicolas/toothpick",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#android-services",
-    "title": "Android Services",
-    "links": [
-      {
-        "title": "Remoter",
-        "subtitle": "An alternative to Android AIDL for Android Remote IPC services using plain java interfaces.",
-        "link": "https://github.com/josesamuel/remoter",
-        "level": 0
-      },
-      {
-        "title": "Service Connector",
-        "subtitle": "Bind Android services and callbacks to fields and methods.",
-        "link": "https://github.com/josesamuel/serviceconnector",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#game-development",
-    "title": "Game Development",
-    "links": [
-      {
-        "title": "AndEngine",
-        "subtitle": "Free, Fun and Fast Android 2D OpenGL Game Engine.",
-        "link": "http://www.andengine.org/",
-        "level": 0
-      },
-      {
-        "title": "Libgdx",
-        "subtitle": "Cross-platform game engine and SDK.",
-        "link": "https://libgdx.badlogicgames.com/",
-        "level": 0
-      },
-      {
-        "title": "Vuforia",
-        "subtitle": "Augmented Reality library.",
-        "link": "https://www.vuforia.com/",
-        "level": 0
-      },
-      {
-        "title": "Unity",
-        "subtitle": "Cross-platform game creation system.",
-        "link": "https://unity3d.com/unity/features/multiplatform",
-        "level": 0
-      },
-      {
-        "title": "Rajawali",
-        "subtitle": "Android OpenGL ES 2.0/3.0 Engine",
-        "link": "https://github.com/Rajawali/Rajawali",
-        "level": 0
-      },
-      {
-        "title": "Cocos2d-x",
-        "subtitle": "Cross-platform 2d game framework.",
-        "link": "http://www.cocos2d-x.org",
-        "level": 0
-      },
-      {
-        "title": "JustWeEngine",
-        "subtitle": "An easy open source Android Native Game FrameWork.",
-        "link": "https://github.com/lfkdsk/JustWeEngine",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#security",
-    "title": "Security",
-    "links": [
-      {
-        "title": "libsignal-protocol-java",
-        "subtitle": "A ratcheting forward secrecy protocol that works in synchronous and asynchronous messaging environments.",
-        "link": "https://github.com/whispersystems/libsignal-protocol-java",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#gui",
-    "title": "GUI",
-    "links": [
-      {
-        "title": "Pull to refresh",
-        "subtitle": "A swipe refresh layout is available in the v4 support library.",
-        "link": "https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout.html",
-        "level": 0
-      },
-      {
-        "title": "Cardslib",
-        "subtitle": "Android Library to build a UI Card.",
-        "link": "https://github.com/gabrielemariotti/cardslib",
-        "level": 0
-      },
-      {
-        "title": "AndroidStaggeredGrid",
-        "subtitle": "Grid view which supports multiple columns with rows of varying sizes.",
-        "link": "https://github.com/etsy/AndroidStaggeredGrid",
-        "level": 0
-      },
-      {
-        "title": "AndroidQuery",
-        "subtitle": "Android-Query (AQuery) is a light-weight library for doing asynchronous tasks and manipulating UI elements in Android.",
-        "link": "https://github.com/androidquery/androidquery",
-        "level": 0
-      },
-      {
-        "title": "Flow",
-        "subtitle": "Library that helps with describing an app as a collection of moderately independent screens.",
-        "link": "https://github.com/square/flow",
-        "level": 0
-      },
-      {
-        "title": "Crouton",
-        "subtitle": "Context sensitive notifications for Android",
-        "link": "https://github.com/keyboardsurfer/Crouton",
-        "level": 0
-      },
-      {
-        "title": "DragSortListView",
-        "subtitle": "Extension of the Android ListView that enables drag-and-drop reordering (No longer maintained).",
-        "link": "https://github.com/bauerca/drag-sort-listview",
-        "level": 0
-      },
-      {
-        "title": "SortableTableView",
-        "subtitle": "An Android library containing a simple TableView and an advanced SortableTableView providing a lot of customisation possibilities to fit all needs.",
-        "link": "https://github.com/ISchwarz23/SortableTableView",
-        "level": 0
-      },
-      {
-        "title": "MaterialProgressBar",
-        "subtitle": "Material design ProgressBar with consistent appearance.",
-        "link": "https://github.com/DreaminginCodeZH/MaterialProgressBar",
-        "level": 0
-      },
-      {
-        "title": "AndroidFillableLoaders",
-        "subtitle": "Fillable progress view working with SVG paths. Nice option too for creating interesting app logos.",
-        "link": "https://github.com/JorgeCastilloPrz/AndroidFillableLoaders",
-        "level": 0
-      },
-      {
-        "title": "NexusDialog",
-        "subtitle": "Allows you to easily and quickly create forms in Android with little code.",
-        "link": "https://github.com/dkharrat/NexusDialog",
-        "level": 0
-      },
-      {
-        "title": "Snap RecyclerView Utils",
-        "subtitle": "Populate Single or multiple Layout RecyclerView without creating an Adapter.",
-        "link": "https://github.com/prashantsolanki3/Snap-RecyclerView-Utils",
-        "level": 0
-      },
-      {
-        "title": "MultiSnapRecyclerView",
-        "subtitle": "Android library for multiple snapping of RecyclerView",
-        "link": "https://github.com/TakuSemba/MultiSnapRecyclerView",
-        "level": 0
-      },
-      {
-        "title": "SwipeableCard",
-        "subtitle": "Implementation of swipe card like StreetView!!",
-        "link": "https://github.com/michelelacorte/SwipeableCard",
-        "level": 0
-      },
-      {
-        "title": "ElasticProgressBar",
-        "subtitle": "Beautiful loading bar.",
-        "link": "https://github.com/michelelacorte/ElasticProgressBar",
-        "level": 0
-      },
-      {
-        "title": "EntryScreenManager",
-        "subtitle": "Intro/Entry/Walkthrough/Starting Screens.",
-        "link": "https://github.com/kunall17/EntryScreenManager",
-        "level": 0
-      },
-      {
-        "title": "EasyIntro",
-        "subtitle": "The flexible, easy to use, all in one app intro library for your Android project.",
-        "link": "https://github.com/meNESS/EasyIntro",
-        "level": 0
-      },
-      {
-        "title": "Material-Calendar-View",
-        "subtitle": "Material Design Calendar compatible with API 8+",
-        "link": "https://github.com/BlackBoxVision/material-calendar-view",
-        "level": 0
-      },
-      {
-        "title": "SectionedRecyclerViewAdapter",
-        "subtitle": "An Adapter that allows a RecyclerView to be split into Sections with headers and/or footers.",
-        "link": "https://github.com/luizgrp/SectionedRecyclerViewAdapter",
-        "level": 0
-      },
-      {
-        "title": "DragListView",
-        "subtitle": "Drag and drop to reorder items in a list, grid or board.",
-        "link": "https://github.com/woxblom/DragListView",
-        "level": 0
-      },
-      {
-        "title": "Animated Expanding ListView",
-        "subtitle": "Animated Expanding ListView provides a fancy animation on expanding or collapsing the content of a listview item.",
-        "link": "https://github.com/LeonardoCardoso/Animated-Expanding-ListView",
-        "level": 0
-      },
-      {
-        "title": "TastyToast",
-        "subtitle": "Toasts with icons and color.",
-        "link": "https://github.com/yadav-rahul/TastyToast",
-        "level": 0
-      },
-      {
-        "title": "DotLoader",
-        "subtitle": "A customizable loading animation with Dots.",
-        "link": "https://github.com/bhargavms/DotLoader",
-        "level": 0
-      },
-      {
-        "title": "PodSlider",
-        "subtitle": "A customizable slider widget adhering to material design specs.",
-        "link": "https://github.com/bhargavms/PodSLider",
-        "level": 0
-      },
-      {
-        "title": "TapTargetView",
-        "subtitle": "An implementation of tap targets from the Material Design guidelines for feature discovery.",
-        "link": "https://github.com/KeepSafe/TapTargetView",
-        "level": 0
-      },
-      {
-        "title": "MaterialIntroScreen",
-        "subtitle": "Material Intro Screen implementation with easily extensible API.",
-        "link": "https://github.com/TangoAgency/material-intro-screen",
-        "level": 0
-      },
-      {
-        "title": "FloatingView",
-        "subtitle": "FloatingView can make the target view floating above the anchor view with cool animation.",
-        "link": "https://github.com/UFreedom/FloatingView",
-        "level": 0
-      },
-      {
-        "title": "Timecon",
-        "subtitle": "Easy-to-use animated clock icon",
-        "link": "https://github.com/alxrm/animated-clock-icon",
-        "level": 0
-      },
-      {
-        "title": "Audiogram",
-        "subtitle": "Lightweight audiowave progressbar",
-        "link": "https://github.com/alxrm/audiowave-progressbar",
-        "level": 0
-      },
-      {
-        "title": "Bubbles for Android",
-        "subtitle": "Facebook like chat bubble library",
-        "link": "https://github.com/txusballesteros/bubbles-for-android",
-        "level": 0
-      },
-      {
-        "title": "Litho (By Facebook)",
-        "subtitle": "A declarative framework for building efficient UIs on Android.",
-        "link": "https://github.com/facebook/litho",
-        "level": 0
-      },
-      {
-        "title": "MultiViewAdapter",
-        "subtitle": "Recyclerview Adapter library to create composable view holders.",
-        "link": "https://github.com/DevAhamed/MultiViewAdapter",
-        "level": 0
-      },
-      {
-        "title": "LGSnackbar",
-        "subtitle": "An easy to use and customisable wrapper of the native Android Snackbar which stays visible across multiple activities.",
-        "link": "https://github.com/loregr/LGSnackbar",
-        "level": 0
-      },
-      {
-        "title": "ShimmerLayout",
-        "subtitle": "Memory efficient shimmering effect for Android applications.",
-        "link": "https://github.com/team-supercharge/ShimmerLayout",
-        "level": 0
-      },
-      {
-        "title": "CircleProgressBar",
-        "subtitle": "A simple library for creating circular progressbars for Android.",
-        "link": "https://github.com/emre1512/CircleProgressBar",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#paginate",
-    "title": "Paginate",
-    "links": [
-      {
-        "title": "NoPaginate",
-        "subtitle": "Simple Android pagination library",
-        "link": "https://github.com/NoNews/NoPaginate",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#actionbar",
-    "title": "ActionBar",
-    "links": [
-      {
-        "title": "ActionBarSherlock",
-        "subtitle": "ActionBar for older Android versions.",
-        "link": "http://actionbarsherlock.com",
-        "level": 0
-      },
-      {
-        "title": "FadingActionBar",
-        "subtitle": "Fading action bar effect that can be seen in the new Play Music app.",
-        "link": "https://github.com/ManuelPeinado/FadingActionBar",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#navigation",
-    "title": "Navigation",
-    "links": [
-      {
-        "title": "SlidingMenu",
-        "subtitle": "Library to create applications with slide-in menus.",
-        "link": "https://github.com/jfeinstein10/SlidingMenu",
-        "level": 0
-      },
-      {
-        "title": "SlidingTutorial",
-        "subtitle": "Simple library that helps to create awesome sliding android app tutorials.",
-        "link": "https://github.com/Cleveroad/slidingtutorial-android",
-        "level": 0
-      },
-      {
-        "title": "PagerSlidingTabStrip",
-        "subtitle": "An interactive indicator to navigate between the different pages of a ViewPager.",
-        "link": "https://github.com/astuetz/PagerSlidingTabStrip",
-        "level": 0
-      },
-      {
-        "title": "Page View indicator",
-        "subtitle": "Support for horizontally scrolling ViewPager.",
-        "link": "https://github.com/JakeWharton/ViewPagerIndicator",
-        "level": 0
-      },
-      {
-        "title": "RecyclerTabLayout",
-        "subtitle": "An efficient TabLayout library implemented with RecyclerView.",
-        "link": "https://github.com/nshmura/RecyclerTabLayout",
-        "level": 0
-      },
-      {
-        "title": "MaterialDrawer",
-        "subtitle": "Simple take on a material design navigation drawer.",
-        "link": "https://github.com/mikepenz/MaterialDrawer",
-        "level": 0
-      },
-      {
-        "title": "Debug-Artist",
-        "subtitle": "Debug menu to enable leakcanary, scalpel and others easy.",
-        "link": "https://github.com/baristaventures/debug-artist",
-        "level": 0
-      },
-      {
-        "title": "Floating-Navigation-View",
-        "subtitle": "A simple Floating Action Button that shows an anchored Navigation View.",
-        "link": "https://github.com/andremion/Floating-Navigation-View",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#animations",
-    "title": "Animations",
-    "links": [
-      {
-        "title": "NineOldAndroids",
-        "subtitle": "Library for using the Honeycomb animation API on all versions of the platform back to 1.0.",
-        "link": "https://github.com/JakeWharton/NineOldAndroids",
-        "level": 0
-      },
-      {
-        "title": "Rebound",
-        "subtitle": "Rebound is a Java library that models spring dynamics.",
-        "link": "https://github.com/facebook/rebound",
-        "level": 0
-      },
-      {
-        "title": "Android View Animations",
-        "subtitle": "Cute view animation collection.",
-        "link": "https://github.com/daimajia/AndroidViewAnimations",
-        "level": 0
-      },
-      {
-        "title": "Android-Transition",
-        "subtitle": "Allows the easy creation of view transitions that react to user inputs.",
-        "link": "https://github.com/kaichunlin/android-transition",
-        "level": 0
-      },
-      {
-        "title": "Android-View-Actions",
-        "subtitle": "Makes creating complex animations for views easy.",
-        "link": "https://github.com/dtx12/AndroidAnimationsActions",
-        "level": 0
-      },
-      {
-        "title": "Swipper",
-        "subtitle": "Android library for swipeable gestures to control volume , brightness and seek .",
-        "link": "https://github.com/sdsmdg/Swipper",
-        "level": 0
-      },
-      {
-        "title": "Spotlight",
-        "subtitle": "Android Library that lights items for tutorials or walk-throughs etc…",
-        "link": "https://github.com/TakuSemba/Spotlight",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#images",
-    "title": "Images",
-    "links": [
-      {
-        "title": "Crescento",
-        "subtitle": "Explore new style in material design by adding curve below image view.",
-        "link": "https://github.com/developer-shivam/crescento",
-        "level": 0
-      },
-      {
-        "title": "android-crop",
-        "subtitle": "Library project for cropping images.",
-        "link": "https://github.com/jdamcd/android-crop",
-        "level": 0
-      },
-      {
-        "title": "CircularImageView",
-        "subtitle": "Custom view for circular images while maintaining the best draw performance.",
-        "link": "https://github.com/Pkmmte/CircularImageView",
-        "level": 0
-      },
-      {
-        "title": "Android-Image-Filter",
-        "subtitle": "Library project for applying image filters easily.",
-        "link": "https://github.com/ragnraok/android-image-filter",
-        "level": 0
-      },
-      {
-        "title": "Compressor",
-        "subtitle": "Compressor is a lightweight and powerful android image compression library.",
-        "link": "https://github.com/zetbaitsu/Compressor",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#inputs",
-    "title": "Inputs",
-    "links": [
-      {
-        "title": "FloatingLabel",
-        "subtitle": "FloatingLabel Allows you to create a blow kind of EditText.",
-        "link": "https://github.com/hardik-trivedi/FloatingLabel",
-        "level": 0
-      },
-      {
-        "title": "MaterialEditText",
-        "subtitle": "Supporting Floating Labels, Single Line Ellipsis, Max/Min Characters, Helper Text and Error Text with Custom Colors.",
-        "link": "https://github.com/rengwuxian/MaterialEditText",
-        "level": 0
-      },
-      {
-        "title": "Emojicon",
-        "subtitle": "Adds emoticons to your app",
-        "link": "https://github.com/rockerhieu/emojicon",
-        "level": 0
-      },
-      {
-        "title": "MaterialSearchBar",
-        "subtitle": "Material Design Search Bar for Android",
-        "link": "https://github.com/mancj/MaterialSearchBar",
-        "level": 0
-      },
-      {
-        "title": "InputMask",
-        "subtitle": "Pattern-based user input formatter, parser and validator.",
-        "link": "https://github.com/RedMadRobot/input-mask-android",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#loading-images",
-    "title": "Loading Images",
-    "links": [
-      {
-        "title": "Picasso",
-        "subtitle": "A powerful image downloading and caching library for Android.",
-        "link": "https://github.com/square/picasso",
-        "level": 0
-      },
-      {
-        "title": "Universal Image Loader",
-        "subtitle": "Asynchronous, out of the box loading and caching of images.",
-        "link": "https://github.com/nostra13/Android-Universal-Image-Loader",
-        "level": 0
-      },
-      {
-        "title": "Glide",
-        "subtitle": "An image loading and caching library for Android focused on smooth scrolling, Recommended by Google.",
-        "link": "https://github.com/bumptech/glide",
-        "level": 0
-      },
-      {
-        "title": "Fresco",
-        "subtitle": "An Android library for managing images and the memory they use.",
-        "link": "https://github.com/facebook/fresco",
-        "level": 0
-      },
-      {
-        "title": "Glide Bitmap Pool",
-        "subtitle": "Glide Bitmap Pool is a memory management library for reusing the bitmap memory.",
-        "link": "https://github.com/amitshekhariitbhu/GlideBitmapPool",
-        "level": 0
-      },
-      {
-        "title": "MediaPicker",
-        "subtitle": "Android Library that lets you to select multiple images, video or voice for Android",
-        "link": "https://github.com/alhazmy13/MediaPicker",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#video",
-    "title": "Video",
-    "links": [
-      {
-        "title": "ijkplayer",
-        "subtitle": "Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.",
-        "link": "https://github.com/Bilibili/ijkplayer",
-        "level": 0
-      },
-      {
-        "title": "Exoplayer",
-        "subtitle": "ExoPlayer is an application level media player for Android, allow  playing audio and video both locally and over the Internet.",
-        "link": "https://github.com/google/ExoPlayer",
-        "level": 0
-      },
-      {
-        "title": "Easy-Video-Player",
-        "subtitle": "Easy Video Player is very simple and easy to use in our app.",
-        "link": "https://github.com/afollestad/easy-video-player",
-        "level": 0
-      },
-      {
-        "title": "VideoPlayView",
-        "subtitle": "Custom Android view with video player, play/stop, loader and placeholder image.",
-        "link": "https://github.com/MarcinMoskala/VideoPlayView",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#camera",
-    "title": "Camera",
-    "links": [
-      {
-        "title": "MagicalCamera",
-        "subtitle": "Simple way to take or select photos of your gallery, with other features for manage pictures.",
-        "link": "https://github.com/fabian7593/MagicalCamera",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#field-validation",
-    "title": "Field Validation",
-    "links": [
-      {
-        "title": "Convalida",
-        "subtitle": "A simple and annotation-based way to validate your input fields.",
-        "link": "https://github.com/WellingtonCosta/convalida",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#json",
-    "title": "JSON",
-    "links": [
-      {
-        "title": "Gson",
-        "subtitle": "Gson is a Java library used for serializing and deserializing Java objects from and into JSON.",
-        "link": "https://github.com/google/gson",
-        "level": 0
-      },
-      {
-        "title": "Jackson JSON Processor",
-        "subtitle": "High-performance JSON processor.",
-        "link": "https://github.com/FasterXML/jackson",
-        "level": 0
-      },
-      {
-        "title": "Moshi",
-        "subtitle": "A modern JSON library for Android and Java.",
-        "link": "https://github.com/square/moshi",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#crash-monitoring",
-    "title": "Crash monitoring",
-    "links": [
-      {
-        "title": "Fabric Crashlytics",
-        "subtitle": "Easy crash reporting solution.",
-        "link": "https://get.fabric.io/",
-        "level": 0
-      },
-      {
-        "title": "HockeyApp",
-        "subtitle": "Distribution, Crash Reports, Feedback and Analytics",
-        "link": "https://www.hockeyapp.net/",
-        "level": 0
-      },
-      {
-        "title": "Splunk MINT",
-        "subtitle": "Monitoring, Crash Reports, Real time data, Statistic.",
-        "link": "https://mint.splunk.com/",
-        "level": 0
-      },
-      {
-        "title": "Bugsnag",
-        "subtitle": "Cross platform error monitoring. Free tier. Support for SDK & NDK. Error reports include data on device, release, user, and allows arbitrary data.",
-        "link": "https://www.bugsnag.com/",
-        "level": 0
-      },
-      {
-        "title": "Catcho",
-        "subtitle": "No Force Close any more.",
-        "link": "https://github.com/alhazmy13/Catcho",
-        "level": 0
-      },
-      {
-        "title": "Apteligent",
-        "subtitle": "Cross platform crash reporting/analytics solution. Supports NDK log.",
-        "link": "https://www.apteligent.com/",
-        "level": 0
-      },
-      {
-        "title": "Instabug",
-        "subtitle": "Bug reporting, Crash Reporting, In-app Feedback.",
-        "link": "https://instabug.com/",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#networking",
-    "title": "Networking",
-    "links": [
-      {
-        "title": "Ion",
-        "subtitle": "Good networking library for android.",
-        "link": "https://github.com/koush/ion",
-        "level": 0
-      },
-      {
-        "title": "OkHttp",
-        "subtitle": "An HTTP+SPDY client for Android and Java applications.",
-        "link": "https://github.com/square/okhttp",
-        "level": 0
-      },
-      {
-        "title": "Asynchronous Http Client",
-        "subtitle": "An Asynchronous HTTP Library.",
-        "link": "https://github.com/loopj/android-async-http",
-        "level": 0
-      },
-      {
-        "title": "RoboSpice",
-        "subtitle": "Library that makes writing asynchronous network requests easy.",
-        "link": "https://github.com/stephanenicolas/robospice",
-        "level": 0
-      },
-      {
-        "title": "IceNet",
-        "subtitle": "Fast, Simple and Easy Networking for Android",
-        "link": "https://github.com/anton46/IceNet",
-        "level": 0
-      },
-      {
-        "title": "Android Volley",
-        "subtitle": "Official Android HTTP library that makes networking for easier and faster.",
-        "link": "https://developer.android.com/training/volley/index.html",
-        "level": 0
-      },
-      {
-        "title": "IceSoap",
-        "subtitle": "Easy, asynchronous, annotation-based SOAP for Android.",
-        "link": "https://github.com/AlexGilleran/IceSoap",
-        "level": 0
-      },
-      {
-        "title": "node-android",
-        "subtitle": "Run Node.js on Android.",
-        "link": "https://github.com/InstantWebP2P/node-android",
-        "level": 0
-      },
-      {
-        "title": "HappyDns",
-        "subtitle": "A Dns library, user can use custom dns server, dnspod httpdns. Only support A record.",
-        "link": "https://github.com/qiniu/happy-dns-android",
-        "level": 0
-      },
-      {
-        "title": "RESTMock",
-        "subtitle": "HTTP Web server for mocking API responses in Android Instrumentation tests.",
-        "link": "https://github.com/andrzejchm/RESTMock",
-        "level": 0
-      },
-      {
-        "title": "Packetzoom",
-        "subtitle": "SDK for optimizing HTTP requests and free analytics service for networking.",
-        "link": "https://packetzoom.com/blog/introducing-http-optimizer-and-analytics-service.html",
-        "level": 0
-      },
-      {
-        "title": "Fast-Android-Networking",
-        "subtitle": "A Complete Fast Android Networking Library that also support HTTP/2.",
-        "link": "https://github.com/amitshekhariitbhu/Fast-Android-Networking",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#logger",
-    "title": "Logger",
-    "links": [
-      {
-        "title": "logger",
-        "subtitle": "Simple, pretty and powerful logger for android",
-        "link": "https://github.com/orhanobut/logger",
-        "level": 0
-      },
-      {
-        "title": "timber",
-        "subtitle": "A logger with a small, extensible API which provides utility on top of Android’s normal Log class.",
-        "link": "https://github.com/JakeWharton/timber",
-        "level": 0
-      },
-      {
-        "title": "LoggingInterceptor",
-        "subtitle": "An OkHttp interceptor which pretty logs request and response data.",
-        "link": "https://github.com/ihsanbal/LoggingInterceptor",
-        "level": 0
-      },
-      {
-        "title": "Bugfender",
-        "subtitle": "Upload your logs and check them online, specially made for mobile",
-        "link": "https://github.com/bugfender/BugfenderSDK-android-sample",
-        "level": 0
-      },
-      {
-        "title": "EzyLogger",
-        "subtitle": "Simple Lightweight logger",
-        "link": "https://github.com/afiqiqmal/EzyLogger",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#notifications",
-    "title": "Notifications",
-    "links": [
-      {
-        "title": "android-remote-notifications",
-        "subtitle": "Pulls notifications from a remote JSON file and shows them in your app.",
-        "link": "https://github.com/kaiwinter/android-remote-notifications",
-        "level": 0
-      },
-      {
-        "title": "Android HeartBeat Fixer",
-        "subtitle": "Way to set heartbeat interval and users receive PushNotifications from GCM.",
-        "link": "https://github.com/joaopedronardari/AndroidHeartBeatFixer",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#database",
-    "title": "Database",
-    "links": [
-      {
-        "title": "Cupboard",
-        "subtitle": "Access the sqlite easily via direct database access or through the ContentProvider framework.",
-        "link": "https://bitbucket.org/littlerobots/cupboard",
-        "level": 0
-      },
-      {
-        "title": "DbInspector",
-        "subtitle": "Provides a simple way to view the contents of the in-app database for debugging purposes.",
-        "link": "https://github.com/infinum/android_dbinspector",
-        "level": 0
-      },
-      {
-        "title": "SQLite Asset Helper",
-        "subtitle": "manage database creation and version management using an application’s raw asset files.",
-        "link": "https://github.com/jgilfelt/android-sqlite-asset-helper",
-        "level": 0
-      },
-      {
-        "title": "Realm",
-        "subtitle": "The alternative to SQLite and ORMs: Simple, modern and fast! Object oriented API and multi platform support.",
-        "link": "https://github.com/realm/realm-java",
-        "level": 0
-      },
-      {
-        "title": "Realm Asset Helper",
-        "subtitle": "Copies a realm database from the apk assets folder. Efficiently handles versioning of read-only realm databases.",
-        "link": "https://github.com/eggheadgames/android-realm-asset-helper",
-        "level": 0
-      },
-      {
-        "title": "RestorableSQLiteDatabase",
-        "subtitle": "A wrapper to replicate android’s SQLiteDatabase with restoring capability.",
-        "link": "https://github.com/yaa110/RestorableSQLiteDatabase",
-        "level": 0
-      },
-      {
-        "title": "Nitrite Database",
-        "subtitle": "A NoSQL embedded document store for Android with MongoDb like API.",
-        "link": "https://github.com/dizitart/nitrite-database",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#orm",
-    "title": "ORM",
-    "links": [
-      {
-        "title": "requery",
-        "subtitle": "Compile time ORM and SQL query library for Java & Android.",
-        "link": "https://github.com/requery/requery",
-        "level": 0
-      },
-      {
-        "title": "GreenDAO",
-        "subtitle": "Light & fast ORM solution.",
-        "link": "http://greenrobot.org/greendao/",
-        "level": 0
-      },
-      {
-        "title": "ORMLite",
-        "subtitle": "Lightweight ORM Java package for JDBC and Android.",
-        "link": "http://ormlite.com/sqlite_java_android_orm.shtml",
-        "level": 0
-      },
-      {
-        "title": "ActiveAndroid",
-        "subtitle": "Active record style ORM.",
-        "link": "http://www.activeandroid.com",
-        "level": 0
-      },
-      {
-        "title": "Sugar ORM",
-        "subtitle": "Insanely easy way to work with Android Databases.",
-        "link": "http://satyan.github.io/sugar/",
-        "level": 0
-      },
-      {
-        "title": "DBFlow",
-        "subtitle": "Fast and powerful ORM with compile-time annotation processing.",
-        "link": "https://github.com/Raizlabs/DBFlow",
-        "level": 0
-      },
-      {
-        "title": "NexusData",
-        "subtitle": "Object graph and persistence framework for Android.",
-        "link": "https://github.com/dkharrat/NexusData",
-        "level": 0
-      },
-      {
-        "title": "SimpleNoSQL",
-        "subtitle": "A simple NoSQL client for Android. Meant as a document store using key/value pairs and some rudimentary querying. Useful for avoiding the hassle of SQL code.",
-        "link": "https://github.com/Jearil/SimpleNoSQL",
-        "level": 0
-      },
-      {
-        "title": "RxSimpleNoSQL",
-        "subtitle": "Reactive extensions for SimpleNoSQL. Manipulate entities using Observables.",
-        "link": "https://github.com/xmartlabs/RxSimpleNoSQL",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#rest",
-    "title": "REST",
-    "links": [
-      {
-        "title": "Retrofit",
-        "subtitle": "Retrofit turns your REST API into a Java interface.",
-        "link": "http://square.github.io/retrofit/",
-        "level": 0
-      },
-      {
-        "title": "Spring for Android - Rest Template",
-        "subtitle": "A Rest Client for Android.",
-        "link": "https://github.com/spring-projects/spring-android",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#testing",
-    "title": "Testing",
-    "links": [
-      {
-        "title": "Robotium",
-        "subtitle": "Test automation framework for black-box UI tests.",
-        "link": "https://github.com/robotiumtech/robotium",
-        "level": 0
-      },
-      {
-        "title": "Roboletric",
-        "subtitle": "Unit test framework to run tests inside the JVM on your workstation, not in the emulator.",
-        "link": "http://robolectric.org/",
-        "level": 0
-      },
-      {
-        "title": "AssertJ Android",
-        "subtitle": "AssertJ assertions geared towards Android.",
-        "link": "https://github.com/square/assertj-android",
-        "level": 0
-      },
-      {
-        "title": "Green Coffee",
-        "subtitle": "Run your Cucumber tests in your Android instrumentation tests.",
-        "link": "https://github.com/mauriciotogneri/green-coffee",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#tracking",
-    "title": "Tracking",
-    "links": [
-      {
-        "title": "MobileAppTracking",
-        "subtitle": "Tracking your marketing campaigns across multiple ad networks.",
-        "link": "https://www.tune.com/",
-        "level": 0
-      },
-      {
-        "title": "Mixpanel",
-        "subtitle": "Analytics platform to analyze the users.",
-        "link": "https://mixpanel.com/",
-        "level": 0
-      },
-      {
-        "title": "Countly",
-        "subtitle": "Open source mobile & web analytics, push notifications and crash reporting platform, based on Node.js, MongoDB and Linux.",
-        "link": "https://count.ly",
-        "level": 0
-      },
-      {
-        "title": "CleverTap",
-        "subtitle": "Analytics platform and user-engagement platform with 1 million free events",
-        "link": "https://clevertap.com",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#maps",
-    "title": "Maps",
-    "links": [
-      {
-        "title": "Google-Directions-Android",
-        "subtitle": "Allows you to calculate the direction between two locations and display the route on a Google Map using the Google Directions API.",
-        "link": "https://github.com/jd-alexander/Google-Directions-Android",
-        "level": 0
-      },
-      {
-        "title": "Android Maps Extensions",
-        "subtitle": "Extending capabilities of Google Maps Android API v2, adding marker clustering among other things",
-        "link": "https://github.com/mg6maciej/android-maps-extensions",
-        "level": 0
-      },
-      {
-        "title": "Clusterkraf",
-        "subtitle": "Clustering library for the Google Maps Android API v2",
-        "link": "https://github.com/twotoasters/clusterkraf",
-        "level": 0
-      },
-      {
-        "title": "MapScaleView",
-        "subtitle": "Scale bar for Google Maps Android API",
-        "link": "https://github.com/pengrad/MapScaleView",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#utility",
-    "title": "Utility",
-    "links": [
-      {
-        "title": "Conceal SharedPreferences",
-        "subtitle": "Secured Preferences using Facebook Secure Encryption called Conceal.",
-        "link": "https://github.com/afiqiqmal/ConcealSharedPreference-Android",
-        "level": 0
-      },
-      {
-        "title": "EventBus",
-        "subtitle": "EventBus is a library that simplifies communication between different parts of your application.",
-        "link": "http://greenrobot.github.io/EventBus/",
-        "level": 0
-      },
-      {
-        "title": "Otto",
-        "subtitle": "Event Bus for Android.",
-        "link": "https://github.com/square/otto",
-        "level": 0
-      },
-      {
-        "title": "Weak handler",
-        "subtitle": "Memory safer implementation of android.os.Handler.",
-        "link": "https://github.com/badoo/android-weak-handler",
-        "level": 0
-      },
-      {
-        "title": "Byte Buddy",
-        "subtitle": "Runtime code generation library with support for Android.",
-        "link": "http://bytebuddy.net",
-        "level": 0
-      },
-      {
-        "title": "Secure Preference Manager",
-        "subtitle": "Secure Preference Manager for android. It uses various Encryption to protect your application’s Shared Preferences.",
-        "link": "https://github.com/prashantsolanki3/Secure-Pref-Manager",
-        "level": 0
-      },
-      {
-        "title": "LeakCanary",
-        "subtitle": "Catch memory leaks as they occur.",
-        "link": "https://github.com/square/leakcanary",
-        "level": 0
-      },
-      {
-        "title": "Drekkar",
-        "subtitle": "An Android event bus for WebView and JS.",
-        "link": "https://github.com/coshx/drekkar",
-        "level": 0
-      },
-      {
-        "title": "Androl4b",
-        "subtitle": "A vm for assessing android applications.",
-        "link": "https://github.com/sh4hin/Androl4b",
-        "level": 0
-      },
-      {
-        "title": "DroidMVP",
-        "subtitle": "Android library to help you incorporate MVP along with Passive View and Presentation Model patterns into your app.",
-        "link": "https://github.com/andrzejchm/DroidMVP",
-        "level": 0
-      },
-      {
-        "title": "Gota",
-        "subtitle": "Simplifying Android Permissions.",
-        "link": "https://github.com/alhazmy13/Gota",
-        "level": 0
-      },
-      {
-        "title": "EasyDeviceInfo",
-        "subtitle": "Get device information in a super easy way.",
-        "link": "https://github.com/nisrulz/easydeviceinfo",
-        "level": 0
-      },
-      {
-        "title": "Ask-Permission",
-        "subtitle": "Simple RunTime permission manager.",
-        "link": "https://github.com/Kishanjvaghela/Ask-Permission",
-        "level": 0
-      },
-      {
-        "title": "Shutter-Android",
-        "subtitle": "Capture photos/videos from device camera or get photos/video from gallery app with no runtime permissions needed.",
-        "link": "https://github.com/levibostian/Shutter-Android",
-        "level": 0
-      },
-      {
-        "title": "Validator",
-        "subtitle": "An utilities class to validate text inside TextInputLayout.",
-        "link": "https://github.com/anderscheow/Validator",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#debugging-tools",
-    "title": "Debugging Tools",
-    "links": [
-      {
-        "title": "Linx",
-        "subtitle": "Show logcat inside the device for debug builds",
-        "link": "https://github.com/pedrovgs/Lynx",
-        "level": 0
-      },
-      {
-        "title": "Scalpel",
-        "subtitle": "View the entire hierarchy in 3d in the phone.",
-        "link": "https://github.com/JakeWharton/scalpel",
-        "level": 0
-      },
-      {
-        "title": "Stetho",
-        "subtitle": "Debug hierarchy and network from chrome.",
-        "link": "https://github.com/facebook/stetho",
-        "level": 0
-      },
-      {
-        "title": "Android Debug Database",
-        "subtitle": "Android Debug Database is a powerful library for debugging databases and shared preferences in Android applications.",
-        "link": "https://github.com/amitshekhariitbhu/Android-Debug-Database",
-        "level": 0
-      },
-      {
-        "title": "Android Debug Bridge - ADB",
-        "subtitle": "a command-line tool to assist in debugging Android-powered devices",
-        "link": "https://github.com/mzlogin/awesome-adb/blob/master/README.en.md",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#wireless",
-    "title": "Wireless",
-    "links": [
-      {
-        "title": "SmartGattLib",
-        "subtitle": "Simplifies the work with Bluetooth SMART devices (a.k.a. Bluetooth Low Energy in Bluetooth 4.0).",
-        "link": "https://github.com/movisens/SmartGattLib",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#chat-&-messaging",
-    "title": "Chat & Messaging",
-    "links": [
-      {
-        "title": "Applozic Android Chat SDK",
-        "subtitle": "Android Chat and Messaging SDK for adding real time chat and in-app messaging into your android application.",
-        "link": "https://github.com/AppLozic/Applozic-Android-SDK",
-        "level": 0
-      },
-      {
-        "title": "Qiscus SDK",
-        "subtitle": "Qiscus SDK is a lightweight and powerful android chat library. Qiscus SDK will allow you to easily integrating Qiscus engine with your apps to make cool chatting application.",
-        "link": "https://github.com/qiscus/qiscus-sdk-android",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#custom-dialog",
-    "title": "Custom Dialog",
-    "links": [
-      {
-        "title": "MediaRecorderDialog",
-        "subtitle": "Custom Dialog to record audio, store it and play it in your phone.",
-        "link": "https://github.com/alhazmy13/MediaRecorderDialog",
-        "level": 0
-      },
-      {
-        "title": "HijriDatePicker",
-        "subtitle": "offers a hijri (Islamic Calendar) Date Picker designed on Google’s Material Design Principals For Pickers.",
-        "link": "https://github.com/alhazmy13/HijriDatePicker",
-        "level": 0
-      },
-      {
-        "title": "Noty",
-        "subtitle": "A simple library for creating animated alerts/dialogs/warnings.",
-        "link": "https://github.com/emre1512/Noty",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#version-checking",
-    "title": "Version Checking",
-    "links": [
-      {
-        "title": "AppUpdater",
-        "subtitle": "comprehensive and feature rich library, including support for checks at Amazon and FDroid.",
-        "link": "https://github.com/javiersantos/AppUpdater",
-        "level": 0
-      },
-      {
-        "title": "Gandalf",
-        "subtitle": "comprehensive features and a “companion” iOS solution.",
-        "link": "https://github.com/btkelly/gandalf",
-        "level": 0
-      },
-      {
-        "title": "Siren",
-        "subtitle": "focused feature set that mimicks the popular iOS library of the same name. Supports Play and Amazon.",
-        "link": "https://github.com/eggheadgames/Siren",
-        "level": 0
-      },
-      {
-        "title": "Fit",
-        "subtitle": "version checking callback framework with no UI.",
-        "link": "https://github.com/KeithYokoma/Fit",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#date-&-time",
-    "title": "Date & Time",
-    "links": [
-      {
-        "title": "ThreeTen Android Backport",
-        "subtitle": "An adaptation of the JSR-310 backport for Android.",
-        "link": "https://github.com/JakeWharton/ThreeTenABP",
-        "level": 0
-      },
-      {
-        "title": "Joda-Time Android",
-        "subtitle": "Joda-Time library with Android specialization.",
-        "link": "https://github.com/dlew/joda-time-android",
-        "level": 0
-      },
-      {
-        "title": "True Time",
-        "subtitle": "Android NTP time library. Get the true current time impervious to device clock time changes.",
-        "link": "https://github.com/instacart/truetime-android",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#runtime-permissions",
-    "title": "Runtime Permissions",
-    "links": [
-      {
-        "title": "Permission Dispatcher",
-        "subtitle": "Simple annotation-based API to handle runtime permissions.",
-        "link": "https://github.com/permissions-dispatcher/PermissionsDispatcher",
-        "level": 0
-      },
-      {
-        "title": "RxPermissions",
-        "subtitle": "Android runtime permissions powered by RxJava.",
-        "link": "https://github.com/tbruyelle/RxPermissions",
-        "level": 0
-      },
-      {
-        "title": "NoPermission",
-        "subtitle": "Simple Android library for permissions request. Consists of only one class.",
-        "link": "https://github.com/NoNews/NoPermission",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#other",
-    "title": "Other",
-    "links": [
-      {
-        "title": "Android Support library",
-        "subtitle": "The Android Support Library package is a set of code libraries that provide backward-compatible versions of Android framework API.",
-        "link": "https://developer.android.com/topic/libraries/support-library/index.html",
-        "level": 0
-      },
-      {
-        "title": "Google Play Services",
-        "subtitle": "Library to access Google services, such as account syncing, Google+ (sharing, single sign-on), Google Maps, Location APIs, Google Play Games, Cloud Messaging, Android Device Manager, and others.",
-        "link": "https://developers.google.com/android/guides/overview",
-        "level": 0
-      },
-      {
-        "title": "Tape",
-        "subtitle": "A lightning fast, transactional, file-based FIFO for Android and Java.",
-        "link": "https://github.com/square/tape",
-        "level": 0
-      },
-      {
-        "title": "Guava: Google Core Libraries for Java",
-        "subtitle": "Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.",
-        "link": "https://github.com/google/guava",
-        "level": 0
-      },
-      {
-        "title": "Android Scripting",
-        "subtitle": "Allows to run scripting languages on Android.",
-        "link": "https://github.com/damonkohler/sl4a",
-        "level": 0
-      },
-      {
-        "title": "Android Priority Job Queue",
-        "subtitle": "Implementation of a Job Queue to easily schedule jobs (tasks) that run in the background, improving UX and application stability.",
-        "link": "https://github.com/path/android-priority-jobqueue",
-        "level": 0
-      },
-      {
-        "title": "RateMeMaybe",
-        "subtitle": "Asks the user if (s)he wants to open the Play Store to rate your application.",
-        "link": "https://github.com/nspo/RateMeMaybe",
-        "level": 0
-      },
-      {
-        "title": "Easy Rating Dialog",
-        "subtitle": "Lib provides a simple way to display an alert dialog for rating app.",
-        "link": "https://github.com/fernandodev/easy-rating-dialog",
-        "level": 0
-      },
-      {
-        "title": "ZXing Android-Integration",
-        "subtitle": "Integration with Barcode Scanner via Intent.",
-        "link": "https://github.com/zxing/zxing",
-        "level": 0
-      },
-      {
-        "title": "Gradle Retrolambda Plugin",
-        "subtitle": "Java 8 Lambdas on Android!",
-        "link": "https://github.com/evant/gradle-retrolambda",
-        "level": 0
-      },
-      {
-        "title": "RxJava",
-        "subtitle": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.",
-        "link": "https://github.com/ReactiveX/RxJava",
-        "level": 0
-      },
-      {
-        "title": "RxBinding",
-        "subtitle": "RxBinding – RxJava binding APIs for Android UI widgets from the platform and support libraries.",
-        "link": "https://github.com/JakeWharton/RxBinding",
-        "level": 0
-      },
-      {
-        "title": "Caffeine",
-        "subtitle": "A collection of utility classes that help make Android development faster.",
-        "link": "https://github.com/percolate/caffeine",
-        "level": 0
-      },
-      {
-        "title": "AboutLibraries",
-        "subtitle": "Automatically generates an About this app section, with a list of used libraries.",
-        "link": "https://github.com/mikepenz/AboutLibraries",
-        "level": 0
-      },
-      {
-        "title": "AudioPlayerView",
-        "subtitle": "A view that loads audio from an url and have basic playback tools.",
-        "link": "https://github.com/HugoMatilla/AudioPlayerView",
-        "level": 0
-      },
-      {
-        "title": "andle",
-        "subtitle": "command line tool help you sync dependencies, sdk or build tool version.",
-        "link": "https://github.com/Jintin/andle",
-        "level": 0
-      },
-      {
-        "title": "Typography",
-        "subtitle": "An Android library that makes it easy to use custom fonts in views.",
-        "link": "https://github.com/workarounds/typography",
-        "level": 0
-      },
-      {
-        "title": "Calligraphy",
-        "subtitle": "Custom fonts in Android an OK way.",
-        "link": "https://github.com/chrisjenx/Calligraphy",
-        "level": 0
-      },
-      {
-        "title": "transai",
-        "subtitle": "command line tool help you manage localization string files.",
-        "link": "https://github.com/Jintin/transai",
-        "level": 0
-      },
-      {
-        "title": "Android-Link-Preview",
-        "subtitle": "It makes a preview from an url, grabbing all the information such as title, relevant texts and images.",
-        "link": "https://github.com/LeonardoCardoso/Android-Link-Preview",
-        "level": 0
-      },
-      {
-        "title": "Sensey",
-        "subtitle": "Detecting gestures in a snap.",
-        "link": "https://github.com/nisrulz/sensey",
-        "level": 0
-      },
-      {
-        "title": "UserAwareVideoView",
-        "subtitle": "A customized video view that will automatically pause video is user is not looking at device screen!",
-        "link": "https://github.com/kevalpatel2106/UserAwareVideoView",
-        "level": 0
-      },
-      {
-        "title": "Flexbox Layout",
-        "subtitle": "FlexboxLayout is a library which brings the similar capabilities of CSS Flexible Box Layout Module to Android.",
-        "link": "https://github.com/google/flexbox-layout",
-        "level": 0
-      },
-      {
-        "title": "Agile Boiler Plate",
-        "subtitle": "The boiler plate is based on MVP architecture and it is fully based on Dependency Injection design pattern using Dagger2.",
-        "link": "https://github.com/xresco/Android-Agile-Boiler-Plate",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#resources",
-    "title": "Resources",
-    "links": [
-      {
-        "title": "Vogella Tutorials",
-        "subtitle": "Very good tutorials by Lars Vogel.",
-        "link": "http://www.vogella.com/tutorials/android.html",
-        "level": 0
-      },
-      {
-        "title": "Android Design in Action Video series",
-        "subtitle": "The video series by Android Design Team of Google.",
-        "link": "https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF",
-        "level": 0
-      },
-      {
-        "title": "Android Design in Action slides",
-        "subtitle": "The application that gives you access to the slides of the video series.",
-        "link": "https://play.google.com/store/apps/details?id=com.astuetz.android.adia&feature=md",
-        "level": 0
-      },
-      {
-        "title": "Android DevBytes Video Series",
-        "subtitle": "It is the technical counterpart of Android Design in Action series.",
-        "link": "https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_XOgcRukSoKKjewFJZrKV0",
-        "level": 0
-      },
-      {
-        "title": "Developing for Android",
-        "subtitle": "A series of articles from Googler Chet Hasae and others, answering most commonly asked question: “What are some of the important rules to keep in mind when developing Android applications?”.",
-        "link": "https://medium.com/google-developers/developing-for-android-introduction-5345b451567c",
-        "level": 0
-      },
-      {
-        "title": "Android Hive Tutorials",
-        "subtitle": "Very good tutorials for beginners.",
-        "link": "https://www.androidhive.info",
-        "level": 0
-      },
-      {
-        "title": "Android Weekly",
-        "subtitle": "Newsletter with weekly information about android.",
-        "link": "http://androidweekly.net",
-        "level": 0
-      },
-      {
-        "title": "Android Asset Studio",
-        "subtitle": "Generator for icons and other assets.",
-        "link": "http://romannurik.github.io/AndroidAssetStudio/",
-        "level": 0
-      },
-      {
-        "title": "Android Action Bar Style Generator",
-        "subtitle": ".",
-        "link": "http://jgilfelt.github.io/android-actionbarstylegenerator/",
-        "level": 0
-      },
-      {
-        "title": "Device Art Generator",
-        "subtitle": "Wraps app screenshots in real device artwork.",
-        "link": "https://developer.android.com/distribute/marketing-tools/device-art-generator.html",
-        "level": 0
-      },
-      {
-        "title": "Android UI design resources",
-        "subtitle": "Gives you wide variety of design resources form a Google Developer Expert in UI/UX.",
-        "link": "https://androiduiux.com/free-design-resources/",
-        "level": 0
-      },
-      {
-        "title": "Pencil Project",
-        "subtitle": "An open source prototyping software.",
-        "link": "http://pencil.evolus.vn/",
-        "level": 0
-      },
-      {
-        "title": "Google Wear App",
-        "subtitle": "This is an open source Google Wear App that uses speech recognition to calculate a tip.",
-        "link": "https://github.com/mbcrump/FirstGoogleWearableApp",
-        "level": 0
-      },
-      {
-        "title": "How to Make Android Apps",
-        "subtitle": "Video tutorials by Derek Banas.",
-        "link": "https://www.youtube.com/playlist?list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh",
-        "level": 0
-      },
-      {
-        "title": "android-blogs",
-        "subtitle": "List with blogs about Android.",
-        "link": "https://github.com/vbauer/android-blogs",
-        "level": 0
-      },
-      {
-        "title": "Future Studio",
-        "subtitle": "Extensive Android tutorials on Retrofit, Picasso, Glide & Gson.",
-        "link": "https://futurestud.io/tutorials/tag/android",
-        "level": 0
-      },
-      {
-        "title": "Android Tips & Tricks",
-        "subtitle": "Cheatsheet about tips and tricks for Android Development.",
-        "link": "https://github.com/nisrulz/android-tips-tricks",
-        "level": 0
-      },
-      {
-        "title": "Droid Talks",
-        "subtitle": "Awesome Android talks and learning resources, categorised by topic.",
-        "link": "http://www.droidtalks.pro/",
-        "level": 0
-      },
-      {
-        "title": "Associate Android Developer Certification Materials",
-        "subtitle": "A collection of materials for getting ready for the test.",
-        "link": "https://github.com/Amejia481/Associate-Android-Developer-Certification",
-        "level": 0
-      },
-      {
-        "title": "Google Developers Training",
-        "subtitle": "Google Developers Official Training page has list of various useful learning resources for beginner as well seasoned developer.",
-        "link": "https://developers.google.com/training/android/",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#podcast",
-    "title": "Podcast",
-    "links": [
-      {
-        "title": "Fragmented",
-        "subtitle": "is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.",
-        "link": "http://fragmentedpodcast.com/",
-        "level": 0
-      },
-      {
-        "title": "Android Developers Backstage",
-        "subtitle": "is a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.",
-        "link": "http://androidbackstage.blogspot.com/",
-        "level": 0
-      },
-      {
-        "title": "Android Dialogs",
-        "subtitle": "is a video based podcast, where they have bite-sized conversations with people from the Android community.",
-        "link": "https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed",
-        "level": 0
-      },
-      {
-        "title": "Android Intelligence",
-        "subtitle": "features in-depth interviews with interesting people from the Android world.",
-        "link": "https://plus.google.com/collection/ATg6b",
-        "level": 0
-      },
-      {
-        "title": "The Context",
-        "subtitle": "a podcast about Android Development with Hannes Dorfmann, Artem Zinnatullin and wonderful guests!",
-        "link": "https://github.com/artem-zinnatullin/TheContext-Podcast",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#more-lists-of-libraries",
-    "title": "More lists of libraries",
-    "links": [
-      {
-        "title": "The Android Arsenal",
-        "subtitle": "Large list of android libraries",
-        "link": "https://android-arsenal.com/",
-        "level": 0
-      },
-      {
-        "title": "Square libraries",
-        "subtitle": "Multiple high quality libraries by square.",
-        "link": "http://square.github.io/#android",
-        "level": 0
-      },
-      {
-        "title": "Awesome Android @LibHunt",
-        "subtitle": "Your go-to Android Toolbox.",
-        "link": "https://android.libhunt.com",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#development-alternatives",
-    "title": "Development Alternatives",
-    "links": [
-      {
-        "title": "My personal recommendation is (for now) to use the android api to build a native app. Scala can help to build this native apps with cleaner code but it adds to many methods (Multidex required). Kotlin is a modern language with 100% interoperatibility with java projects ",
-        "subtitle": "without multidex",
-        "link": "",
-        "level": -2
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#c&#35;",
-    "title": "C&#35;",
-    "links": [
-      {
-        "title": "Xamarin",
-        "subtitle": "Framework to create native iOS, Android, Mac and Windows apps in C#.",
-        "link": "https://www.xamarin.com/",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#html,-css-and-javascript",
-    "title": "HTML, CSS and Javascript",
-    "links": [
-      {
-        "title": "PhoneGap",
-        "subtitle": "Open source framework by Adobe to create cross platform mobile apps using HTML, CSS, and JavaScript.",
-        "link": "https://phonegap.com",
-        "level": 0
-      },
-      {
-        "title": "Titanium",
-        "subtitle": "Open-source framework to create ‘native’ cross platform apps using JavaScript.",
-        "link": "http://www.appcelerator.com/mobile-app-development-products/",
-        "level": 0
-      },
-      {
-        "title": "NativeScript",
-        "subtitle": "An open-source framework to build native iOS and Android apps with JavaScript from a single code base.",
-        "link": "https://www.nativescript.org/",
-        "level": 0
-      },
-      {
-        "title": "React Native",
-        "subtitle": "A framework for building native apps with React by Facebook.",
-        "link": "https://github.com/facebook/react-native",
-        "level": 0
-      },
-      {
-        "title": "Ionic Framework",
-        "subtitle": "A framework to build hybrid apps with mobile-optimized HTML, CSS and JS with AngularJS.",
-        "link": "http://ionicframework.com",
-        "level": 0
-      },
-      {
-        "title": "Apache Cordova",
-        "subtitle": "Cordova based applications are, at the core, applications written with web technology: HTML, CSS and JavaScript.",
-        "link": "https://github.com/apache/cordova-android",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#lua",
-    "title": "Lua",
-    "links": [
-      {
-        "title": "Corona SDK",
-        "subtitle": "Framework to create native iOS and Android Apps (especially Games).",
-        "link": "https://coronalabs.com/product/",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#scala",
-    "title": "Scala",
-    "links": [
-      {
-        "title": "Scaloid",
-        "subtitle": "Library for less painful Android development with Scala.",
-        "link": "https://github.com/pocorall/scaloid",
-        "level": 0
-      },
-      {
-        "title": "Macroid",
-        "subtitle": "A modular functional UI language for Android.",
-        "link": "https://github.com/47deg/macroid",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#groovy",
-    "title": "Groovy",
-    "links": [
-      {
-        "title": "Groovy on Android",
-        "subtitle": "Introduction to Groovy on Android.",
-        "link": "http://melix.github.io/blog/2014/06/grooid.html",
-        "level": 0
-      },
-      {
-        "title": "Groovy Language Support for Android",
-        "subtitle": "Gradle Plugin for Compiling Groovy for Android.",
-        "link": "https://github.com/groovy/groovy-android-gradle-plugin",
-        "level": 0
-      },
-      {
-        "title": "SwissKnife",
-        "subtitle": "A multi-purpose Groovy library containing view injection and threading for Android using annotations.",
-        "link": "https://github.com/Arasthel/SwissKnife",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#kotlin",
-    "title": "Kotlin",
-    "links": [
-      {
-        "title": "Anko",
-        "subtitle": "DSL for Android written in Kotlin by JetBrains.",
-        "link": "https://github.com/Kotlin/anko",
-        "level": 0
-      },
-      {
-        "title": "Kotterknife",
-        "subtitle": "Android view injection written in Kotlin based on ButterKnife",
-        "link": "https://github.com/JakeWharton/kotterknife",
-        "level": 0
-      },
-      {
-        "title": "Android Kotlin Samples",
-        "subtitle": "Some basic Android code samples written in Kotlin.",
-        "link": "https://github.com/irontec/android-kotlin-samples",
-        "level": 0
-      },
-      {
-        "title": "KAndroid",
-        "subtitle": "Lightweight library providing useful extensions to eliminate boilerplate code in Android SDK.",
-        "link": "https://github.com/pawegio/KAndroid",
-        "level": 0
-      },
-      {
-        "title": "RxKotlin/Pocket",
-        "subtitle": "This app help user to save links easily, and can export to Evernote as weekly.",
-        "link": "https://github.com/RxKotlin/Pocket",
-        "level": 0
-      }
-    ]
-  },
-  {
-    "id": "JStumpp_awesome-android#contributing",
-    "title": "Contributing",
-    "links": []
   }
 ]

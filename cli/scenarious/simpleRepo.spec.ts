@@ -29,7 +29,7 @@ describe('Parsing a sample from Awesome List', () => {
     sections = parseFromMd(rootMd, root.id);
   });
 
-  xit('should match snapshot', function () {
+  it('should be matched to a snapshot', function () {
     expect(sections).toMatchSnapshot();
   });
 
